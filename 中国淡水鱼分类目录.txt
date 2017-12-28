@@ -1,0 +1,433 @@
+界：
+动物界
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲟形目Acipenseriformes
+鲟科
+鲟属
+鳇属
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鳗鲡目Anguilliformes
+鳗鲡科
+鳗鲡属
+
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲤形目Cypriniformes
+科：
+鲤科Cyprinidae
+棒花鱼属 Abbottina
+欧鳊属 Abramis
+刺鮈属 Acanthogobio
+鱊属 Acheilognathus
+光唇鱼属 Acrossocheilus
+白鱼属 Anabarilius
+近红鲌属 Ancherythroculter
+细鲫属 Aphyocypris
+鳙属 Aristichthys
+异鲴属 Aspidoparia
+扁吻鱼属 Aspiorhynchus
+赤梢鱼属 Aspius
+黑线?属 Atrilinea
+四须鲃属 Barbodes
+低线鱲属 Barilius
+似䱻属 Belligobio
+须鱲属 Candidia
+须鲫属 Carassioides
+鲫属 Carassius
+黄河鱼属 Chuanchia
+鲮属 Cirrhinus
+铜鱼属 Coreius
+方口鲃属 Costnochilus
+缨鱼属 Crossocheilus
+草鱼属 Ctenopharyngodon
+鲌属 Culter
+原鲌属 Cultrichthys
+圆唇鱼属 Cyclocheilichthys
+鱼丹属 Danio
+重唇鱼属 Diptychus
+盘口鲮属 Discocheilus
+盘鮈属 Discogobio
+圆吻鲴属 Distoechodon
+角鱼属 Epalzeorhynchos
+雀鳝属 Gars
+颌须鮈属 Gnathopogon
+鮈属 Gobio
+鳅鱿鮀属 Gobiobotia
+鮈鲫属 Gobiocypris
+裸鲤属 Gymnocypris
+裸重唇鱼属 Gymnodaptychus
+海南?属 Hainania
+裂峡鲃属 Hampala
+䱻属 Hemibarbus
+鰶属 Hemiculter
+半鰶属 Hemiculterella
+单吻鱼属 Henicorhynchus
+胡鮈属 Huigobio
+鲢属 Hypophthalmichthys
+野鲮属 Labeo
+长背鲮属 Labiobarbus
+平口鮈属 Ladislavia
+雅罗鱼属 Leuciscus
+舌唇鱼属 Lobocheilus
+似鳡属 Luciocyprinus
+大鳍鱼属 Macrochirichthys
+鲂属 Megalobrama
+中鮈属 Mesogobio
+小鳔鮈属 Microphysogobio
+青鱼属 Mylopharyngodon
+长臀鲃属 Mystacoleucus
+拟细鲫属 Nicholsicypris
+白甲鱼属 Onychostonua
+马口鱼属 Opsariichthys
+纹唇鱼属 Osteochilus
+尖裸鲤属 Oxygymnocypris
+鳊属 Parabramis
+似刺鳊鮈属 Paracanthobrama
+副鱊属 Paracheiloguathus
+罗碧鱼属 Paralaubuca
+似白鮈属 Paraleucogobio
+异华鲮属 Parasinilabeo
+袋唇鱼属 Paraspinibarbus
+异鱲属 Parazacco
+鲈鲤属 Percocypris
+鱥属 Phoxinus
+盆唇鱼属 Placocheilus
+扁咽齿鱼属 Platypharodon
+片唇鮈属 Platysmacheilus
+须鳊属 Pogobrama
+原鲤属 Procypris
+拟赤梢鱼属 Pseudaspius
+似鳊属 Pseudobrama
+拟缨鱼属 Pseudocrossocheilus
+似鮈属 Pseudogobio
+泉水鱼属 Pseudogyrinocheilus
+拟鰶属 Pseudohemiculter
+飘鱼属 Pseudolaubuca
+麦穗鱼属 Pseudorasbora
+卷口鱼属 Ptychidio
+叶须鱼属 Ptychobarbus
+扁吻鮈属 Pungtungia
+鲃鲤属 Puntioplites
+小鲃属 Puntius
+长嘴鱲属 Raiamas
+波鱼属 Rasbora
+细鳊属 Rasborinus
+直口鲮属 Rectoris
+吻鮈属 Rhinogobio
+鳑鲏属 Rhodeus
+突吻鮈属 Rostrogobio
+拟鲤属 Rutilus
+鳈属 Sarcocheilichthys
+蛇鮈属 Saurogobio
+舟齿鱼属 Scaphiodonichthys
+裸裂尻鱼属 Schizopygopsis
+裂腹鱼属 Schizothorax
+唇鲮属 Semilabeo
+短吻鱼属 Sikukia
+华鳊属 Sinibrama
+华鲮属 Sinilabeo
+华缨鱼属 Sinocrossocheilus
+金线鲃属 Sinocyclocheilus
+倒刺鲃属 Spinibarbus
+银鮈属 Squalidus
+赤眼鳟属 Squaliobarbus
+唐鱼属 Tanichthys
+丁鳜属 Tinca
+结鱼属 Tor
+似鮫属 Toxabramis
+三块鱼属 Tribolodon
+盲鲃属 Typhlobarbus
+似鲴属 Xenocyprioides
+鲴属 Xenocypris
+异缥鳅鮀属 Xenophysogobio
+瑶山鲤属 Yaoshanicus
+异鱲属 Zacco
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲤形目Cypriniformes
+科：
+平鳍鳅科homalopteridae
+爬鳅属 Balitora
+原爬鳅属 Balitoropsis
+爬岩鳅属 Beaufortia
+缨口鳅属 Crossostoma
+间吸鳅属 Hemimyzon
+金沙鳅属 Jinshaia
+犁头鳅属 Lepturichthys
+拟平鳅属 Liniparhomaloptera
+Metahornaloptera
+似原吸鳅属 Paraprotomyzon
+近腹吸鳅属 Plesiomyzon
+原吸鳅属 Protomyzon
+拟腹吸鳅属 Pseudogastromyzon
+华吸鳅属 Sinogastromyzon
+华平鳅属 Sinohomaloptera
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+塘鳢科Eleotridae
+乌塘鳢属 Bostrychus
+嵴塘鳢属 Butis
+塘鳢属 Eleotris
+黄黝鱼属 Hypseleotris
+蛇塘鳢属 Ophieleotris
+头孔塘鳢属 Ophiocara
+尖塘鳢属 Oxyeleotris
+细齿塘鳢属 Philypnus
+
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+虾虎鱼科Gobiidae
+刺虾虎鱼属 Acanthogobius
+细棘虾虎鱼属 Acentrogobius
+钝尾虾虎鱼属 Amblychaeturichthys
+钝塘鳢属 Amblyeleotris
+钝虾虎鱼属 Amblygobius
+钝孔虾虎鱼属 Amblyotrypauchen
+缰虾虎鱼属 Amoya
+叉牙虾虎鱼属 Apocryptodon
+星塘鳢属 Asterropteryx
+软塘鳢属 Austrolethops
+阿胡虾虎鱼属 Awaous
+髯毛虾虎鱼属 Barbuligobius
+深虾虎鱼属 Bathygobius
+大弹涂鱼属 Boleophthalmus
+盲虾虎鱼属 Brachyamblyopus
+珊瑚虾虎鱼属 Bryaninops
+美虾虎鱼属 Callogobius
+裸头虾虎鱼属 Chaenogobius
+矛尾虾虎鱼属 Chaeturichthys
+项冠虾虎鱼属 Cristatogobius
+拟丝虾虎鱼属 Cryptocentroides
+丝虾虎鱼属 Cryptocentrus
+栉眼虾虎鱼属 Ctenogobiops
+栉孔虾虎鱼属 Ctenotrypauchen
+捷虾虎鱼属 Drombus
+伊氏虾虎鱼属 Egglestonichthys
+带虾虎鱼属 Eutaeniichthys
+矶塘鳢属 Eviota
+鹦虾虎鱼属 Exyrias
+蜂巢虾虎鱼属 Favonigobius
+瓣鼻虾虎鱼属 Flabelligobius
+纺锤虾虎鱼属 Fusigobius
+盖棘虾虎鱼属 Gladiogobius
+舌虾虎鱼属 Glossogobius
+颌鳞虾虎鱼属 Gnatholepis
+叶虾虎鱼属 Gobiodon
+髯虾虎鱼属 Gobiopsis
+鳍虾虎鱼属 Gobiopterus
+裸身虾虎鱼属 Gymnogobius
+粗棘虾虎鱼属 Hazeus
+半虾虎鱼属 Hemigobius
+异塘鳢属 Hetereleotris
+衔虾虎鱼属 Istigobius
+蝌蚪虾虎鱼属 Lophiogobius
+白背虾虎鱼属 Lotilia
+裸叶虾虎鱼属 Lubricogobius
+竿虾虎鱼属 Luciogobius
+巨颌虾虎鱼属 Mahidolia
+芒虾虎鱼属 Mangarinus
+鲻虾虎鱼属 Mugilogobius
+犁突虾虎鱼属 Myersina
+狼牙虾虎鱼属 Odontamblyopus
+寡鳞虾虎鱼属 Oligolepis
+刺盖虾虎鱼属 Oplopomus
+背眼虾虎鱼属 Oxuderces
+沟虾虎鱼属 Oxyurichthys
+矮虾虎鱼属 Pandaka
+点颊虾虎鱼属 Papillogobius
+拟矛尾虾虎鱼属 Parachaeturichthys
+副叶虾虎鱼属 Paragobiodon
+副平牙虾虎鱼属 Parapocryptes
+弹涂鱼属 Periophthalmus
+腹瓢虾虎鱼属 Pleurosicya
+多椎虾虎鱼属 Polyspondylogobius
+锯鳞虾虎鱼属 Priolepis
+拟平牙虾虎鱼属 Pseudapocryptes
+拟髯虾虎鱼属 Pseudogobiopsis
+拟虾虎鱼属 Pseudogobius
+高鳍虾虎鱼属 Pterogobius
+雷虾虎鱼属 Redigobius
+吻虾虎鱼属 Rhinogobius
+青弹涂鱼属 Scartelaos
+裂身虾虎鱼属 Schismatogobius
+瓢鳍虾虎鱼属 Sicyopterus
+瓢眼虾虎鱼属 Sicyopus
+狭虾虎鱼属 Stenogobius
+枝牙虾虎鱼属 Stiphodon
+鳗虾虎鱼属 Taenioides
+缟虾虎鱼属 Tridentiger
+磨塘鳢属 Trimma
+孔虾虎鱼属 Trypauchen
+凡塘鳢属 Valenciennea
+梵虾虎鱼属 Vanderhorstia
+裸颊虾虎鱼属 Yongeichthys
+
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+沙鳢科Kraemeriidae
+沙鳢属（柯氏鱼属）Kraemeria
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+沙塘鳢科Odontobutidae
+小黄黝鱼属 Micropercops
+新沙塘鳢属 Neodontobutis
+沙塘鳢属 Odontobutis
+鲈塘鳢属 Perccottus
+华黝鱼属 Sineleotris
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+鳍塘鳢科Ptereleotridae
+线塘鳢属 Nemateleotris
+窄颅塘鳢属 Oxymetopon
+舌塘鳢属 Parioglossus
+鳍塘鳢属 Ptereleotris
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲈形目Perciformes
+科：
+溪鳢科Rhyacichthyidae
+溪鳢属 Rhyacichthys
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲇形目Siluriformes
+科：
+鲿科Bagridae
+鮠属 Leiocassis
+鳠属 Mystus
+黄颡鱼属 Pelteobagrus
+拟鲿属 Pseudobagrus
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲇形目Siluriformes
+科：
+胡子鲇科Clariidae
+胡子鲇属 Clarias
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲇形目Siluriformes
+科：
+长臀鮠科Cranoglanididae
+长臀鮠属Cranoglanis
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲇形目Siluriformes
+科：
+鲇科Siluridae
+半鲇属 Hemisilurus
+缺鳍鲇属 Kryptopterus
+鲇属 Silurus
+叉尾鲇属 Wallago
+
+界：
+动物界
+门：
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲇形目Siluriformes
+科：
+鮡科Sisoridae
+魾属 Bagarius
+石爬鮡属 Euchiloglanis
+鰋属 Exostoma
+黑鮡属 Gagata
+凿齿鮡属 Glaridoglanis
+原鮡属 Glyptosternum
+纹胸鮡属 Glyptothorax
+异齿?属 Oreoglanis
+平唇鮡属 Parachiloglanis
+鮡属 Pareuchiloglanis
+褶鮡属 Pseudecheneis

@@ -1,0 +1,113 @@
+﻿安徽农业科学 Journal of Anhui Agri. Sci. 2010,38 (23) : 12488 -12490
+责任编辑李占东责任校对卢瑶
+大瑶山国家级自然保护区鱼类调查及多样性分析
+李红敬U，陈旻3
+(1.信阳师范学院生命科学院，河南信阳464000;2.暨南大学水生生物研究所，广东广州510632;3.广西省柳州市畜牧水产局，广西柳州545001)
+摘要[目的]了解大瑶山自然保护区的鱼类多样性组成。[方法]2008年7月〜2009年9月对大瑶山自然保护区进行鱼类资源调查。 [结果]大瑶山有鱼类37种，隶属4目13科31属，鲤科鱼类是最大类群。优势种为瑶山鲤、横纹南鳅和溪吻鰕虎鱼。鱼类群落以山区溪 流性小型鱼类为主，Margalef物种丰冨度为圣堂山〉罗香〉朴全〉香炉山〉林海山庄；Shannon-Wiener指数为圣堂山〉罗香〉朴全〉林 海山庄〉香炉山；Simpson指数为圣堂山〉朴全〉林海山庄〉罗香〉香炉山；Gini指数为香炉山〉罗香〉朴全〉林海山庄〉圣堂山。 [结论]为保护区的生物多样性保护提供基站资料。
+关键词鱼类资源；多样性；大瑶山自然保护区
+中图分类号S952.4	文献标识码A	文章编号0517 - 6611(2010)23 -12488 - 03
+Study on Fish Investigation and Diversity Analysis in Dayaoshan State Natural Reserve of Guangxi, China LI Hong-jing et al ( College of Life Scinece, Xinyang Normal University, Xinyang, Henan 464000)
+Abstract [ Objective] The aim was to investigate fish diversity in Dayaoshan State Natural Reserve of Guangxi, China. [ Method] The fish fauna in Dayaoshan Nature Reserve of Guangxi Province was surveyed from July 2008 to September 2009. [ Result ] A total of 37 species belonging to 31 genera in 13 families and 4 orders were identified. Most of them were found in brooks. And Cyprinids was the main component of this fish fauna. The dominant species were yaoshanicus arcus, striped loach and brook anout tiger fish. The small fish was the main in the fish community . The species richness was highest in Shengtangshan, then in Luoxiang, Puquan, Xianglushan and lowest in Linhaishanzhuang. The ordination pattern of Shannon-wiener index was Shengtangshan > Luoxiang > Puquan > Linhaishanzhuang > Xianglushan ； Simpson index were Shengtangshan > Puquan > Linhaishanzhuang > Luoxiang > Xianglushan ； The indices of species evenness Gini were Xianglushan > Luoxiang > Puquan > Linhaishanzhuang > Shengtangshan. [Conclusion] The study provided basic date for biodiversity conservation.
+Key words Fish resources； Diversity； Dayaoshan state natural reserve
+大瑶山自然保护区位于广西壮族自治区金秀瑶族自治 县境内，总面积24 907 hm2。随着人类经济活动的影响和生 态环境的变化，对保护区内的各种生物产生了影响。生物多 样性保护与持续利用是当今全球环境保护的热点之一，物种 多样性是生物多样性的基本层次，调查和研究物种多样性对 保护生物多样性具有重要意义。为了摸清大瑶山国家级自 然保护区内鱼类资源的现状，笔者于2008年7月〜2009年9 月对大瑶山国家级自然保护区进行生物多样性调查，对采集 到的鱼类标本整理并结合相关文献，研究了保护区的鱼类组 成、区系及多样性，为保护区的生物多样性保护提供基础资料。 1材料与方法
+1.1材料根据保护区地形、海拔等的不同，在保护区内选 取罗香、朴全、香炉山、圣堂山和林海山庄5个不同生境区域。
+1.2方法鱼类标本采集时，在较深的河段用电鱼工具，较 浅的河段用小捞网捕捞。野外采集到的鱼类标本先在现场 进行常规生物学测定和形态描述，然后将其浸入8%甲醛溶 液中;购得的鱼做同样处理。回到住地后，对当天采集的标 本进行整理，大个体的鱼在胸鳍腋部和背部注射5%甲醛溶 液。标本鉴定参考周解、朱松泉等[1_2]方法。
+1. 3 数据统计采用 Margalef 指数[3] [ Dma = (	-	1	)/
+ln^V]、Shannon-Wiener 指数[4] (/f’ = -	、Gini	指数[5]
+= U -	(1	-	1ZS	)]和 Simpson 指数[6] (D = 1 - I：
+尽2)分析鱼类群落的多样性。其中，#为群落中所有物种总 个体数J为物种数，尽为群落中第〖种个体数占总个体数的 比例。
+基金项目广州市农业科技项目（2008E08);国家自然科学基金项目 (30970555)〇
+作者简介李红敬（1967 -)，男，河南新野人，在站博士后，副教授，从 事鱼类生态学及资源调查研究。
+收稿日期2010-04-23
+2结果与分析
+2.1物种组成通过实地调查共采集到鱼类标本919号， 其中罗香、朴全、香炉山、圣堂山和林海山庄分别为179、145、 148、346和101号，经鉴定大瑶山国家级自然保护区共有鱼 类37种，隶属4目13科31属（表1)。其中瑶山鲤 fcw arcw)为优势种，共采集标本114尾，占总数的12.4% ; 其次溪吻鰕虎鱼（) 85尾，占总数的
+9.	25% ;马口鱼(Opsariichthys bidens)59 尾，占 6.42% ;条纹小
+鲍（s價) 49尾，占5. 33% ;侧条光唇鱼 (Amssoc/ieis	尾，占 3. 59% ;卿（CW孤
+加)47尾，占5. 11% ;横纹南鳅偷ra/^doZato)63尾，占 6. 85% ;方氏品唇鳅（福rowiyzoa	) 54 尾，占
+5. 87 % ;褐柿吻锻虎鱼（) 35 尾，占 3.81%。群落结构中，在圣堂山采集到的种类最多，有34 种，占总种数的91. 89% ;罗香采集到28种，占总种数的 75. 67% ;朴全采集到21种，占总种数的56. 76% ;香炉山采 集到19种，占总种数的51. 35% ;林海山庄采集到16种，占 总种数的43. 24%。
+2.2鱼类区系组成37种鱼类中，鲤形目种类最多，有22 种，占总种数的59. 46% ;其次是鲈形目和鲇形目，分别有7 种，占总种数的18. 91% ;最少的是合鳃目，仅有合鳃科的黄 鳝1种，占总种数的2.71%。在10个科中，鲤科鱼类为最大 的类群，共有18种，占总种数的48. 64 % ;其次为鳅科，有5 种，占总种数的13. 51% ;平鳍鳅科有4种，占总种数的
+10.	81% ;鳍科、鲇科、塘體科和鰕虎鱼科各2种，各占总种数 的5.41% ;合鳃鱼科、胡子鲇科、刺鳅科、脂科、斗鱼科和鳢科 都仅有1种，各占总种数的2. 71%。由此可知，鲤科鱼类是 大瑶山鱼类区系成分中最大的类群。我国鲤科鱼类12个亚 科中分布在大瑶山自然保护区的有5个亚科。其中，鈀亚科
+38卷23期
+李红敬等大瑶山国家级自然保护区鱼类调查及多样性分析
+12489
+表1大瑶山自然保护区鱼类名录及其分布 Table 1 Fish species and distribution in Dayaoshan Nature Reserve
+分布 Distribution
+W宅I Species	罗香 Luoxiang	朴全 Puquan	香炉山 Xianglu Mountain	圣堂山 Shentang Mountain	林海山庄 Linhai villa
+宽鳍M Zacco platypus	15	2	-	1	-
+马口鱼 Opsariichthys bidens	16	12	-	31	-
+瑶山煙 Kaos/iam'cws arc似	13	4	21	45	31
+唇鱼骨 Hemibarbus labeo	-	1	-	6	-
+花鱼骨 Hemibarbus maculates	-	5	-	3	-
+长体小螺鲍	4	-	4	5	-
+条纹小鳅 Puntius semifasciolata	12	12	23	1	1
+侧条光唇鱼如哪縦/iei/似Pam/Zem	2	—	5	4	21
+带半刺光唇鱼 似	1	7	-	9	-
+粗须白甲鱼 6ar6ato	2	—	1	3	-
+四须盘鲍 Discogobio tetrabarbatus	-	-	1	5	-
+东方墨头鱼Gamz orie7itofe	1	4	-	9	-
+^iP Carassius auratus	8	4	-	35	-
+'MMX Misgurnus anguillicaudatus	6	9	-	3	1
+美■小条鳅 licnmemac/ieiZits _pw/c/ier	6	-	7	-	2
+平头岭鳅 Oreonectes platycephalus	9	31	3	14	8
+横纹南鳅Sc/zi血ra/cwcfo/ato	12	-	29	21	1
+无斑南鳅Sc/zi对wra hcerto	24	6	-	7	-
+平舟原缪口鳅 VbzimazieTifa	1	7	-	9	3
+厚唇原吸鳅 Protomyzon pachyvhilus	1	-	4	17	4
+中华原吸鳅	3	—	2	1	6
+方氏品唇鳅乃 ewc/ogaMromyzozi /cmgi	-	2	13	24	15
+白边拟襟 Pseudobagrus albomarginatus	-	2	-	2	-
+斑獲Mjs加g戚a加	1	1	-	3	-
+越站 Silurus cochinchinemis	3	—	1	5	1
+f 占没Zwms asoias	—	—	1	-	-
+胡子站 C/ariasyksciw	-	-	-	1	-
+福建纹胸銳 /c»A:fen^ /c»A:fen^	-	1	-	4	-
+大朿!)鳅 arma如s	4	—	5	1	-
+Monopterus albus	1	5	-	3	-
+中国少鳞鱖 Coreoperca w/ziie/ieac^	11	5	1	7	-
+侧扁小黄勵鱼 Micropercops compressocephalus	3	-	-	11	1
+海南细齿塘體c/ia/meri	4	-	1	-	3
+溪吻锻虎鱼 Rhinogobius duospilus	13	2	25	43	2
+Rhinogobius brunneus	-	23	-	11	1
+叉尾斗鱼 Macropodus opercularis	1	-	-	1	-
+月鐵 Channa asiatica	2	-	1	1	-
+种类最多，有2属3种;其次是鱼丹亚科和鮑亚科，分别有3 属3种和2属3种;野鲮亚科有2属2种，|哑科有1属1种。 2.3鱼类多样性分析由表2可知，在保护区各样区的鱼 类群落中，各项多样性测度指标均有明显差异。圣堂山的物 种丰富度指数(/>_)、多样性指数(/T)和优势度指数(A)最 大，均匀度指数(勾）最小，林海山庄的物种丰富度最小，香炉 山的多样性指数(H')最小，香炉山的优势度指数最小。由此 可知，林海山庄的物种贫乏，香炉山的群落结构最不稳定;圣 堂山的物种最丰富，结构最稳定，但均勻性差。Margalef丰富 度指数圣堂山 > 罗香 > 朴全 > 香炉山 > 林海山庄;Shannon-Wiener指数圣堂山 > 罗香 > 朴全 > 林海山庄 >香炉山;Gini
+指数香炉山 > 罗香 > 朴全 > 林海山庄 >圣堂山；Simpson指 数圣堂山>朴全>林海山庄>罗香>香炉山。在记录到的 鱼类中，无论在种类和数量上都以喜生活于水体较清澈、水 面积较小、水流较急的小型山溪鱼类为主。调查中最多的是 瑶山趣、平头岭鳅（仏胃iccfcs	、条纹小絶、溪吻
+鰕虎鱼，在各个调查点均有分布;其次是侧条光唇、横纹南 鳅、平舟原缪口鳅（lia	胃wis )、厚唇原吸鳅
+(Protomyzon pachychilus)、中华原吸鳅（Protomyzon sinensis)、 方氏品唇鳅和越贴，在4个采样区域 有分布;贴（)仅在香炉山，胡子贴（CZarfas加-cm)仅在圣堂山采集到，其他区域未见分布。
+表2区域群落多样性比较 Table 2 The comparison of community diversity
+样区Region	物种数 Species	个体数 Individuals	Dma	H'	Jgi	A
+罗香 Luoxiang	21	179	3.957	0.718	1.025 827	0.001 902
+朴全Puquan	28	145	2.93	0.473 2	1.025 590	0.002 131
+香炉山 Xianglu Mountain	19	148	2.64	0.344 5	1.026 891	0.000 866
+圣堂山 Shentang Mountain	34	346	4.83	0. 899 4	1.024 852	0.002 850
+林海山庄Linhai villa	16	101	2.19	0.421 5	1.025 643	0.002 080
+12490
+安徽农业科学
+2010 年
+3结论与讨论
+(1)	该次调查采集的鱼类标本新增9种，但也有15种在 该次调查中未采到标本。记录在水系分布的鳗鲡、大眼黑线 餐、草鱼、越南鰌、厚唇光唇鱼、台湾白甲鱼、直口鲮、长吻鱼 骨、花棘鱼骨、麦穗鱼、黑鳍鲸、点纹银鮑、棒花鱼、福建小鳔 鮑、鲤、鲫、鳙、鲢、中华花鳅、石鳜、伍氏栉吻鰕虎鱼和瑶山栉 吻鰕虎鱼22种鱼类没有采到标本。估计这些鱼类在该地区 已经十分稀有或已濒临消失。在该次调查所采集到的鱼类 标本中，一些中小型鱼类渔获量占明显优势，如马口鱼、瑶山 鲤、平头岭鳅等。大瑶山鱼类多样性分析可知，圣堂山的物 种丰富度指数(/>_)、多样性指数(W)和优势度指数(A)最 大，均匀度指数)最小;林海山庄的物种丰富度最小，香炉 山的多样性指数(/T)最小，香炉山的优势度指数最小。圣堂 山溪流河段的物种数和多样性指数都远远超过其他采集点， 特点是人口密度较低，河流环境保存较佳，捕捞和集水区土 地利用强度相对其他调查点而言并不高。
+(2)	从调查结果看，大瑶山保护区的鱼类主要以鲤形目 鱼类为主，且多为山区小型鱼类。其鱼类组成特点的形成与 自然环境有关。流经保护区周边的古麦河、滴水河均为柳江 的上游支流，陡坡较多，水浅湍急，多石砾底质，因此，适应于 此山涧小河环境，多为游泳迅速的小型鱼类或具吸附能力的 鱼类。大瑶山境内有不少特有鱼类，如瑶山鲤、带半刺光唇 鱼、厚唇原吸鳅和中华原吸鳅等。由于大瑶山处于边远地 区，当地渔政部门对鱼类资源保护很难采取有效手段，对鱼 类资源的破坏性极大。因此，管理不到位和有害的渔具、渔
+(上接第1M87页）
+[10]	SHUGAR D. Measurement of lysozyme activity and the ultraviolet inactivation of lysozyme [ J ]. Biochemic and Biophysical Research Communications,^^： 302-308.
+[11]	GREGORY D,MANIER0 C C. Changes in selected aspects of immune function in the leopard ho^,Rana pipiens associated with exposure to cold [J]. Journal of Comparative Physiology B, 1997,167 ：256 -263.
+[12]	GORDON S,T0DD J,C0HN Z A. In vitro synthesis and secretion of lyso-
+zyme by mononuclear phagocytes [ J ]. Journal of Experimental Medicine, 1974,139：1228 -1248.
+[13]	KODAMA H,HIR0TA Y,MUKAM0T0 M,et al. Activation of rainbow trout ( Oncorhynchus mykiss ) phagocytes by muramyl dipeptide [ J ]. Developmental and Comparative Immunology, 1993,17 ： 129 -140.
+[14]	LAMAS J,ELLIS A E. Electron microscopic observations of the phagocytosis and subsequent fate of Aeromonas salmordcida by Atlantic salmon neutrophils in vitro [ J]. Fish & Shellfish Immunology ,1994,4：539 -546.
+[15]	MUNOZ P,ALVAREZ-PELLITERO P, SITJA-BOBADILLA A. Modulation of the in vitro activity of European sea bass (Dicentrarchus labrax L. ) phagocytes by the myxosporean parasite Sphaerospora dicentrarchi (Myxosporea ： Bivalvulida ) [ J ]. Fish & Shellfish Immunology, 2000,10 ：
+法可能是造成当地鱼类资源下降的主要原因。
+(3)大瑶山缺少大型水体(如大江大河、水库、湖泊等）， 多数河段河水流量较小，水较浅，流速较快。生活在这种环 境中的多数鱼类为适应于山区溪流生活的种类，有一定经济 价值的鱼类有泥鳅、马口鱼、黄鳝、南方白甲鱼、月鳢等。随 着大瑶山旅游产业的发展，游客进一步增多，面临的环境压 力进一步加大。为了加强鱼类资源的保护和恢复，提出以下 保护建议:①加强宣传和管理力度，使保护区周边群众转变 和放弃掠夺式以及电鱼、炸鱼、毒鱼等不良的捕捞方式，是减 少人为因素对鱼类资源破坏的有效措施。②防止人为或自 然因素造成水文条件的改变引起繁殖生态生境的破坏。③ 建设生态旅游线路，增加经济收入。大瑶山自然保护区内居 住的群众较少，多以种植业为主，生产和经济都不发达，加之 交通不便，所以生活水平不高。因此有必要充分利用大瑶山 自然保护区的秀丽风景，建立旅游景点和食宿点等，逐渐建 设成生态旅游、实习和科考基地，增加保护区群众的经济收 入，以有利于保护事业发展。
+参考文献
+[1]	周解，张春光.广西淡水鱼类志[M].南宁:广西人民出版社，2005.
+[2]	朱松泉.中国淡水鱼类系统检索[M].南京:江苏科学技术出版社， 1995.
+[3]	MAGURRAN A E. Ecological diversity and its measurement[M]. London： Cambridge University Press, 1988.
+[4]	PEET R K. The measurement of species diversity [J]. Annual Review of E-oology and Systematics, 1974,5 ：285 - 307.
+[5]	KEVALSETH T 0. Note on biological diversity,evenness,and homogeneity measures [ J ]. Oikos, 1991,62 ： 123 -127.
+[6 ] SIMPSON E H. Measurement of diversity [ J ]. Nature, 1949,163 ：688.
+567 - 581.
+[16]	SOLEM S T,JORGENSEN J B,ROBERTSEN B. Stimulation of respiratory burst and phagocytic activity in Atlantic salmon (5a/mo salar L. ) macrophages by lipopolysaccharide [J].Fish & Shellfish Immunology, 1995,5： 475 - 491.
+[17]	MORGON A L,THOMPSON K D,AUCfflNACHIE N A,et al. The effect of seasonality on normal haematological and innate immune parameters of rainbow trout Oncorhynchus mykiss L. [ J ]. Fish & Shellfish Immunology, 2008,25：791 -799.
+[18]	ZAPATA A G, VARAS A,T0RR0BA M. Seasonal variations in the immune system of lower vertebrates [ J ]. Immunology Today, 1992,13 ： 142 -147.
+[19 ]李亚男，王冀平，邵健忠，等.鱼类免疫应答中的温度效应研究[J ].浙 江大学学报:理工版，1999,26(3):87 - 91.
+[20] RAFFLE T R,R0HR J R,KIESECKER J M,et al. Negative effects of changing temperature on amphibian immunity under field conditions [ J ]. Functional Ecology ,2006,20 ：819 - 828.
+[21 ]姜令绪.环境因子对甲壳动物免疫力和抗氧化酶活力的影响[D].青 岛:中国海洋大学，2004.

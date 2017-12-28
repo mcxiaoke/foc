@@ -1,0 +1,310 @@
+﻿动物学杂志	JotxmaZ	(/ZooZogy	2011，46(2) :1 〜11
+东江下游惠州河段鱼类群落组成变化特征
+刘毅林小涛*孙军张鹏飞陈国柱
+暨南大学水生生物研究所热带亚热带水生态工程教育部工程研究中心广州510632
+摘要:2007〜2010年先后5次对东江下游惠州（剑潭)河段鱼类群落进行调查，共采集到鱼类69种，分属 于8目20科58属，主要以鲍科（39种）、鳄科（7种）、鳅科（5种）为主。鑛（Cin7ii〃a moZitore.)、
+(/ezxckczxZiw )、健（ca/pio )、赤眼蹲（CMrrictiZtis )为该河段优势种。除食蚊 鱼(Gambia妨―)外，在该河段新米到4种外来鱼类，分别为罗非鱼（77kpia sp.)、露斯塔野鲮(La6eo ro/iito)、麦瑞加拉鑛（Cin7ii〃a mrigaZa)和下口站（)。与 20 世纪 80 年代调查资料 相比，目前东江下游惠州河段定居性、杂食性鱼类比例升高，洄游性、肉食性鱼类比例下降。通过个体生 态学矩阵Otecology matrix)分析，东江下游河段鱼类群落中肉食性、喜砂砾底质的底层急流鱼类受环境 变化影响程度较大。从Simpson指数、Shannon-Wiener指数、Pielou’ s均勻性指数、Margalef丰富度指数 及G-F指数看，剑潭坝上下游河段鱼类群落多样性已开始显现出差异性。大坝建设、水体污染、过度捕 捞等是影响东江下游段鱼类群落变动的重要因素。
+关键词:东江;剑潭坝;鱼类群落;多样性
+中图分类号:Q958文献标识码:A文章编号:0250-3263 (2011) 02-01 -11
+Fish Community Changes in Huizhou Segment of Dongjiang River
+LIU Yi LIN Xiao-Tao * SUN Jun ZHANG Peng-Fei CHEN Guo-Zhu
+Institute of Hydrobiology, Jinan University, Engineering Research Center of Tropical and Subtropical Aquatic Ecological Engineering, Ministry of Education, Guangzhou 510632, China
+Abstract ： Five surveys were carried on in Huizhou segment of Dongjiang River from 2007 to 2010. Total of 69 freshwater fish species belong to 8 orders, 20 families and 58 genera were collected, most of fishes belong to family Cyorinidae ( 39 species ) , Bagridae ( 7 ) and Cobitidae ( 5 ). Cirrhina molitorella, Hemiculter leucisculus，Cyprinus carpio and Squaliobarbus curriculus are dominated species in the lower reaches studied. Besides Gambusia affinis, four more exotic species including Tilapia sp. , Labeo rohita, Cirrhina mrigala, and Hypostomus plecostomus were newly recorded. Compared with the data collected in 1980s 5 , the proportion of sedentary and omnivore species increased, while migratory and carnivore species declined. The result by using autecology matrix analysis showed that carnivore fish species living at gravel bottom and in riffle at downstream decreased greatly. According to Simpson index, Shannon-Wiener index, Pielou’ s index, Margalef index and G-F index, the differences in fish community diversity in the up and down of Jiantan Dam was found. The important factors influencing the change of fish community in the lower reaches of the Dongjiang River might be the dam construction, water pollution, and excessive catching.
+Key words：The Dongjiang River； Jiantan Dam； Fish community； Diversity
+基金项目国家科技重大专项项目（No. 2009ZX07211-009)，暨南大学创新基金项目；
+* 通讯作者，E-mail: tlinxt@ jnu. edu. cn;
+第一作者介绍刘毅，男，硕士研究生;研究方向：鱼类生态学;E-mail:258372516@qq.c〇m。
+收稿日期:2010-10-18，修回日期:2010-12-27
+■ 2 ■
+动物学杂志 C/iinese /oii/Yia/ 〇/Zoology
+46卷
+东江是珠江水系的重要组成部分，发源于 江西省西南部寻乌县，由定南水和寻邬水汇合 后构成东江，干流全长约523 km，流经广东龙 川、河源、博罗、惠阳、东莞等地，并于东莞石龙 镇汇人珠江三角洲河网，流域面积约为27 040 km21"。域内以丘陵山地为主，地形复杂，总落 差高达440 m。为充分利用东江蕴藏的丰富氷 利资源，自20世纪50年代至今，东江先后建成 丨2座水电站，并有4座正在建设之中。一系列 水利工程的建成对河流生境及鱼类群落的影响 不容忽视12-31。在20世纪80年代初期，珠江 水产研究所等单位曾对东江鱼类资源进行过系 统调查，并对一些主要经济鱼类的生物学特征、 产卵场、渔场等进行了分析，如:鲫鱼（Carassk 于一年中均有IV期卵巢出现，全年可进 打生殖活动；草鱼（Ctenopharyngodon Idellus )的 产卵场在龙川县附近，繁殖活动集中在4月底 至6月初；在60年代，細鱼（reraua/osa reenesH ) 可溯河洄游，在新丰江形成渔场，从70年代开 始至今，东江已基本捕获不到细鱼m。近年来 关于东江鱼类群落的相关研究鲜有报道。2007
+年建成的惠州剑潭水利枢纽为目前东江出海前 最后一个水利枢纽。本研究选取剑潭坝上下游 作为研究区域，将坝上中信大桥虾村附近至坝 下潼湖河段约35 km河段定义为东江下游惠州 河段，并对该河段进行鱼类生态调查，以了解鱼 类群落组成变化及演替规律，旨在为评价东江 河流生态系统健康和鱼类生物多样性保护等提 供基础数据。
+1材料与方法
+1.1采样时间及地点2007年10月、2009年 12月及2010年1月、3月、6月先后对东江惠 州河段进行了5次采样调查。以剑潭坝为中轴 在坝上汝湖河段设5个采祥点，分别为虾村 (a)、中信大桥下游2 km处（b)、西枝江江口以 上1.5 km处（c)、惠州大桥附近（d )、惠州污水 处理厂排污口外河面（e);坝下罗阳河段设3 个采祥点，分别为坝下游1 km处（「)、博罗罗阳 镇下游（g)、潼湖（h)，坝上坝下共覆盖约35 km河段（图1 )。
+Fig. 1 Map of sampling locatiODs \n Huizbou segment of Dongjiang River
+♦为采样点Samp】彳ng site-
+刘毅等:东江下游惠州河段鱼类群落组成变化特征
+2期
+1.2采样方法与标本处理采样工具包括各
+种规格的三重流刺网和定置刺网（中间网衣网 目1.2〜6.0 cm),长度1〜3 m密眼定置网笼。 采样现场对较易辨别的鱼类鉴定至种，个别野 外较难辨别的种类活体拍照，用酒精固定后带 回实验室鉴定。对渔获物进行分类计数，测量 全长、体长和体重，各个鱼种选取2〜5尾标本 以95%酒精固定带回实验室保存备查。调查 期间，走访当地渔民及渔政部门，了解历史上和 近几年来鱼类捕捞及主要种类变更情况以供参 考。鱼的种类鉴定参考《广东淡水鱼类志》[4]、 《中国鱼类系统检索》[5]和《中国动物志》[6_7]。 1.3数据处理由于惠州河段鱼类历史记录 缺乏各物种个体数量等的定量数据[1，3]，为方 便比较，本文根据调查得到的物种名录采用G-F指数方法来评估该河段的鱼类多样性变 化[8_9];对本调查期间不同时空鱼类群落多样 性变化，则采用Simpson指数等作评价指标。
+F指数(DF)(科的多样性）计算式为
+m	m n
+=I>Fk = -尸i，其中尸i
+k = 1	k = 1 i — \
+、为名录中k科i属中的物种数，Sk为名录中 k科中的物种数，〃为k科中的属数，m为名录 中鱼类的科数。
+G指数（队）（属的多样性）计算式为：队
+=，其中 A 二*5/5，〜为
+y=i	y=i
+属中的物种数，S为名录中鱼类的物种数，尸为 名录中鱼类的属数。
+G-F 指数(Z)C_F)计算式为：Z)e_F = 1 - #。
+G-F指数是0〜1的测度，非单种的科越多，G-F 指数越局。
+Simpson指数（D)计算式为：D = 1 -，尺为群落中第i个种的个体数占所有 物种总个体数的比例。
+Shannon-Wiener 指数（7/')计算式为：/T
+=- ^^1〇§2尺为群落中第i个种的个体 数占所有物种总个体数的比例。
+Pielou’s均匀性指数（五）计算式为：五=
+^表亦多样性，i^max为最大多样 Hmax l〇g2^
+性，S为样品中的种类总数。
+Margalef丰富度指数（D)计算式为：D =
+，S为样品中的种类总数;7V为样品中的
+i〇g2yv
+生物个体总数。
+Jaccard’s相似性系数（/)计算式为：/ =
+^^:，式中a为样方A的物种数，6为样
+a + b -j
+方B的物种数，）为样方A和B中的共有种 数。当/为〇〜0.25时，为极不相似;0.25〜 0.50为中等不相似;0.50〜0.75为中等相似； 0.75〜1.00为极相似。
+鱼类个体生态学矩阵[1G] (i〇计算式为：穴
+=W，其中S为鱼类群落矩阵，S = W2
+ns
+&…彳••&] 3为鱼类生态矩阵，'为鱼类群 落种类数。鱼类个体生态学矩阵是将已收集到 的鱼类生态类型等特征按目的进行整理、筛选， 从而用来评价鱼类群落变化与环境之间关系的 指标，尺又可表7K为：及=A …尺m ]。及i为0〜1的重度，某种生态特征对应 的足值越高，说明具有此特征的鱼类受此相关 环境因子变化的影响越大。
+优势种的确定:把渔获当中个体数量或生 物量占总数的10%以上者定为优势种[11]。
+2结果与分析
+2.1鱼类群落组成及变化5次调查共采集
+测量鱼类标本2 229尾，分属于8目20科58 属，计鱼类69种（附录1 )，占20世纪80年代
+全东江调查记录鱼类种类数[3]的55. 2%。其 中，鲱形目1科1属1种，鲑形目1科1属1 种，鳗鲡目1科1属1种，鲤形目2科37属44 种，鲇形目5科7属10种，锵形目1科1属1 种，合鳃鱼目1科1属1种，鲈形目8科9属10 种。鲤形目是东江下游鱼类的主体，占种类总 数的63. 8%，其次是鲇形目和鲈形目，各占种 类总数的14.5%。鲤科鱼类种数最多，共39
+• 4 •
+动物学杂志 Chinese Journal of Zoology
+46卷
+种，占总种数的56. 5%，其次为鳑科7种 (10.1%)，鳅科5种（7.2%)。采到的5种外 来种分别为露斯塔野鲛ratoa)、麦瑞加
+拉懷（Cirrhina mrigala )、下口站（Hypostomus plecoslomus)、食蚊鱼（Gambusia affinis)、罗非鱼 (Tilapia sp. ) 〇
+本次调查与同河段20世纪80年代调查资
+副沙鳅（/asdato )等在本调查虽仍可 采到，但已较少分布。而那些喜缓流或静水、定 居性的杂食性鱼类，如鲤亚科及鳑鮍亚科等一 些鱼类无论从种类和数量来看都已成为该河段 鱼类群落的重要组成类群。
+2.2鱼类生态类型及变化将所采到的69种 鱼类按迁徙习性分为洄游性、半洄游性和定居
+料[3]相比，未米到的鱼类有17种（表1)，新发 现鱼类33种（附录1)。花 (Clupanodon 认士犯）、鋪鱼、三线舌爆（〇>710^(«而 trigrammus ) ^	( Tephrinectes sinensis ) ^ ^ ®
+东方鈍（ocelto )等洄游性鱼类已近绝 迹，但白肌银鱼（Leucosoma c/zi贈▲)、日本獲 隹1 (	y〇ponica )在剑潭项下尚可偶见；马
+0 鱼（Opsariichthjs bidens )、宽鑛(Zacco 等砾石底质的浅滩鱼类几近消失，马 口鱼本调查仅采得2尾，宽鳍未能采到;塘鳢 科和虾虎鱼科等小型凶猛肉食性鱼类的数量及 种类大为减少。本次调查新发现种类中露斯塔 野鲮、麦瑞加拉鲮、下口鲇、罗非鱼为外来鱼类， 罗非鱼渔获量较大，怀疑已形成稳定的自然种 群。其余新增种类大部分为鲤科和鳅科鱼类， 喜欢生活于开阔水体且底质类型为泥质的海南
+舶（CWer	)在坝上河段有较大渔获
+量，并已成为该河段重要经济鱼类之一。
+对历史资料有记载而本次调查未能采到的 n种鱼类，根据急流型、缓流型、肉食性、杂食 性、滤食性、口端位、口上位、底层、中上层、砂砾 底质、泥质底质11个生态学特征建立鱼类个体 生态学矩阵（autecology matrix)(表1)。计算得 到弋的最大值为肉食性0.71，其次是喜砂砾底 质、底层和口端位，均为0.65,再次是急流型 0.47。由此可推断惠州河段鱼类群落中，肉食 性、喜砂砾底质的底层急流鱼类，如虾虎鱼科、
+性3个类型;按食性分为滤食性、草食性、肉食 性、杂食性4个类型（图2)。从迁徙习性看，东 江下游鱼类群落组成无论个体数或生物量均以
+定居性鱼类为主，其次是半洄游性鱼类，洄游性 鱼类所占比例最低。定居性鱼类优势种有鲮
+(Cirrhinus molitorella)、键（Cyprinus carpio)、罗非 鱼、卿、（//emic心er	)等;半徊游性鱼
+类主要以链（motors )、缠
+(Aristichthys nobilis)、黄尾鳓(Xenocypris davidi)、 三角鲍（)、赤眼蹲 ()为主;徊游性鱼类则以 七丝鱗(CbiZiagrayi)占优势地位。从食性分析， 东江下游河段鱼类群落组成主要以杂食性鱼类
+为主，优势种类有鲤、罗非鱼、三角鲂、赤眼鳟等。
+与20世纪80年代调查结果[3]相比，东江 下游河段鱼类群落组成发生显著变化，整个鱼 类群落种类相似性指数仅为0.43 (表2)。其 中洄游性鱼类变化最为明显，历史记录该河段 内分布有10种洄游性鱼类，本调查仅发现3 种，相似指数仅为〇. 30;肉食性鱼类种类数与 历史记录相比略微减少，共有种类数只有14 种，相似指数仅为0.37。从不同时期不同生态 类型所占比例进行比较分析，可看出，洄游性、 半洄游性鱼类所占比例下降，定居性鱼类所占 比例升高；肉食性和滤食性鱼类所占比例下降， 杂食性鱼类所占比例上升。
+2.3生物多样性及优势种变化
+塘鳢科以及条鳅亚科、沙鳅亚科的一些鱼类受	2.3.1不同时空物种多样性变化由东江下
+环境变化的影响最大。除表1列出的种类外， 符合这些生态特征的鱼类，如侧扁黄黝鱼 (Hypseleotris compressocephalus )、尖头塘體 ()、美丽小条鳅（ cheilus pulcher)	Botia	robusta)
+游惠州河段鱼类名录（附录1 )，结合历史资 料[3]，计算出可反映该河段鱼类物种多样性的 G-F指数(表3)。与常用的鱼类群落多样性指 数不同，G-F指数不考虑种群数量和均匀度，仅 从属、科水平和非单种科的数目多寡来反映较
+刘毅等:东江下游惠州河段鱼类群落组威变化特征
+2期
+表1 Table 1	东江下游惠州河段未采集到的鱼类个体生态学矩阵 Fish autecology matrix of uncollected species of Dongjiang River in the Zone of Huizbou City
+种类 Species				生态特征Eco】og彳ca】characteristic
+	El	E2	E3	E4	E5	E6	E7	E8	E9	E10	Ell
+Ciapanodon ihrissa	1	0	0	0	1	1	0	0	1	1	0
+Macrara reeves i	1	0	0	0	1	1	0	0	0	1	0
+宽鑛 Zacco platypus	1	0	1	0	0	1	0	0	1	1	0
+Carassioides cantonensts	0	1	0	1	0	1	0	1	0	0	1
+Leiocassis crassilabris ganther	0	1	1	0	0	0	0	1	0	1	0
+青辨	0	1	0	1	0	0	1	0	1	1	0
+乔氏吻 Rkynchorkampkas georgii	0	1	0	0	0	0	0	0	1	0	1
+Lalerolabrax japonicus	0	1	1	0	0	0	1	0	1	1	0
+沙塘禮 oi>scurus	0	1	1	0	0	0	1	1	0	0	1
+乌塘禮 jinenh	0	1	1	0	0	1	0	1	0	0	1
+须嫂奸虎鱼 心5 cirraiuj	1	0	1	0	0	1	0	1	0	1	0
+Giossogobias giaris	1	0	1	0	0	1	0	1	0	1	0
+斑纹舌奸虎鱼G. a/ivaceus	1	0	1	0	0	1	0	1	0	1	0
+犬牙细棘奸虎鱼74£^/1//"。§"。&£15<：0/1£>1£1丨 1		0	1	0	0	1	0	1	0	1	0
+Cynoglossas iri^rammas	0	0	1	0	0	0	0	1	0	0	0
+Tephrinectes sinensis	0	0	1	0	0	1	0	1	0	0	1
+弓斑东方纯oce"aiuj	1	0	1	0	0	1	0	1	0	1	0
+	0.47	0.41	0.71	0. 12	0. 12 0. 65		0. 18	0. 65	0.29	0. 65	0.29
+EI:急流ffl; E2:绥流型；E3:肉食性；E4:杂食性；E5:滤食性；E6: 口端位；E7: 口上位；E8:底层；E9:中上层；EIO:砂砾底 质；EII :泥质底质。
+E1 ： Riffle； E2 ： Slow current； E3 ： Carnivore ； E4： Omnivore； E5 ： Filler feeder ； E6：With terminal moulh； E7 ：With upper mouth； E8 ： Sub-stratum ； E9：(VTid and super stratum； E10 ： Substrate gravel； Ell ：SubstraLe mud /clay.
+定居性	半洄游性	洄游性	杂食性	滤食性	肉食性	植食性
+Sedentary	Semi-migratory	Migratory	Omnivore	Filter-feeder	Carnivore	Herbivore
+生态类型Ecology type
+图2东江下游惠州河段鱼类群落组成
+Fig. 2 Fish composition iD the Lower Reaches of the DoDgjiaDg River
+• 6 •
+动物学杂志 Chinese Journal of Zoology
+46卷
+表2东江下游惠州河段不同时期鱼类群落组成比较 Table 2 Species variation between two time period in the Lower Reaches of the Dongjiang River
+指标
+Indicator
+定居性
+Sedentary
+半洄游性 Semi-
+migratory
+洄游性
+Migratory
+杂食性
+Omnivore
+滤食性
+Filter-
+feeder
+肉食性
+Carnivore
+植食性
+Herbivore
+全类群
+Whole
+community
+1981 ~ 1983年种类数[3] Species number in 1981 - 1983	34(64.15) 9(16. .98) 10(18.87) 19(35.85)				4(7.55)	27(50.94)	3(5.66)	53(100)
+2007 ~ 2010年种类数 Species number in 2007 -2010	56(81. 16) 10(14.49)		3(4.35)	36(52. 17)	4(5.80)	25(36. 23)	4(5.80)	69(100)
+共有种类数 Number of common species	24	9	3	16	3	14	3	36
+种类相似性指数 Jaccard similarity coefficient of species	0.36	0.90	0. 30	0.41	0.60	0. 37	0. 75	0. 42
+括号内数值表示各生态类群种数占总种数的百分比（％ )。
+Values in parentheses represented the percentage of each ecological type account for all species.
+长时间内一个地区的物种多样性[9]。与20世	整体鱼类物种多样性有所增加；同时坝上汝湖
+纪80年代调查结果[3]相比，本调查中F指数、河段的鱼类物种多样性要略小于坝下罗阳河 G指数及G-F指数均略微上升，说明惠州河段	段。
+表3东江下游惠州河段鱼类G-F指数 Table 3 G-F index of fishes in the Lower Reaches of the Dongjiang River
+项目 Item	种类数 Species number	F指数 F index	G指数 G index	G-F指数 G-F index
+1981 〜1983 年调查结果 The research data in 1981 - 1983[3]	53	6. 16	3.88	0. 37
+2007 ~ 2010 年调查结果 The research data in 2007 -2010	69	7.39	3.99	0.46
+汝湖河段（项上）The zone of Ruhu town (up of dam)	60	6.43	3.86	0. 40
+罗阳河段（项下）The zone of Luoyang town (down of dam)	54	6.94	3.80	0.45
+2.3.2剑潭坝上下游河段群落多样性及优势 种变化分析本调查东江下游惠州河段鱼类群 落多样性指数（表4)，发现剑潭坝上游河段的 Simpson 指数、Shannon-Wiener 指数、Pielou ’ s 均匀性指数及Margalef丰富度指数都要高于坝 下河段，由此可看出剑潭坝上坝下河段的鱼类 群落多样性已开始显现出差异性。
+将本调查所采集鱼类样本，分别按照各种 的数量和生物量进行统计，得出排名前10位的 种类(表5)。以个体数量计，排名前10位依次 是鲮、、七丝鲚、赤眼鳟、子陵栉虾虎鱼 (giwri題)、三角隹方、海南舶、黄尾 銅、罗非鱼、兴凯 (Acheilognathus chan-
+，合计共占样本总数量的75. 41% ;以生 物量计，排名前10位依次是鲮、鲤、赤眼鳟、鳙、 罗非鱼、黄尾鲴、鲢、草鱼、三角鲂、麦瑞加拉鲮， 合计共占样本总生物量的85. 33%。将其中数 量或生物量大于10%的鱼类定为优势种，计有 鲛、、鲤、赤眼鳟等。
+对坝上（汝湖）、坝下（罗阳）河段进行比较 分析，发现无论从个体数，还是生物量来看，鲮、 三角鲂、黄尾鲴、子陵栉虾虎鱼等所占比例都是 坝下游河段明显高于坝上游河段;相反，坝下游 河段明显低于坝上游河段的鱼类有七丝鲚、鲤 鱼、海南舶、罗非鱼等。
+2期	刘毅等:东江下游惠州河段鱼类群落组成变化特征	• 1	•
+表4东江下游惠州河段鱼类群落多样性指数 Table 4 Comparison of fish diversity index in the Lower Reaches of the Dongjiang River
+项目	汝湖河段（坝上）	罗阳河段（坝下）
+	The zone of Ruhu	The zone of Luoyang
+Item	town ( up of dam )	town ( down of dam )
+Simpson 指数 Simpson diversity index	0.913 8	0. 851 2
+Shannon-Wiener Shannon-Wiener diversity index	4. 097 1	3. 624 1
+Pielou’ s 均勻性指数 Pielou’ s evenness index	0. 769 9	0. 681 0
+Margalef Marglef species richness index	3. 920 8	3. 794 3
+表5东江下游惠州河段主要鱼类种群 Table 5 Species composition of fishes in the Lower Reaches of the Dongjiang River
+个体数量（％ ) The percentage count by number				种类 Species	生物量（％) The percentage count by weight
+种类 Species	整体河段 The whole reach	汝湖河段 The zone	罗阳河段 The zone		整体河段 The whole reach	汝湖河段 The zone	罗阳河段 The zone
+		of Ruhu town	of Luoyang town			of Ruhu town	of Luoyang town
+敏 Cirrhina molitorella	27.01	19.76	32.77	懷 Cirrhina molitorella	32. 86	29. 00	36.90
+Hemiculter leucisculus	10.32	7. 19	12.80	键 Cyprinus carpio	11.55	19.96	2.74
+七丝顧:Coilia grayi	7.40	12. 16	3.62	赤眼鳟 Squaliobarbus curriculus	10.43	10.54	10. 32
+赤眼鳟 Squaliobarbus curriculus	6.42	5. 17	7.41	墙 Aristichthys nobilis	6.69	6.08	7.33
+子陵栉虾虎鱼 Ctenogobius giurinus	5.56	0.61	9. 18	罗非鱼Tilapia冲.	4.60	7.65	1.40
+三角鲂 Megalobrama terminalis	4. 17	0.91	5. 80	黄尾鲴Ze7ioc;xp7is	4.45	2. 18	6.83
+海南隹白 Culter recurviceps	4.08	7.40	1.45	链 Hypophthalmichthys molitrx	4. 19	3. 17	5. 25
+黄尾鲴 Ze7ioc;xpAis 通	3.77	1.72	5.39	草鱼 Ctenopharyngodon idellus	3.89	5.38	2. 33
+罗非鱼 Tilapia sp.	3.50	6.08	1.45	三角鲂 Megalobrama terminalis	3.63	1.83	5.51
+兴凯 Acheilognathus chankaensis	3. 19	7. 19	0.00	麦瑞加拉鲮 Cirrhina mrigala	3.05	0.72	5.49
+总计Total	75.41	68. 19	79. 87	总计Total	85. 33	86.51	84. 10
+3讨论
+3.1东江下游惠州河段鱼类群落组成变化特
+点与20世纪80年代调查资料[3]相比，东江 下游惠州河段鱼类群落组成发生了明显变化。 本次调查鱼类种类数略有增加，两者群落相似 性指数仅有0.42,为中等不相似。新增种类中 鲤科鱼类较多，主要是一些原先在东江中上游 河段有分布，历史调查未曾在东江下游采得的
+种类，如海南舶、大眼华鳊（ macra/w)、齡皱亚科以及亚科的一些种类，东 江水环境的改变，使得这一类群的鱼类更适合 在此河段栖息。本调查未采得的鱼类中洄游性 鱼类占有较大比例，如鲥鱼、弓斑东方鈍等，这 与东江干流各梯级电站的建设有很大的关系。 惠州河段鱼类群落组成变化的另一个特点就是 外来物种增加。本次调查除历史记录的食蚊鱼 外，另新采得4种外来鱼类，包括露斯塔野鲮、
+• 8 •
+动物学杂志 Chinese Journal of Zoology
+46卷
+麦瑞加拉鲮、下口鲇和罗非鱼。其中罗非鱼数 量最大，个别月份在渔获物中比例已远超过其 他土著经济鱼类。这些外来种类最初可能是从 养殖场逃逸，或人为有意和无意的放流。有报 道表明，罗非鱼在我国华南地区各水系已建立 野生种群[13_14]。罗非鱼通过摄食大型水草，排 泄氮磷，在水底筑巢等活动对栖息生境造成负 面影响[15]，它在自然水体中会对土著鱼类群落 产生怎样的影响需进一步研究和关注。
+3.2不同生态类群鱼类变化特点及其成因 东江干流各梯级水利枢纽的建设对于鱼类群落 的影响是多方面的，其中最直接的影响就是对 洄游性、半洄游性鱼类洄游通道的阻隔，改变鱼 类繁殖所必需的水文条件。本调查洄游性鱼类 所占比例下降最为明显，由18.87%[3]降至 4.3%。相反，定居性鱼类所占比例升高，由过 去的64. 15% [3]升至81. 16%。东江下游河段 历史记载分布有10种洄游性鱼类[3]，近几年调 查仅发现七丝鲚、白肌银鱼和日本鳗鲡3种，且 目前除七丝鲚尚有较小规模的渔获量外，其他 2种已很稀少而难以采得。历史上“四大家鱼” 青（M—picew)、草、链、鑛等半徊 游性鱼类曾为东江主要捕捞对象[1]，目前，除 鲢、鳙还有一定数量外，青鱼、草鱼的数量很少， 并且这些鱼类很可能是靠人工增殖放流来维系 其种群，因为各梯级电站的建成，导致四大家鱼 等半洄游性鱼类难以在自然条件下完成繁殖活 动，其种群无法得到自然补充。由于鱼类的洄 游具有一定的季节性和规律性，而本调查采样 时间的覆盖并不是很全面，因此不同时间调查 结果可能存在一定误差，但从整体调查结果并 结合走访渔民和渔政部门所了解到的鱼类种类 组成变化情况来看，洄游性、半洄游性鱼类比例 下降的趋势还是相当明显的。从鱼类个体生态 学矩阵可以看出，东江下游河段肉食性、喜砂砾 底质的底层急流性鱼类受环境变化影响最大。 从食性来看，杂食性鱼类所占比例升高，由历史 上的35. 85% [3]升至现在的52. 17%，而肉食性 鱼类却由50. 94% [3]降至36. 23%。肉食性鱼 类属水生生态系统中高营养级类群，食性较窄，
+而杂食性鱼类食性较广。有研究表明，在环境 质量下降的时候，广食性物种更易生存下 来[16]，因此东江下游河段不同食性鱼类比例的 变化反映出该河段水环境质量下降。
+本调查发现，剑潭坝上下游河段的鱼类群 落组成有显著差异，这可能与大坝建成后引发 的水生态变化有关。剑潭坝建成后坝上河段水 位抬升，使得水面更为开阔，水体流速变缓，这 就更加适合海南舶、鲤、罗非鱼等定居性鱼类的 生存和繁衍，因此这些鱼类在坝上河段的数量 远高于坝下;而坝下河水较浅，直至入海前没有 大坝的阻隔，因此一些浅水小型鱼类，如子陵栉 虾虎鱼以及产卵时具有一定溯河能力的半洄游 性鱼类，如三角鲂和黄尾鲴在坝下河段的数量 高于坝上。但本调查发现，洄游性鱼类七丝鲚 在坝上河段的数量却高于坝下。据当地渔民反 映，剑潭坝建成前，汝湖镇（坝上河段）很少捕 捞到七丝鲚，但建坝后洄游通道的阻隔反而导 致七丝鲚在坝上河段形成了一定规模的渔获 量。长江水系的刀挤（CoiZia ecimes )同时存在 溯河产卵洄游性类群、淡水定居类群和陆封类 群[17]。与刀鲚同一属的七丝鲚是否已在坝上 河段形成淡水定居类群？由于剑潭坝建成时间 还不是很长，这个问题还有待今后更长时间的 观察和证实。
+3.3不同时空鱼类多样性变化特点及其成因
+从鱼类物种多样性指数（G-F指数）看，本调 查略高于20世纪80年代同河段[3]，这主要是 由于现阶段鱼类种类数增加，同时鱼类非单种 科所占的比例也略微增加。该河段鱼类种类数 的增加一方面是因为外来物种的增加，另一方 面有可能是由于大坝的建成改变了水流条件， 致使适应缓流环境的种类增加。从生态系统完 整性角度分析，此种形式的鱼类物种多样性增 加不一定是安全和健康的，其潜在的风险有待 进一步评估。关于现阶段惠州剑潭坝上下游河 段鱼类多样性变化特点，从鱼类群落结构特征 来看，坝上汝湖河段鱼类个体数分配均匀程度 高于坝下罗阳河段;但从研究属、科水平的物种 多样性来看，虽然坝上鱼类种类数高于坝下，但
+2期
+刘毅等:东江下游惠州河段鱼类群落组成变化特征
+• 9 •
+坝下罗阳河段非单种科的数量却高于坝上，因 此整体上坝下的G-F指数略高于坝上。东江 下游惠州河段在较短时间范围内所显现的这些 差异性主要是源于剑潭坝建设所造成的一系列 生态因子的改变，相信这种差异性会随着时间 的延长而增加。
+3.4影响惠州河段鱼类群落组成的其他因素
+除上述原因外，水体污染、挖沙作业、过度捕 捞等也可能是影响鱼类群落的因素。目前，东 江下游惠州河段水体污染程度加重[18]，可能导 致耐污能力差的鱼类种类和数量减少甚至消 失，如乔氏吻(Rlvynchorhamphus georgii)等。 此外，该河段内存在规模化无序挖沙作业，导致 河床结构受损，礁石、砂砾、水草等有利鱼类栖 息和繁殖的物质条件减少，继而对该河段鱼类 群落组成及多样性造成负面影响。
+参考文献
+[1 ]陆奎贤.珠江水系渔业资源.广州：广东科技出版社， 1990： 1 -202.
+[2 ] Gehrke P C, Gilligan D M, Barwick M. Changes in fish communities of the Shoalhaven River 20 years after construction of Tallowa Dam, Australia. River Research And Applications ,2002,18 ： 265 -286.
+[3 ]叶富良，杨萍，宋蓓玲.东江鱼类区系研究.湛江水产 学院学报，1991，11(2): 1-7.
+[4]潘炯华.广东淡水鱼类志.广东：广东科学技术出版 社，1991: 1 -589.
+[5 ]成庆泰，郑葆珊.中国鱼类系统检索.北京：科学出版 社，1987: 1 -1458.
+[6 ]陈宜瑜.中国动物志：硬骨鱼纲鲤形目中卷.北京：科 学出版社，1998: 1 -531.
+[7 ]乐佩琦.中国动物志：硬骨鱼纲鲤形目下卷.北京：科 学出版社，2000: 1 -661.
+[8 ]蒋志刚，纪力强.鸟兽物种多样性测度的G-F指数方 法.生物多样性，1999, 7(3): 220 -225.
+[9 ]王丹，赵亚辉，张春光，等.广西野生淡水鱼类的物种 多样性及其资源的可持续利用.动物分类学报，2007, 32(1)： 160 -173.
+[10]	Suen J P, Edwin E H. Investigating the causes of fish community change in the Dahan River ( Taiwan ) using an autecology matrix. Hydrobiologia, 2006, 568(1) ： 317 -330.
+[11]	郁亮山，张庆生，陈卫民，等.浙江北部岛礁周围海域 鱼类优势种及其种间关系的初步研究.水产学报， 1986, 10(2) ： 137 -149.
+[12]	程起群，李思发.刀鲚和湖鲚种群的形态判别.海洋科 学，2004, 28(11) : 39 -43.
+[13]	潘勇，曹文宣，徐立蒲，等.国内外鱼类入侵的历史及 途径.大连水产学院学报，2006, 21(1): 72 -78.
+[14]	Xu H G, Qiang S, Han Z M, et al. The status and causes of alien species invasion in China. Biodiversity and Conservation, 2006, 15： 2893 -2904.
+[15]	Me Kaye K, Stauffer J R, Turner G, et al. Fishes, as well as birds, build bowers. Journal of Aquariculture and Aquatic Sciences,2001, 9： 121 -133.
+[16 ] Karr J R. Assessment of biotic integrity using fish communities. Fisheries, 1981, 6： 21 -27.
+[17]	张世义.中国动物志:硬骨鱼纲鍀形目海鲢目緋形目 鼠鱔目.北京:科学出版社，2001: 53 -159.
+[18]	朱茂华.东江下游水资源开发利用及水环境综合治理 构想.中山大学学报：自然科学版，2001，40(增刊2): 22-24.
+• 10 •	动物学杂志 Chinese Journal of Zoology	46	卷
+附录东江惠州（剑潭）河段鱼类名录
+Appendix Fish species records of Dongjiang River in the Zone of Huizhou City
+分布 Distribution
+目 Order	科 Family	属 Genus	种 Species	坝上 坝下 (汝湖镇）（罗阳镇）
+				Up of	Down of
+				dam	dam
+緋形目 Clupeiformes	舍是科 Engraulidae	恢属Coilia	1七丝顧:	+	+
+娃形目 Salmoniformes	银鱼科 Salangidae	白肌银鱼属[ewcosoma	2 白肌银鱼 L. c/ii7ie7i士		+
+嫂鲕I 目 Anguilliformes	鏡鲕I科 Anguillidae	錢鲕I属	3日本鳗麵丄y〇p〇77ica		+
+鲍形目 Cypriniformes	缠科 Cyprinidae	马 口鱼属 Opsariichthys	4 马口鱼	+	+
+		青鱼属 Myiopharyngodon	5青鱼版piceus		+
+		草鱼属 Ctenopharyngodon	6 草色 C. idellus	+	+
+		赤眼蹲属知	7 赤眼鳟 S. cwrricwZws	+	+
+		飘鱼属 Pseudolaubuca	8 银飘 ■siTiemk *	+	+
+		细鳊属腿	9线细鳊兄Zi腿血s	+
+		华編属 <Si7ii6rama	10海南华鳊*S. meZmsd *	+
+			11大眼华編macrops *	+	+
+		似属 Toxabramis	12 海南似 T. houdemerl	+
+		属 Hemiculter	13 H. leucisculus	+	+
+		舶属CWier	14 海南舶 C. recwn;ice/?s *	+	+
+		編属 Parabramis	15 編尸./?而71671士	+
+		鲍属 Megalobrama	16 三角鲍 M. terminalis	+	+
+		鲴属 Ze7ioc;xp?is	17 银鲴 X. ar^Tiiea *	+
+			18黄尾鲴Z.	+	+
+		镑敏属Rhodeus	19局体鏡皱/?. oceZZt血s	+	+
+		M Acanthorhodeus	20 越南 A tonkinensis *	+
+			21 7^401 A. chankaensis *	+
+			22 短须 A. barbatulus*	+	+
+			23 大鑛 A. macropterus *	+	+
+		虽丨J 属 Paracheilognathus	24 彩副 P. imberbis *	+
+		刺鲍属	25条纹刺鲍尸.sem访zsdo/a加	+
+		纹唇鱼属Osteochilus	26 纹唇色 0. salsburyi	+	+
+		野绩属	27露斯塔野鲮I. roMto*	+	+
+		敏属 Cirrhina	28 ^ C. molitorella	+	+
+			29麦瑞加拉敏C. mriga/a *	+	+
+		墨头鱼属Garni	30东方墨头鱼G. orientalis *	+	+
+		属 Hemibarbus	31 间 H. labeo*	+
+		麦穩鱼属 Paseudorasbora	32麦穩鱼P. /?amz	+
+		線属 Sarcocheilichthys	33 黑鶴緣 S. nigripinnis nigripinnis	+	+
+		银属 Squalidus	34 银 S. argentatus	+	+
+		棒花鱼属	35棒花鱼儿rimZaris *		+
+		小鳔属 Microphysogobio	36 乐山小螺 M. kiatingensis *	+
+			37 福建小螺 M. Jukiensis *	+
+		^ M Saurogobio	38 蛇 S. dabryi*	+	+
+		鲤属 Cyprinus	39 M C. carpio	+	+
+		卿鱼属	40 卿鱼 C. auratus	+	+
+		糖属	41鑛尤mo6而	+	+
+		链属 Hypophthalmichthys	42 链 //. motor%	+	+
+	鳅科 Cobitidae	小条鳅属 Micronemacheilus	43美丽小条鳅M./?u/c/ier*	+
+2期
+刘毅等:东江下游惠州河段鱼类群落组成变化特征
+• 11 •
+续表
+				分布 Distribution
+目 Order	科 Family	属 Genus	种 Species	坝上 坝下 (汝湖镇）（罗阳镇）
+				Up of	Down of
+				dam	dam
+		沙鳅属Botia	44壮体沙鳅ro&wsto *		+
+		副沙鳅属Para&oha	45花斑副沙鳅yksdato *	+	+
+		花鳅属	46 中华花鳅 C. sirimsis *	+	+
+		泥鳅属Misgumus	47 泥鳅 M. anguillicaudatus	+	+
+鲇形目 Siluriformes	鱼占科Siluridae	鱼占属Si/wms	48 鱼占 S. asoiws	+
+	胡子贴科Clariidae	胡子鲇属	49胡子贴C.ykscw	+	+
+	骨甲贴科Loricariidae	下 口贴属	50 下 口鱼占 //. /?Zecostowms *	+	+
+	长臀科 Cranoglanididae	长臀属 Cranoglanis	51珠江长臀* C. bouderius bouderius		+
+	鳄科 Bagridae	黄颖鱼属Peltcobagrus	52 黄顯鱼 P. falvidraco	+	+
+			53瓦氏黄额鱼P. mc/ie说	+	+
+			54中间黄额鱼尸.*		+
+		属 Leiocassis	55 纵带 L. argenticittatus *	+	+
+			56 条纹 L. virgatus *		+
+		獲属Mystus	57 斑獲 M. macropterus	+	+
+锵形目 Cyprinodontiformes	胎鱗科 Poeciliidae	食蚊鱼属Gambusia	58食蚊鱼C.咖心	+	+
+合鲍、鱼目 Synbgranchiformes	合鳃鱼科 Synbranchidae	黄罐属 Mo/iopiems	59 黄靖 M".	+	+
+鲈形目 Perciformes	科 Serranidae	繼属 Siniperca	60 大眼繼 S. /cneri *	+	+
+	塘鳢科 Eleotridae	塘鱼豊属五/eoirk	61 尖头塘體[aiycep/ia/a		+
+		黄黒幼鱼属Micropercops	62侧扁小黄黝鱼* M. Compressocephalus	+	+
+	奸虎鱼科Gobiidae	丰节奸虎鱼属Ctenogobius	63子陵柿奸虎鱼C. giwrimw	+	+
+	斗鱼科 Belontiidae	斗鱼属 Macropodus	64 叉尾斗鱼 M. opercularis	+	+
+	攀鱼卢科Anabantidae	攀鱼卢属Anabas	65攀f卢A. ie伽而狀似*	+	+
+	刚鱼科 Cichlaidae	非卿属	66罗非鱼7； sp. *	+	+
+	體科 Channidae	鱼豊属Channa	67 斑鳢 macw/ato	+	+
+			68 月體 C. as€ahc<x *	+	+
+	刺鳅科	刺鳅属	69大刺鳅ilf. anm血s
+	Mastacembelidae	Mastacembelus		+
+合计Total	20	58	69	60	54
+*为本次调查新发现种类（与同河段历史资料对比）。* Newly recorded species compared with the research data in 1980s’.

@@ -1,0 +1,513 @@
+动  物  学  研  究  2009，Apr. 30(2): 185−194                                     CN 53-1040/Q  ISSN 0254-5853 
+Zoological Research                                                           DOI：10.3724/SP.J.1141.2009.02185 
+广西河池地区鱼类资源调查及两支流的鱼类多样性比较 
+韦日锋1，郑兰平2，陈小勇2,*，杨君兴2,*
+(1. 广西省都安县水产技术推广站，530700；2. 中国科学院昆明动物研究所，云南 昆明  650223) 
+摘要：于1994年至2008年间，对广西河池地区的柳江水系和红水河水系进行了鱼类资源调查。依据实际调
+查，并结合以往文献记载，这两水系中分布的鱼类共有185种，分别隶属于9目21科107属。较以前调查，新
+增种类21种，包括1新属19新种。柳江水系分布的鱼类共有134种，分别隶属于8目19科88属。其中，鲤形
+目鱼类的种类最多，鲈形目鱼类次之，鲇形目鱼类第三，其他目的鱼类种类相对较少，仅1—3种。红水河水系
+分布的鱼类共有157种，分别隶属于8目20科101属。其中，鲤形目鱼类的种类最多，鲇形目鱼类次之，鲈形
+目鱼类第三，其他目的鱼类种类相对较少。红水河水系的鱼类多样性较柳江水系丰富，其主要原因为红水河流经
+区域喀斯特地貌发育，地下河流众多而且流域面积广，水量充沛。 
+关键词：鱼类资源；调查；多样性；河池；广西 
+中图分类号：Q958.2; S932.4; S922.67     文献标识码：A     文章编号：0254-5853-(2009)02-0185-010 
+Investigation of Fish Resources in Hechi Prefecture of  
+Guangxi Province,with Comparison of Fish  
+Biodiversity Between Two Tributaries 
+WEI Ri-feng1, ZHENG Lan-ping2, CHEN Xiao-yong2,*, YANG Jun-xing2,*
+(1. Duan Fishery Technique Popularization Station, Guangxi  530700, China;  
+2. Kunming Institute of Zoology, the Chinese Academy of Sciences, Kunming  650223, China) 
+Abstract: Field surveys were conducted in the freshwater ichthyfauna of the Liu River and the Hongshui River in 
+the Hechi Prefecture, Guangxi Province between 1994 to 2008. According to the field surveys and reference records, the 
+two rivers harbor a total of 185 species belonging to 9 orders, 21 families, and 107 genera. Compared with previous 
+investigations, 21 species were newly discovered in this area, including 1 new genus and 19 new species. There is a total 
+of 134 fish species in the Liu River, under 8 orders, 19 families, and 88 genera. The species of Cypinifomes has the 
+highest number in popoulation. The Perciformes came in second, and the Siluriformes is the third. The numbers of 
+species for other orders are comparatively smaller than the three orders, only 1-3 species. The total number of species in 
+the Hongshui River is 157, belonging to 8 orders, 20 families, and 101 genera. The number of species for Cypinifomes is 
+the most. The Siluriformes takes second place, and the Perciformes is the third. The numbers of species of other orders 
+are comparatively smaller than the three orders. The fish diversity of Hongshui River is richer than Liu River and the 
+reasons are that Hongshui River flows through such regions that karst and underground rivers are developed and drainage 
+areas are broad, with plenty of water.  
+Key words: Fish resources; Survey; Diversity; Hechi; Guangxi 
+广西河池地区境内喀斯特地貌显著，地下河流
+众多，鱼类物种分化显著，其物种多样性丰富。而
+对于广西河池地区的鱼类资源调查研究并不多见，
+仅见于Lan et al (1992, 1997)的报道。然而，近10
+收稿日期：2008-11-19；接受日期：2009-01-05 
+基金项目：国家科技基础条件平台工作重点项目（2005DKA21402） 
+余年来，陆续有一些新的种类被发现和描记，有必
+要对河池地区的鱼类资源作一系统整理。 
+1  材料与方法 
+*通讯作者（Corresponding authors），E-mail: chenxy@mail.kiz.ac.cn; yangjx@mail.kiz.ac.cn 
+第一作者简介：（1969-），男，本科，主要从事淡水渔业研究 
+186 动  物  学  研  究 30卷 
+1.1  研究区域概况 水河。 
+河池地区坐落于广西西北部，包括天峨、南丹、1.2  方  法 
+都安、河池等11个省市，地跨东经106º34´—标本采集时间为1994年至2008年。标本采集
+109º09´，北纬23º41´—25º37´，总面积达33 122 km2。使用电鱼机和抄网，标本捕到后依次编号，并用福
+河池地区地处云贵高原东缘，为向桂中、桂南丘陵尔马林固定。分类与鉴定参照Yue (2000a，b）、Zhou 
+平原、低山盆地的“准平原”逐渐过渡的倾斜地带。& Zhang（2005）和Zhu & Zhang（1989，1995)等
+境内有红水河和柳江两支水系流过，均属于西江水文献进行。采集样点分布在天峨、南丹、凤山、东
+系。龙江、大环江、小环江和天河等河流均为柳江兰、都安、罗城、环江等地(图1)。 
+支流，而刁江、澄江、盘阳河和布柳河等均汇入红
+ 
+图 1  广西水系及采样点分布图 
+Fig. 1  Map showing water systems in Guangxi and collection locality 
+2  结  果 brevibarbatus Zhao, Lan & Zhang (2008)]、大眼金线
+鲃[Sinocyclocheilus macrophthalmus Zhang & Zhao 
+截至目前，在河池地区分布的鱼类共有185种，(2001)]、九圩金线鲃[Sinocyclocheilus jiuxuensis Li 
+分别隶属于9目21科107属(附录Ⅰ)。较1997年& Lan (2003)]、东兰金线鲃[Sinocyclocheilus 
+以前调查，新增种类21种，包括1新属19新种，donglanensis Zhao], Watanabe et Zhang (2006)、天峨
+分别为小眼岭鳅[Oreonectes microphthalmus Du, 金线鲃[Sinocyclocheilus tianeensis Li, Xiao et Luo 
+Chen & Yang (2008)]、透明岭鳅[Oreonectes (2003)]、驯乐金线鲃[Sinocyclocheilus xunlensis 
+translucens Zhang, Zhao & Zhang (2006)]、长须云南Lan，Zhao et Zhang (2004)]、长体异华鲮
+鳅[Yunnanilus longibarbatus Gan, Chen & [Parasinilabeo longicorpus Zhang (2000)]、袍里红水
+Yang(2007)]、后鳍盲副鳅[Paracobitis 鱼 [Hongshuia paoli Zhang, Qiang et Lan (2008)]、板
+posterodarsalus Ran, Li & Chen (2006)]、丽纹云南鳅么红水鱼[Hongshuia banmo Zhang, Qiang et Lan 
+[Yunnankilus zebrinus Yang, Chen, Lan (2004)]、黄体(2008)]、大眼华缨鱼[Sinocrossocheilus 
+高原鳅[Triplophysa flavicorpus Yang, Chen, Lan megalophthalmus Chen, Yang, Cui (2006)]、都安鲇
+(2004)]、天峨高原鳅[Triplophysa tianeensis Chen, [Silurus duanensis Hu, Lan et Zhang (2004)]，以及巨
+Cui, Yang (2004)]、短须金线鲃[Sinocyclocheilus 修仁鱼央  [Xiurenbagrus gigas Zhao, Lan et Zhang 
+2期 韦日锋等：广西河池地区鱼类资源调查及两支流的鱼类多样性比较 187 
+(2004)]，其中红水鱼属为新属。 的73.1%；鲈形目鱼类共有16种，占该水系总种类
+2.1  柳江水系鱼类组成 的11.9%；鲇形目鱼类共有14种，占该水系总种类
+在柳江水系分布的鱼类共有134种，分别隶属的10.4%。其他目属鱼类相对较少，分别为：鳗鲡
+于8目19科88属，各属级种类数量及其百分比见 目鱼类共有2种，占该水系总种类的1.5%；鲼形目
+表1。其中鲤形目鱼类共有98种，占该水系总种类 鱼类共有1种，脂鲤目鱼类共有1种，鳉形目鱼类 
+表 1  广西柳江水系各属级种类数量及百分比 
+Tab. 1  Number of species under the genus and their percentage in Liu River Water System, Guangxi 
+种数 百分比  种数 百分比 
+属名 Genus name Number of Percentage属名 Genus name Number of Percentage 
+species （%） species （%） 
+魟属Dasyatis 1 0.7  纹唇鱼属Osteochilus 1 0.7 
+鳗鲡属Anguilla 2 1.5  直口鲮属Rectoris 1 0.7 
+巨脂鲤属Colossoma 1 0.7  拟缨鱼属Pseudocrossocheilus2 1.5 
+鱲属Zacco 1 0.7  异华鲮属Parasinilabeo 1 0.7 
+马口鱼属Opsariichthys 1 0.7  唇鱼属Semilabeo 1 0.7 
+瑶山鲤属Yaoshanicus 1 0.7  卷口鱼属Ptychidio 2 1.5 
+波鱼属Rasbora 1 0.7  墨头鱼属Garra 1 0.7 
+青鱼属Mylopharyngodon 1 0.7  盘鮈属Discogobio 1 0.7 
+草鱼属Ctenopharyngodon 1 0.7  原鲤属Procypris 1 0.7 
+赤眼鳟属Squaliobarbus 1 0.7  鲤属Cyprinus 2 1.5 
+鳤属Ochetobius 1 0.7  鲫属Carassius 1 0.7 
+细鳊属Metzia 1 0.7  小条鳅属Micronemacheilus 1 0.7 
+华鳊属Sinibrama 2 1.5  岭鳅属Oreonectes 3 2.2 
+飘鱼属Pseudolaubuca 1 0.7  南鳅属Schistura 1 0.7 
+餐属Hemiculter 1 0.7  沙鳅属Botia 2 1.5 
+半餐属Hemiculterella 1 0.7  副沙鳅属Parabotia 1 0.7 
+拟餐属Pseudohemiculter 2 1.5  薄鳅属Leptobotia 3 2.2 
+鲌属Culter 1 0.7  花鳅属Cobitis 1 0.7 
+鳊属Parabramis 1 0.7  泥鳅属Misgurnus 1 0.7 
+鲂属Megalobrama 2 1.5  原缨口鳅属Vanmanenia 1 0.7 
+鲴属Xenocypris 2 1.5  原吸鳅属Protomyzon 1 0.7 
+鲢属Hypophthalmichthys 2 1.5  爬岩鳅属Beaufortia 1 0.7 
+鱼骨且   属Hemibarbus 2 1.5  华平鳅属Sinohomaloptera 1 0.7 
+麦穗鱼属Pseudorasbora 1 0.7  华吸鳅属Sinogastromyzon 1 0.7 
+鳈属 Sarcocheilichthys 2 1.5  鲇属Silurus 4 3.0 
+银鮈属Squalidus 2 1.5  胡子鲇属Clarias 2 1.5 
+似鮈属Pseudogobio 1 0.7  长臀鮠属Cranoglanis 1 0.7 
+棒花鱼属Abbottina 1 0.7  黄颡鱼属Pelteobagrus 2 1.5 
+小鳔鮈属Microphysogobio 5 3.7  鮠属Leiocassis 1 0.7 
+片唇鮈属Platysmacheilus 1 0.7  拟鲿属Pseudobagrus 1 0.7 
+蛇鮈属Saurogobio 1 0.7  鳠属Mystus 1 0.7 
+鳅鮀属Gobiobotia 1 0.7  纹胸鮡属Glyptothorax 1 0.7 
+鱊属Acheilognathus 2 1.5  食蚊鱼属Gambusia 1 0.7 
+副鱊属Paracheilognathus 1 0.7  黄鳝属Monopterus 1 0.7 
+鳑鲏属Rhodeus 1 0.7  少鳞鳜属Coreoperca 1 0.7 
+倒刺鲃属Spinibarbus 2 0.7  鳜属Siniperca 4 3.0 
+小鲃属Puntius 1 0.7  罗非鱼属Tilapia 1 0.7 
+金线鲃属Sinocyclocheilus 3 2.2  细齿塘鳢属Philypnus 2 1.5 
+似鳡属Luciocyprinus 1 0.7  鲻鰕虎鱼属Mugilogobius 1 0.7 
+光唇鱼属Acrossocheilus 4 3.0  吻鰕虎鱼属Rhinogobius 3 2.2 
+白甲鱼属Onychostoma 6 4.5  斗鱼属Macropodus 1 0.7 
+结鱼属Tor 1 0.7  鳢属Channa 2 1.5 
+孟加拉鲮属Bangana 2 1.5  刺鳅属Mastacembelus 1 0.7 
+野鲮属Labeo 1 0.7  总计88属134种 
+鲮属Cirrhinus 1 0.7  
+ 
+ 
+188 动  物  学  研  究 30卷 
+ 
+表 2  广西红水河水系各属级种类数量及百分比 
+Tab. 2  Number of species under the genus and their percentage in Hongshui River Water System, Guangxi 
+种数 百分比  种数 百分比 
+属名 Genus name Number of Percentage属名 Genus name Number of Percentage 
+species (%) species (%) 
+鳗鲡属Anguilla 2 1.3  泉水鱼属Pseudogyrinocheilus1 0.6 
+新银鱼属Neosalanx 1 0.6  卷口鱼属Ptychidio 2 1.3 
+巨脂鲤属Colossoma 1 0.6  华缨鱼属Sinocrossocheilus 1 0.6 
+鱲属Zacco 1 0.6  墨头鱼属Garra 1 0.6 
+马口鱼属Opsariichthys 1 0.6  盘鮈属Discogobio 4 2.5 
+瑶山鲤属Yaoshanicus 1 0.6  盘口鲮属Discocheilus 1 0.6 
+波鱼属Rasbora 1 0.6  原鲤属Procypris 1 0.6 
+青鱼属Mylopharyngodon 1 0.6  鲤属Cyprinus 2 1.3 
+鯮属Luciobrama 1 0.6  鲫属Carassius 1 0.6 
+草鱼属Ctenopharyngodon 1 0.6  小条鳅属Micronemacheilus 1 0.6 
+赤眼鳟属Squaliobarbus 1 0.6  间条鳅属Heminoemacheilus 2 1.3 
+鳤属Ochetobius 1 0.6  岭鳅属Oreonectes 4 2.5 
+鳡属Elopichthys 1 0.6  云南鳅属 Yunnanilus 2 1.3 
+细鳊属Metzia 2 1.2  南鳅属Schistura 1 0.6 
+华鳊属Sinibrama 1 0.6  高原鳅属Triplophysa 3 1.9 
+飘鱼属Pseudolaubuca 2 1.3  盲副鳅属Paracobitis 1 0.6 
+餐属Hemiculter 1 0.6  沙鳅属Botia 2 1.3 
+半餐属Hemiculterella 1 0.6  副沙鳅属Parabotia 1 0.6 
+拟餐属Pseudohemiculter 1 0.6  薄鳅属Leptobotia 1 0.6 
+似鱼乔属 Toxabramis 1 0.6  原花鳅属Protocobitis 1 0.6 
+原鲌属Cultrichthys 1 0.6  花鳅属Cobitis 1 0.6 
+近原鲌属Ancherythroculter 1 0.6  泥鳅属Misgurnus 1 0.6 
+鳊属Parabramis 1 0.6  副泥鳅属Paramisgurnus 1 0.6 
+鲂属Megalobrama 2 1.3  原缨口鳅属Vanmanenia 1 0.6 
+鲴属Xenocypris 1 0.6  原吸鳅属Protomyzon 1 0.6 
+鲢属Hypophthalmichthys 2 1.3  爬岩鳅属Beaufortia 1 0.6 
+鱼骨属Hemibarbus 2 1.3  华平鳅属Sinohomaloptera 1 0.6 
+麦穗鱼属Pseudorasbora 1 0.6  华吸鳅属Sinogastromyzon 1 0.6 
+银鮈属Squalidus 1 0.6  鲇属Silurus 4 2.5 
+棒花鱼属Abbottina 1 0.6  胡子鲇属Clarias 2 1.3 
+小鳔鮈属Microphysogobio 2 1.3  长臀鮠属Cranoglanis 1 0.6 
+蛇鮈属Saurogobio 1 0.6  黄颡鱼属Pelteobagrus 2 1.3 
+鳅鮀属Gobiobotia 1 0.6  鮠属Leiocassis 1 0.6 
+鱊属Acheilognathus 3 1.9  拟鲿属Pseudobagrus 1 0.6 
+鳑鲏属Rhodeus 1 0.6  鳠属Mystus 2 1.3 
+倒刺鲃属Spinibarbus 2 1.3  纹胸鮡属Glyptothorax 1 0.6 
+小鲃属Puntius 1 0.6  鮡属Pareuchiloglanis 1 0.6 
+金线鲃属Sinocyclocheilus 11 7.0  修仁鱼央 属Xiurenbagrus 1 0.6 
+似鳡属Luciocyprinus 1 0.6  青鳉属Oryzias 1 0.6 
+光唇鱼属Acrossocheilus 3 1.9  食蚊鱼属Gambusia 1 0.6 
+白甲鱼属Onychostoma 5 3.2  黄鳝属Monopterus 1 0.6 
+结鱼属Tor 2 1.3  少鳞鳜属Coreoperca 1 0.6 
+孟加拉鲮属Bangana 2 1.3  鳜属Siniperca 3 1.9 
+野鲮属Labeo 1 0.6  罗非鱼属Tilapia 1 0.6 
+鲮属Cirrhinus 1 0.6  细齿塘鳢属Philypnus 2 1.3 
+纹唇鱼属Osteochilus 1 0.6  鲻鰕虎鱼属Mugilogobius 1 0.6 
+直口鲮属Rectoris 1 0.6  吻鰕虎鱼属Rhinogobius 3 1.9 
+拟缨鱼属Pseudocrossocheilus 2 1.3  斗鱼属Macropodus 1 0.6 
+红水鱼属Hongshuia 2 1.3  鳢属Channa 2 1.3 
+异华鲮属Parasinilabeo 1 0.6  刺鳅属Mastacembelus 1 0.6 
+唇鱼属Semilabeo 2 1.3  总计101属157种   
+ 
+2期 韦日锋等：广西河池地区鱼类资源调查及两支流的鱼类多样性比较 189 
+共有1种，合鳃鱼目鱼类共有1种，均占该水系总从结果可以看出，柳江水系共有鱼类88属134
+种类的0.7%。 种，红水河水系共有鱼类101属157种。不管是从
+从表1可以看出，在柳江水系中分布的种类中，属的数量还是种的数量来看，红水河水系的鱼类多
+白甲鱼属(Onychostoma)种类最多，居于首位；其次样性较柳江水系更为丰富。从两水系各自的特有属
+为小鳔鮈属(Microphysogobio)，居于第二；再次为来看，柳江水系有6个属在红水河水系没有分布；
+光唇鱼属(Acrossocheilus)、鲇属(Silurus)和鳜属而红水河水系有19个属在柳江水系没有分布，由
+(Siniperca)，居于第三位。其他属所属种类较少，此可见，红水河水系鱼类多样性较柳江水系更为丰
+均1—3种。 富。 
+2.2  红水河水系鱼类组成 3.2  两条支流多样性差异的原因分析 
+在红水河水系分布的鱼类共有157种，分别隶红水河水系的鱼类多样性较柳江水系丰富，究
+属于8目20科101属。其中，鲤形目鱼类共有119其原因有以下几点： 
+种，占该水系总种类的75.8%；鲇形目鱼类共有16(1) 喀斯特地貌发育，地下河流众多。从两条
+种，占该水系总种类的10.2%；鲈形目鱼类共有15水系的优势种可见，红水河水系中分布最多的是金
+种，占该水系总种类的9.6%。其他目属鱼类种类分线鲃属的种类，而这些金线鲃种类多生活于地下暗
+别为：鳗鲡目鱼类共有2种，鳉形目鱼类共有2种，河或溶洞之中。高度发达的喀斯特地貌，特别是复
+均占该水系总种类的1.3%；鲑形目鱼类共有1种，杂的地下水系统，为物种隔离分化创造了条件。 
+脂鲤目鱼类共有1种，合鳃鱼目鱼类共有1种，均(2) 流域面积广，水量充沛。红水河水系干流
+占该水系总种类的0.6%。各属级种类数量及其百分及其支流均流经河池地区，其水域面积占河池地区
+比见表2。 的2/3以上，而且作为主干的红水河汇集了上游南
+从表2可以看出，在红水河水系中分布的种类盘江和北盘江的水量，水量充沛，鱼类物种数相应
+中，洞穴鱼类金线鲃属(Sinocyclocheilus)种类最多，增多。而柳江水系仅5条小支流流经河池地区东部，
+有11种，居于首位；白甲鱼属(Onychostoma)居于主要干流并未流经河池地区，其流域面积不及河池
+第二；盘鮈属(Discogobio)、岭鳅属(Oreonectes)、地区的1/3，其可容纳的物种数则相应减少，所以
+鲇属(Silurus)居于第三位。其他属所属种类较少，红水河水系中具有较柳江水系中更多的物种。 
+均1—3种。 
+致谢：感谢蓝家湖先生在标本采集中给予的巨
+3  讨  论 
+大帮助。 
+3. 1  两条支流的多样性差异 
+ 
+参考文献： 
+Chen XY, Cui GH, Yang JX. 2004. A new cave-dwelling fish species of 29(3): 586-590. [胡学友, 蓝家湖, 张春光. 广西鲇属一新种及其性
+genus Triplophysa (Balitoridae) from Guangxi, China [J]. Zool Res, 状讨论(鲇形目, 鲇科). 动物分类学报, 29(3): 586-590.] 
+25(3): 227-231. [陈小勇, 崔桂华, 杨君兴. 2004. 广西高原鳅属鱼类Lan JH, Chen YJ, Chen JX, He CC. 1992. The ichthyofauna of Hechi 
+一穴居种记述. 动物学研究, 25(3): 227-231.] Prefecture and its zoogeographical characteristics [J]. Res Devel Cons, 
+Chen XY, Yang JX, Cui GH. 2006. A new species of genus 8(1): 29-31. [蓝家湖, 陈跃进, 陈景星, 何长才. 1992. 广西河池地
+Sinocrossocheilus (Cyprinidae) from Guangxi, China [J]. Zool Res, 区鱼类动物地理学特征. 资源开发和保护, 8(1): 29-31.] 
+27(1): 81-85. [陈小勇, 杨君兴, 崔桂华. 2006. 广西华缨鱼属鱼类一Lan JH, Lan HD, Chen YJ, Chen JX, He CC. 1997. The ichthyofauna of 
+新种记述. 动物学研究, 27(1): 81-85.] Hechi Prefecture of Guangxi and its zoogeogaphical analysis[A]. In: 
+Du LN, Chen XY, Yang JX. 2008. A review of the nemacheilinae genus China Fish Society. Transaction of the Chinese Ichthyological Society 
+Oreonectes Günther with descriptions of two new species (Teleostei: (No. 6) [C]. Beijing: Science Press, 120-129.[蓝家湖, 蓝浩东, 陈跃
+Balitoridae) [J]. Zootaxa, 1729: 23-36. 进, 陈景星, 何长才. 1997. 广西河池地区鱼类区系及动物地理学
+Gan X. Chen XY, Yang JX. 2007. A new nemacheilae loach of genus 分析.见: 中国鱼类学会. 鱼类学论文集 (第六辑). 北京: 科学出版
+Yunnanilus (Balitoridae) from Guangxi, China [J]. Zool Res, 28(3): 社, 120-129.] 
+321-324. [甘  西, 陈小勇, 杨君兴. 2007. 广西云南鳅属鱼类一新Lan JH, Zhao YH,& Zhang CG. 2004. A new species of the genus 
+种记述. 动物学研究, 28(3): 321-324.] Sinocyclocheilus from China. (Cypriniformes, Cyprinidae, Barbinae) 
+Hu XY, Lan JH, Zhang CG. 2004. A new species of the genus Duanensis [J]. Acta Zootax Sin, 29(2): 377-380. [蓝家湖, 赵亚辉, 张春光. 2004. 
+(Siluriformes, Siluridae) from Guangxi, China [J]. Acta Zootax Sin, 中国金线鲃属一新种. 动物分类学报, 29(2): 377-380.] 
+190 动  物  学  研  究 30卷 
+Li WX, Lan JH, Chen SY. 2003. A new species of cave Sinocyclocheilus Cyprinidae)[J]. Ichthyol Explor Freshwat, 11(3): 265-271. 
+from Guangxi—Sinocyclocheilus jiuxuensis Li et Lan, sp. nov [J]. J Zhang E. 2008. Description of a new genus and two newspecies of 
+Guangxi Normal Univ, 21( 4): 83-85. [李维贤, 蓝家湖. 2003. 广西洞labeonine fishes from South China (Teleostei: Cyprinidae)[J]. Zootaxa, 
+穴金线鲃一新种--九圩金线鲃. 广西师范大学学报 (自然科学版), 1682: 33-44. 
+21(4): 83-85.] Zhao YH, Lan JH, Zhang CG. 2004. A newspecies of amblycipitid catfish, 
+Li WX, Xiao H, Luo ZY, Ban CH, Ben JB. 2003. A new species of Xiurenbagrus gigas (Teleostei: Siluriformes), from Guangxi, China[J]. 
+Sinocyclocheilus from caves in Guangxi [J]. J Guangxi Normal Univ, Ichthyol Res, 51(3): 228-232. 
+21(3): 80-81. [李维贤, 肖  蘅, 罗忠义, 班川华, 贲劲波. 2003. 广Zhao YH, Lan JH, Zhang CG. 2008. A new cave Fish species, 
+西洞穴金线鲃属一新种. 广西师范大学学报 (自然科学版), 21(3): Sinocyclocheilus brevibarbatus, (Teleostei: Cypriniformes: Cyprinidae) 
+80-81.] from Guangxi, China[J]. Environ Biol Fish, DOI 
+Yang JX, Chen XY, Lan JH. 2004. Occurrence of two new plateau-indicator 10.1007/s10641-008-9338-6. 
+loaches of Nemacheiline (Balitoridae)in Guangxi with reference to Zhao YH, Watanabe K, ZHANG CG.. 2006. Sinocyclocheilus donglanensis, 
+zoogeographical significance [J]. Zool Res, 25(2): 111-116. [杨君兴, a new cave fish (Teleostei: Cypriniformes) from Guangxi, China[J]. 
+陈小勇, 蓝家湖. 2004. 高原特有条鳅鱼类两新种在广西的发现及Ichthyol Res, 53(2): 121-128. 
+其动物地理学意义. 动物学研究, 25(2): 111-116.] Zhang ZL, Zhao YH, Zhang CG. 2006. A new Blind loach, Oreonectes 
+Yue PQ. 2000a. Fauna Sinica. Osteichthyes. Cypriniformes Ⅱ[M]. Beijing: translucens (Teleostei: Cypriniformes: Nemacheilinae), from Guangxi, 
+Sciences Press. [乐佩琦. 2000a. 中国动物志 硬骨鱼纲 鲤形目 (中China[J]. Zool Stu, 45(4): 611-615. 
+卷). 北京: 科学出版社.] Zhou J, Zhang CG.. 2005. The Freshwater Fishes of Guangxi, China [M]. 
+Yue PQ. 2000b. Fauna Sinica. Osteichthyes. Cypriniformes Ⅲ [M]. Beijing: Nanning: People Press in Guangxi. [周解, 张春光. 2005. 广西淡水鱼
+Sciences Press. [乐佩琦. 2000b.中国动物志 硬骨鱼纲 鲤形目 (下类志. 南宁: 广西人民出版社.] 
+卷). 北京: 科学出版社.] Zhu SQ. 1989. The Loaches of the Subfamily Nemacheilinae in China 
+Zhang CG, Zhao YH. 2001. A new fish of Sinocyclocheilus from Guangxi, (Cypriniformes: Cobitidae) [M]. Nanjing: Jiangsu Science and 
+China with a comment on its some biological adaptation Technology Publishing House. [朱松泉. 1989, 中国条鳅志. 南京: 江
+(Cypriniformes: Cyprinidae) [J]. Acta Zootax Sin, 26 (1): 102-107. [张苏科学技术出版社.] 
+春光, 赵亚辉. 2001. 中国广西金线鲃一新种及其生态适应性研究. Zhu SQ. 1995. The Index of Freshwater Fishes in China [M]. Nanjing: 
+动物分类学报, 26 (1): 102-107.] Jiangsu Science and Technology Publishing House. [朱松泉. 1995. 中
+Zhang E. 2000. Revision of the cyprinid genus Parasinilabeo, with 国淡水鱼类检索. 南京: 江苏科学技术出版社.] 
+descriptions of two new species from Southern China (Teleostei:  
+附录 Ⅰ  广西河池地区淡水鱼类名录和分布 
+Appendix Ⅰ  List and distribution of freshwater fishes in Hechi, Guangxi, China 
+分类 Taxa 柳江 Liu River 红水河 Hongshui River 
+鲼形目MYLIOBATIFORMES   
+  魟科Dasyatidae   
+1赤魟Dasyatis akajei1（EN） +  
+鳗鲡目ANGUILLIFORMES   
+  鳗鲡科Anguillidae   
+    2日本鳗鲡Anguilla japonica1+ ⊕ 
+    3花鳗鲡Anguilla marmorata1+ + 
+鲑形目SALMONIFORMES   
+  银鱼科Salangidae   
+    4太湖新银鱼Neosalanx taihuensis  + 
+脂鲤目CHARACIFORMES   
+  脂鲤科Characidae   
+    5短盖巨脂鲤Colossoma brachypomun3⊕ ⊕ 
+鲤形目CYPRINIFORMES   
+  鲤科Cyprinidea   
+  鱼丹亚科Danioninae   
+    6宽鳍鱲Zacco platypus + + 
+    7马口鱼Opsariichthys bidens + + 
+   *8瑶山鲤Yaoshanicus arcus + + 
+    9南方波鱼Rasbora steineri + + 
+  雅罗鱼亚科Leuciscinae   
+    10青鱼Mylopharyngodon piceus ⊕ ⊕ 
+    11鯮Luciobrama macrocephalus (VU)  ⊕ 
+    12草鱼Ctenopharyngodon idella ⊕ + 
+    13赤眼鳟Squaliobarbus curriculus  + ⊕ 
+2期 韦日锋等：广西河池地区鱼类资源调查及两支流的鱼类多样性比较 191 
+分类 Taxa 柳江 Liu River 红水河 Hongshui River 
+    14鳤Ochetobius elongatus + + 
+    15鳡Elopichthys bambusa  ⊕ 
+  鲌亚科Cultrinae   
+    16细鳊Metzia lineatus  ⊕ ⊕ 
+    17台细鳊Metzia formosae (VU)  ⊕ 
+    18大眼华鳊Sinibrama macrops +  
+19海南华鳊Sinibrama melrosei + + 
+    20飘鱼Pseudolaubuca sinensis + ⊕ 
+    21寡鳞飘鱼Pseudolaubuca engraulis   ⊕ 
+    22餐条鱼Hemiculter leucisculus  + + 
+    23伍氏半餐Hemiculterella wui ⊕ ⊕ 
+    24南方拟餐Pseudohemiculter dispar + + 
+    25金华拟餐Pseudohemiculter kinghwaensis +  
+26海南似鱼乔 Toxabramis houdermeri  + 
+27 红鳍原鲌Cultrichthys erythropterus  ⊕ 
+    28海南鲌Culter recurviceps ⊕  
+    29大眼近原鲌Ancherythroculter lini   ⊕ 
+    30鳊Parabramis pekinensis + ⊕ 
+    31三角鲂Megalobrama terminalis + + 
+    32团头鲂Megalobrama amblycephala3⊕ ⊕ 
+  鲴亚科Xenocyprinae   
+    33银鲴Xenocypris argentea  + ⊕ 
+    34细鳞鲴Xenocypris microlepis +  
+  鲢亚科Hypophthalmichthyinae   
+    35鳙Hypophthalmichthys nobilis ⊕ ⊕ 
+    36鲢Hypophthalmichthys molitrix + ⊕ 
+  鮈亚科Gobioninae   
+    37唇鱼骨  Hemibarbus labeo + + 
+    38花鱼骨    Hemibarbus maculates + + 
+    39麦穗鱼Pseudorasbora parva + + 
+40小鳈 Sarcocheilichthys parvus +  
+    41黑鳍鳈Sarcocheilichthys nigripinnis  +  
+    42银鮈Squalidus argentatus + + 
+    43点纹银鮈Squalidus wolterstorffi ⊕  
+    44似鮈Pseudogobio vaillanti +  
+    45棒花鱼Abbottina rivularis + + 
+    46福建小鳔鮈Microphysogobio fukiensis +  
+    47建德小鳔鮈Microphysogobio tafangensis +  
+    48长体小鳔鮈Microphysogobio elongatus + + 
+    49乐山小鳔鮈Microphysogobio kiatingensis + + 
+    50似鲮小鳔鮈Microphysogobio labeoides +  
+    51片唇鮈Platysmacheilus exiguous ⊕  
+    52蛇鮈Saurogobio dabryi + + 
+  鳅鮀亚科Gobiobotinae   
+    53海南鳅鮀Gobiobotia kolleri + + 
+  鱊亚科Acheilognathinae   
+    54大鳍鱊Acheilognathus marcopterus  ⊕ 
+    55短须鱊Acheilognathus barbatulus + ⊕ 
+    56越南鱊Acheilognathus tonkinensis + + 
+    57广西副鱊Paracheilognathus meridianus ⊕  
+    58高体鳑鲏Rhodeus ocellatus + + 
+  鲃亚科Barbinae   
+    59光倒刺鲃Spinibarbus hollandi + + 
+    60倒刺鲃Spinibarbus denticulatus + + 
+61条纹小鲃Puntius semifasciolata + + 
+192 动  物  学  研  究 30卷 
+分类 Taxa 柳江 Liu River 红水河 Hongshui River 
+    62大鳞金线鲃Sinocyclocheilus macrolepis + + 
+63多斑金线鲃Sinocyclocheilus multipuntatus  + 
+   *64宜山金线鲃Sinocyclocheilus yishanensis +  
+   *65九圩金线鲃Sinocyclocheilus jiuxuensis  + 
+*66小眼金线鲃Sinocyclocheilus microphthalmus (VU)  + 
+    67高肩金线鲃Sinocyclocheilus altishoulderus  + 
+   *68大眼金线鲃Sinocyclocheilus macrophthalmus  + 
+   *69短身金线鲃Sinocyclocheilus brevis +  
+   *70叉背金线鲃 Sinocyclocheilus furcodorsalis  + 
+   *71天峨金线鲃Sinocyclocheilus tianeensis  + 
+*72短须金线鲃Sinocyclocheilus brevibarbatus  + 
+*73东兰金线鲃Sinocyclocheilus donglanensis  + 
+*74驯乐金线鲃Sinocyclocheilus xunlensis  + 
+    75单纹似鳡Luciocyprinus langsoni (VU) + ⊕ 
+    76侧条光唇鱼Acrossocheilus parallens +  
+77带半刺光唇鱼Acrossocheilus hemispinus cinctus ⊕  
+    78细身光唇鱼Acrossocheilus malacopterus ⊕ + 
+    79云南光唇鱼Acrossocheilus yunnanensis  + 
+80虹彩光唇鱼Acrossocheilus iridescens + + 
+    81粗须白甲鱼Onychostoma barbata ⊕ + 
+    82南方白甲鱼Onychostoma gerlachi + ⊕ 
+    83小口白甲鱼Onychostoma lini (VU) + ⊕ 
+84菱形白甲鱼Onychostoma ovale rhomboids + ⊕ 
+    85稀有白甲鱼Onychostoma rara (EN) + + 
+    86瓣结鱼Tor brevifilis brevifilis + ⊕ 
+    87叶结鱼Tor zonatus (VU) + ⊕ 
+  野鲮亚科Labeoninae   
+    88桂孟加拉鲮Bangana decora + ⊕ 
+    89盆唇孟加拉鲮Bangana discognathoides + + 
+    90露斯塔野鲮Labeo rohita3⊕ ⊕ 
+    91鲮Cirrhinus molitorella ⊕ ⊕ 
+    92纹唇鱼Osteochilus salsburyi ⊕ + 
+    93直口鲮Rectoris posehensis + + 
+    94巴马拟缨鱼Pseudocrossocheilus bamaensis + + 
+*95柳城拟缨鱼Pseudocrossocheilus liuchengensis + ⊕ 
+*96袍里红水鱼Hongshuia paoli  + 
+*97板么红水鱼Hongshuia banmo  + 
+    98异华鲮Parasinilabeo assimilis +  
+    99长体异华鲮Parasinilabeo longicorpus  ⊕ 
+    100唇鱼Semilabeo notabilis (VU) + ⊕ 
+    101暗色唇鱼Semilabeo obscurus (VU)  + 
+    102泉水鱼Pseudogyrinocheilus prochilus  + 
+    103卷口鱼Ptychidio jordani ⊕ ⊕ 
+   *104大眼卷口鱼Ptychidio macrops (EN) ⊕  
+   *105长须卷口鱼Ptychidio longibarbus  + 
+   *106小口华缨鱼Sinocrossocheilus microstomatus  + 
+    107东方墨头鱼Garra orientalis + ⊕ 
+    108云南盘鮈Discogobio yunnanensis  + 
+    109宽头盘鮈Discogobio laticeps  + 
+    110多线盘鮈Discogobio multilineatus  + 
+    111四须盘鮈Discogobio tetrabarbatus + ⊕ 
+    112伍氏盘口鲮Discocheilus wui  + 
+  鲤亚科Cyprininae    
+    113乌原鲤Procypris merus (VU) ⊕ ⊕ 
+    114三角鲤Cyprinus multitaeniata ⊕ + 
+2期 韦日锋等：广西河池地区鱼类资源调查及两支流的鱼类多样性比较 193 
+分类 Taxa 柳江 Liu River 红水河 Hongshui River 
+    115鲤Cyprinus carpio + + 
+    116鲫Carassius auratus + + 
+    117美丽小条鳅Micronemacheilus pulcher + + 
+   *118透明间条鳅Heminoemacheilus hyalinus  + 
+   *119郑氏间条鳅Heminoemacheilus zhengbaoshani  + 
+   *120叉尾岭鳅Oreonectes furcocaudalis ⊕ + 
+   *121后鳍岭鳅Oreonectes retrodorsalis (VU)  + 
+    122平头岭鳅Oreonectes platycephalus + + 
+123透明岭鳅Oreonectes translucens  + 
+124小眼岭鳅Oreonectes microphthalmus +  
+125长须云南鳅 Yunnanilus longibarbatus  + 
+*126丽纹云南鳅Yunnanilus zebrinus  + 
+    127横纹南鳅 Schistura fasciolata + + 
+   *128黄体高原鳅Triplophysa flavicorpus  + 
+   *129南丹高原鳅Triplophysa nandanensis  + 
+   *130天峨高原鳅Triplophysa tianeensis  + 
+131后鳍盲副鳅Paracobitis posterodarsalus  + 
+  沙鳅亚科Botiinae   
+    132壮体沙鳅Botia robusta + + 
+    133美丽沙鳅Botia pulchra + + 
+    134花斑副沙鳅Parabotia fasciata + + 
+    135后鳍薄鳅Leptobotia posterodorsalis +  
+    136斑纹薄鳅Leptobotia zebra +  
+137大斑薄鳅Leptobotia pellegrini + + 
+  花鳅亚科Cobitinae   
+   *138无眼原花鳅Protocobitis typhlops  + 
+    139中华花鳅Cobitis sinensis + + 
+    140泥鳅Misgurnus anguillicaudatus + + 
+141大鳞副泥鳅Paramisgurnus dabryanus  + 
+  平鳍鳅科Homalopteridae   
+  腹吸鳅亚科Gastromyzoninae   
+    142平舟原缨口鳅Vanmanenia pingchowensis + ⊕ 
+    143中华原吸鳅Protomyzon sinensis +  
+144似原吸鳅Protomyzon multifasciatus  ⊕ 
+    145秉氏爬岩鳅Beaufortia pingi  + 
+146贵州爬岩鳅Beaufortia kweichowensis kweichowensis +  
+  平鳍鳅亚科Homalopterinae   
+    147广西华平鳅Sinohomaloptera kwangsiensis  + ⊕ 
+    148伍氏华吸鳅Sinogastromyzon wui + ⊕ 
+鲇形目SILURIFORMES   
+  鲇科Siluridae   
+    149西江鲇Silurus gilberti ⊕ ⊕ 
+    150越南鲇Silurus cochinchinensis ⊕ + 
+    151鲇Silurus asotus + + 
+    152都安鲇Silurus duanensis  + 
+    153大口鲇Silurus meridionalis +  
+  胡子鲇科Clariidae   
+    154胡子鲇Clarias fuscus + + 
+    155尖齿胡子鲇Clarias gariepinus3⊕ ⊕ 
+  长臀鮠科Cranoglanididae   
+    156长臀鮠Cranoglanis bouderius bouderius (VU) + + 
+  鲿科Bagridae   
+    157黄颡鱼Pelteobagrus fulvidraco +  
+    158中间黄颡鱼Pelteobagrus intermedius  ⊕ 
+    159瓦氏黄颡鱼Pelteobagrus vachelli + + 
+194 动  物  学  研  究 30卷 
+分类 Taxa 柳江 Liu River 红水河 Hongshui River 
+    160粗唇鮠Leiocassis crassilabris + + 
+    161条纹鮠Pseudobagrus virgatus + ⊕ 
+    162斑鳠Mystus guttatus + + 
+    163大鳍鳠Mystus macropterus ⊕ ⊕ 
+  鮡科Sisoridae   
+    164福建纹胸鮡Glyptothorax fokiensis fokiensis + + 
+    165长尾鮡Pareuchiloglanis longicauda  + 
+  钝头鮠科Amblycipitidae   
+   *166巨修仁鱼央 Xiurenbagrus gigas  + 
+鳉形目CYPRINODONTIFORMES   
+  青鳉科Oryziatidae   
+    167青鳉Oryzias latipes (VU)  ⊕ 
+  胎鳉科Poeciliidae   
+    168食蚊鱼Gambusia affinis3⊕ ⊕ 
+合鳃鱼目SYNBRANCHIFORMES   
+  合鳃鱼科Synbranchidae   
+    169黄鳝Monopterus albus + + 
+鲈形目PERCIFORMES   
+  脂科Serranidae   
+    170中国少鳞鳜Coreoperca whiteheadi + ⊕ 
+    171波纹鳜Siniperca undulate (VU) + ⊕ 
+172暗鳜Siniperca obscura +  
+    173斑鳜Siniperca scherzeri + ⊕ 
+    174大眼鳜Siniperca kneri + ⊕ 
+  丽鱼科Cichlidae   
+    175莫桑比克非鲫Tilapia mossambicus3⊕ ⊕ 
+塘鳢科Eleotridae   
+    176海南细齿塘鳢Philypnus chalmersi ⊕ + 
+    177大鳞细齿塘鳢Philypnus hainanensis + + 
+  鰕虎鱼科Gobiidae   
+    178粘皮鲻鰕虎鱼Mugilogobius myxodermus ⊕ ⊕ 
+    179子陵吻鰕虎鱼Rhinogobius giurinus + + 
+    180溪吻鰕虎鱼Rhinogobius duospilus + ⊕ 
+    181褐栉吻鰕虎鱼Rhinogobius brunneus + + 
+  斗鱼科Belontiidae   
+    182叉尾斗鱼Macropodus opercularis + ⊕ 
+  鳢科Channidae   
+    183斑鳢Channa maculata  + + 
+    184月鳢Channa asiatica + + 
+  刺鳅科Mastacembelidae   
+    185大刺鳅Mastacembelus armatus  + + 
++:采集分布；⊕:文献记录分布；*:广西特有种或亚种；1洄游性种类；2河口种类；3引入种；(EN): 濒危；(VU): 易
+危。 
++: collection distribution; ⊕: distribution of reference records; *: endemic species or subspecies in Guangxi; superscript 1 
+migration species; superscript 2 estuarine species; superscript 3 introduced species; (EN): endangered; (VU): vulnerable. 

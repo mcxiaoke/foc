@@ -1,0 +1,524 @@
+生物多样性  2015, 23 (4): 499–506                                                         doi: 10.17520/biods.2014270 
+Biodiversity Science                                                              http: //www.biodiversity-science.net 
+ 
+·研究报告· 
+乌江下游干流鱼类物种多样性及其资源保护 
+肖  琼1  杨  志2  唐会元2  段鹏翔1  王晓清1  肖调义1  刘小燕1* 
+1 (湖南农业大学动物科学技术学院, 长沙 410000) 
+2 (水利部/中国科学院水工程生态研究所, 水利部水工程生态效应与生态修复重点实验室, 武汉 430079)  
+摘要: 为摸清乌江下游干流现有的鱼类种类组成和物种多样性状况, 探索水电开发对鱼类群落多样性的影响, 本
+研究于银盘电站蓄水前的2006–2008年和蓄水后的2011–2013年, 采用渔获物调查方法对乌江下游沿河至白马干流
+江段鱼类进行了调查。两次调查共采集鱼类105种, 其中2006–2008年采集到100种, 2011–2013年采集到62种; 两次
+调查相比, 广适性鱼类减少10.38%, 湖沼定居型鱼类减少0.98%, 喜流水性鱼类减少9.62%。两个时期的鱼类群落
+多样性分析显示: 各个调查江段Margalef丰富度指数(R)和Shannon-Wiener多样性指数(H)在2011–2013年均低于
+2006–2008年。渔获物分析结果表明: 大鳍鳠(Mystus macropterus)、中华倒刺鲃(Spinibarbus sinensis)、瓣结鱼(Tor 
+(Folifer) brevifilis)等鱼类在渔获物中的重量比例从2006–2008年间的大于5%, 下降到2011–2013年间的不足2%, 而
+(Hemiculter leucisculus)、草鱼(Ctenopharyngodon idellus)、黄颡鱼(Pelteobagrus fulvidraco)等在2011–2013年渔获
+物中的重量比例有所上升, 成为调查区域的主要渔获对象。丰度生物量比较表明: 2006–2008年鱼类群落结构受到
+中等程度的干扰, 而2011–2013年受到严重程度的干扰。为保护乌江下游的鱼类生物多样性, 需采取现有栖息地修
+复、控制过度捕捞等多种资源保护方式。 
+关键词: 乌江, 种类组成, 物种多样性, 丰度生物量比较, 保护措施 
+Species diversity of fish and its conservation in the mainstream of the 
+lower reaches of Wu River  
+Qiong Xiao1, Zhi Yang2, Huiyuan Tang2, Pengxiang Duan1, Xiaoqing Wang1, Tiaoyi Xiao1, Xiaoyan Liu1* 
+1 College of Animal Science and Technology, Hunan Agricultural University, Changsha 410000 
+2 Key Laboratory of Ecological Impacts of Hydraulic-Projects and Restoration of Aquatic Ecosystem of Ministry of 
+Water Resources, Institute of Hydroecology, Ministry of Water Resources and Chinese Academy of Sciences, Wuhan 
+430079 
+Abstract: To understand the status of fish species diversity in the lower reaches of Wu River and to assess 
+the impacts of hydropower station development on fish species diversity, two surveys were carried out along 
+the Yanhe to Baima section in the mainstream of the lower reaches of Wu River from 2006 to 2008 (the time 
+period before the sluice of Yinpan and Pengshui hydropower station) and from 2011 to 2013 (the time period 
+after the sluice of Yinpan and Pengshui hydropower station) respectively by using fishery catch surveys. One 
+hundred and five fish species were found from the two surveys, of which 100 fish species were sampled 
+during 2006 and 2008, while only 62 fish species were found during 2011 and 2013. When the two datasets 
+were compared, we found that the number proportion of eurytopic fish species, limnophilic fish species and 
+rheophilic fish species in the catches of 2011–2013 decreased by 10.38%, 0.98% and 9.62%, respectively. 
+Species diversity analysis indicated that the values of Margalef richness index (R) and Shannon-Wiener 
+diversity index (H) during 2011 and 2013 were lower than those found during 2006 and 2008. Fishery catch 
+structures indicated that the weight proportions of some species, such as Mystus macropterus, Spinibarbus 
+sinensis, and Tor (Folifer) brevifilis, decreased from over 5% in the fishery catches of 2006–2008 to less than 
+2% in 2011–2013, but that the weight proportions of other species, such as Hemiculter leucisculus, 
+—————————————————— 
+收稿日期: 2014-12-28; 接受日期: 2015-06-23 
+基金项目: 国家自然科学基金(51209151, 51379134)和“十二五”国家科技支撑计划课题(2012BAC06B01) 
+* 通讯作者 Author for correspondence. E-mail: liuxy186@163.com 
+500 生 物 多 样 性  Biodiversity Science 第23卷 
+Ctenopharyngodon idellus, and Pelteobagrus fulvidraco, had the greatest increase in the catches of 
+2011–2013 when compared with that of 2006–2008. Abundance biomass comparison showed that fish 
+community structure of the mainstream of the lower reaches of the Wu River showed a moderately disturbed 
+pattern during 2006 and 2008, but a seriously disturbed pattern during 2011 and 2013. To protect fish 
+biodiversity of the lower reaches of Wu River, multiple protection measures, including habitat restoration and 
+controls on overfishing must be applied by government departments. 
+Key words: Wu River, species composition, species diversity, abundance biomass comparison, fish resource 
+protection 
+ 
+乌江发源于贵州省威宁县香炉山, 横穿贵州省
+1  方法 
+中部, 于涪陵汇入长江, 是长江上游右岸的最大支
+流, 其中六冲河汇口以上为上游, 汇口至思南为中1.1  调查时间与江段 
+游, 思南以下为下游。乌江全长1,037 km, 流域面积2006–2008年和2011–2013年每年的7–8月(洪水
+87,920 km2, 跨云南、贵州、湖北、重庆四个省份, 天季节)、12月(枯水季节)在乌江下游沿河至白马江段
+然落差2,124 m, 年均径流量534亿m3, 与黄河相当, 进行渔获物调查, 包括沿河、彭水、江口、武隆和
+是我国13个大水电基地之一(何光宏, 2014)。同时, 白马等5个江段, 其中沿河江段位于彭水电站库尾, 
+乌江也是人文地理、自然景观和生物多样性较丰富彭水江段位于彭水电站坝下临近江段, 江口江段位
+的地区之一(丁瑞华, 1994)。乌江干流梯级开发为12于银盘电站下游, 武隆江段位于江口镇以下, 白马
+级, 其中下游已蓄水或已建设发电的水电站包括沙江段位于三峡水库回水区域上游(图1)。各个调查江
+陀(2014年4月蓄水)、彭水(2008年1月蓄水)、银盘段涉及长度约20–25 km。 
+(2011年4月蓄水)等3个, 从而将乌江下游分割成几1.2  调查方法 
+个相互隔离的区域(何光宏, 2014)。而分割的生境、采样方法主要参照《内陆水域渔业自然资源调
+显著改变的水文情势以及电站运行的周期性涨落查手册》(张觉民和何志辉, 1991)的方法进行。调查 
+(Fan et al., 2006; Paul, 2008; Dudgeon, 2011; 时, 每个江段在一个采样期内雇用2艘船, 每船配
+Jellyman & Harding, 2012)不可避免地会对区域内备定置刺网5套(网目大小2–10 cm, 网高2–5 m, 网
+的水生生态系统包括鱼类的生物多样性造成一定长50–120 m), 饵钩2盆(23#钩, 每盆绑定饵钩约
+程度的影响。 2,500–3,000个), 虾笼3个(长60 m)进行逐日捕捞。每
+丁瑞华(1994)在20世纪80–90年代对乌江下游日进行渔获物统计, 若连续3个调查日内渔获物的
+的鱼类资源现状进行过较为系统和全面的调查。近种类组成没有差异, 则表明调查已经满足采样统计
+年来, 但胜国等(2004) (www.http://cpfd.cnki.com. 要求, 采样自然终止, 若种类组成存在差异, 则继
+cn/Article/CPFDTOTAL-ZGDX200409001056.htm)续进行调查, 一直到满足连续3个调查日中渔获物
+和杨志等(2011)先后对乌江下游部分江段的鱼类组的种类组成没有差异这一客观条件, 且调查天数至
+成进行过调查, 但是这些调查数据仅能代表彭水、少为4天。渔获物样本依朱松泉(1995)、丁瑞华
+银盘蓄水前部分江段(主要是彭水坝下江段)的鱼类(1994)、陈宜瑜(1998)、禇新洛等(1999)、乐佩琦(2000)
+种类组成情况, 不能全面反映彭水稳定运行和银盘等进行鉴定, 并测量鱼类个体的全长(精确到1 
+水电站蓄水后乌江下游干流现有水电开发背景下mm)、体长(精确到1 mm)、体重(精确到0.1 g)。 
+的鱼类种类组成及物种多样性变化情况。有鉴于此, 1.3  数据统计与分析 
+本研究于2006–2008年和2011–2013年分2个时段对(1)种类组成相似度分析: 将种类出现与否作
+乌江下游沿河至白马江段的鱼类种类组成进行了为基础数据, 以Jaccard相似性系数为基础构建两个
+调查, 以便为进一步采取措施保护该区域的鱼类多调查时期(2006–2008年以及2011–2013年)间的相似
+样性提供基础数据。 性矩阵, 采用等级聚类(非加权的组平均, 即 
+第4期 肖琼等: 乌江下游干流鱼类物种多样性及其资源保护 501 
+ 
+ 
+ 
+图1  乌江下游干流鱼类组成调查江段示意图 
+Fig. 1 Investigation section of fish community in the mainstream of the lower reaches of Wu River 
+ 
+ 
+UPGMA的分类方法(cluster analysis, CA))分析乌江comparison, ABC)进行群落扰动分析, 探讨外部环
+下游不同调查时期鱼类种类组成的相似性(Clarke 境胁迫对其的干扰程度(孙莎莎等, 2013)。对于未受
+& Warwick, 2001; Yang et al., 2012)。 扰动的群落, 生物量曲线始终位于丰度曲线之上; 
+(2)生态类型判别: 参考代应贵和陈毅峰受到中等程度扰动的群落, 生物量和丰度曲线接近
+(2007)、林 明 利 等(2013)的方法, 按照鱼类对水流生重合, 或出现部分交叉; 受到严重干扰的群落, 生
+境的偏爱性, 将乌江下游的鱼类划分为以下4个类物量曲线位于丰度曲线之下。 
+型: 河海洄游性鱼类(diadromous fish, D)、广适性鱼数据统计与分析采用Excel 2003、PRIMER 6 
+类(eurytopic fish, EU)、湖沼定居型鱼类(limnophilic (Clarke & Gorley, 2006)和r i386 3.0.1 (Everitt & 
+fish, L)和喜流水性鱼类(rheophilic fish, R)。 Hothorn, 2006)进行。 
+(3)物种多样性指数: 使用以下指数衡量各个
+2  结果 
+江段的鱼类群落多样性(张金屯, 2004; Hu et al., 
+2009; Kumar et al., 2013), 公式如下:  2.1  种类组成及其生态类型 
+Margalef丰富度指数: R = (S – 1)/lnN      (1)  2006–2008年在乌江下游沿河至白马江段统计
+Shannon-Wiener多样性指数: H = –∑Piln(Pi) 渔获物146船次, 627.69 kg, 12,839尾, 共鉴定出鱼
+(2)  类100种, 隶属于4目11科64属。其中鲤科种类最多, 
+Pielou均匀度指数: E = H/lnS             (3)  有63种, 占总种数的63.00%; 鲿科次之, 有12种, 
+Simpson优势度指数: D = ∑(Pi/N)2           (4)  占12.00%; 再次为鳅科10种, 占10.00%。2011–2013
+式中, S为种类数, N为调查中所有种类的个体数, Pi年统计渔获物107船次, 233.48 kg, 7,400尾, 共鉴定
+为调查中第i种的个体数占总个体数的比率。 出种类61种, 隶属于4目11科49属。其中鲤科种类最
+(4)使用丰度生物量比较(abundance biomass 多, 有40种, 占总种数的64.52%; 鲿科次之, 有7种, 
+502 生 物 多 样 性  Biodiversity Science 第23卷 
+占11.29%; 再次为鳅科5种, 占8.06% (附录1)。异不大, 其中Margalef丰富度指数(R)和Shannon- 
+2011–2013年较2006–2008年增加的种类包括胭脂Wiener多样性指数(H)均以沿河江段为最低。
+鱼(Myxocyprinus asiaticus)、厚颌鲂(Megalobrama 2011–2013年间, 鱼类群落的Margalef丰富度指数
+pellegrini)、蒙古鲌(Culter mongolicus mongolicus)(R)、Shannon-Wiener多样性指数(H)、Pielou均匀度
+等3种, 减少的种类包括达氏鲟(Acipenser 指数(E)、Simpson优势度指数(D)均以江口江段为最
+dabryanus)、鳗鲡(Anguilla japonica)、齐口裂腹鱼低。两次采样结果比较可知: Margalef丰富度指数(R)
+(Schizothorax (Schizothorax) prenanti)等43种。总体和Shannon-Wiener多样性指数(H)在2011–2013年间
+而言, 两个时间段共在乌江下游采集鱼类105种(附均低于2006–2008年间, 其中又以江口江段下降最
+录1)。聚类分析结果表明: 两个时段鱼类种类组成为明显, 分别下降43.35%和60.80%; Pielou均匀度
+的Jaccard相似性系数为53.77%。 指数(E)和Simpson优势度指数(D)除江口变化较大
+从不同生态类型的种类数来看, 河海洄游性鱼外, 其他江段变化均较小(图2)。 
+类(D)在两次采样中均没有发现; 广适性鱼类(EU)2.3  渔获物组成变化 
+从2006–2008年的34种下降到2011–2013年的28种; 渔获物组成如表1所示(列出重量百分比大于
+湖沼定居型鱼类(L)从2006–2008年的7种下降到2%的种类)。2006–2008年间, 重量百分比大于2%的
+2011–2013年的6种; 喜流水性鱼类(R)从2006–2008种类共有15种, 占总渔获重量的81.86%, 其中以大
+年的59种下降到2011–2013年的28种。从不同生态鳍鳠(Mystus macropterus)在渔获物中的比例最大, 
+类型鱼类种类数占各阶段记录总种类数的比例来占9.39%, 其次为鲤(Cyprinus (Cyprinus) carpio), 占
+看, 2006–2008年间到2011–2013年间, 广适性鱼类7.93%。鲤、鲇(Silurus asotus)、墨头鱼(Garra pingi 
+减少10.38%, 湖沼定居型鱼类减少0.98%, 喜流水pingi)、南方鲇(Silurus meridionalis)、白甲鱼
+性鱼类减少9.62%。 (Onychostoma sima)、铜鱼(Coreius heterodon)6种鱼类
+2.2  物种多样性指数 的尾均重大于100 g, 其他9种鱼类的尾均重均小于
+2006–2008年间, 鱼类群落的Margalef丰富度指100 g。2011–2013年间, 重量百分比大于2%的种类
+数(R)、Shannon-Wiener多样性指数(H)、Pielou均匀共有14种, 占渔获总重量的77.42%, 其中以(He- 
+度指数(E)、Simpson优势度指数(D)在5个江段间差miculter leucisculus)在渔获物中的重量比例最大, 
+ 
+ 
+图2  2006–2008年和2011–2013年乌江下游干流各个调查江段的鱼类群落多样性指数 
+Fig. 2  Indices of fish biodiversity among all investigated sections in the mainstream of the lower reaches of the Wu River during 
+2006 and 2008 and during 2011 and 2013  
+第4期 肖琼等: 乌江下游干流鱼类物种多样性及其资源保护 503 
+表1  2006–2008年和2011–2013年乌江下游干流主要渔获物组成 
+Table 1  Structures of fishery catches in the mainstream of the lower reaches of Wu River during 2006 and 2008 and during 2011 
+and 2013 
+2006–2008 2011–2013 
+种类  重量百分比尾均重 种类 重量百分比 尾均重 
+Species Percentage ofAverage bodySpecies Percentage of Average body
+Weight (%) Weight (g) weight (%) weight (g) 
+大鳍鳠 Mystus macropterus 9.39 35.5  Hemiculter leucisculus 15.8 20 
+鲤 Cyprinus (Cyprinus) carpio 7.93 228.3 草鱼 Ctenopharyngodon idellus 11.6 520.8 
+瓦氏黄颡鱼 Pelteobagrus vachelli 7.84 38.7 瓦氏黄颡鱼 Pelteobagrus vachelli 10.39 40 
+粗唇鮠 Leiocassis crassilabris 7.60 24.3 泉水鱼 Semilabeo prochilus 6.5 101.2 
+中华倒刺鲃 Spinibarbus sinensis 7.44 84.4 黄颡鱼 Pelteobagrus fulvidraco 5.08 5.1 
+泉水鱼 Semilabeo prochilus 7.29 70.2 鳜 Siniperca chuatsi 4.72 121.1 
+墨头鱼 Garra pingi pingi 6.91 214.6 鲤 Cyprinus (Cyprinus) carpio 4.21 104.5 
+瓣结鱼 Tor (Folifer) brevifilis brevifilis 5.44 63.5 吻鮈 Rhinogobio typus 3.41 61.7 
+南方鲇 Silurus meridionalis 5.21 424.8 鲫 Carassius auratus 3.14 50.9 
+白甲鱼 Onychostoma sima 3.86 114.9 粗唇鮠 Leiocassis crassilabris 2.73 30.2 
+铜鱼 Coreius heterodon 3.14 253.0 似鳊 Pseudobrama simoni 2.61 28.7 
+吻鮈 Rhinogobio typus 2.91 70.3 鲇 Silurus asotus 2.59 144 
+鲫 Carassius auratus 2.36 49.2 宽鳍鱲 Zacco platypus 2.44 23.3 
+鲇 Silurus asotus 2.30 130.3 光泽黄颡鱼 Pelteobagrus nitidus 2.2 22.5 
+宽鳍鱲 Zacco platypus 2.23 16.4    
+总计 Total 81.86   总计 Total 77.42  
+ 
+ 
+占15.80%, 其次为草鱼(Ctenopharyngodon idellus), 统计渔获物的主体。整体而言, 鱼类群落结构受到
+占11.6%。草鱼、泉水鱼(Semilabeo prochilus)、鲤、严重程度的干扰(图3)。 
+鲇、鳜(Siniperca chuatsi)这5种鱼类的尾均重大于
+3  讨论 
+100 g, 其他9种鱼类的尾均重均小于100 g。大鳍鳠、
+中华倒刺鲃(Spinibarbus sinensis)、瓣结鱼(To r 3.1  鱼类种类组成变化 
+(Folifer) brevifilis)等鱼类在渔获物中的重量比例从据《四川鱼类志》记载, 乌江下游共分布有鱼
+2006–2008年间的大于5%, 下降到2011–2013年间类114种, 隶属于7目17科, 其中种类较多的科依次
+的不足2%, 而、草鱼、黄颡鱼(Pelteobagrus 为鲤科、鲿科、鳅科和平鳍鳅科, 分别为72种、10
+fulvidraco)等在2011–2013年渔获物中的重量比例有种、7种和6种(丁瑞华, 1994)。但胜国等(2004)对乌
+较大的上升, 成为调查区域主要渔获对象的重要组江沿河至彭水段的鱼类资源进行了调查, 累计采集
+成部分(表1)。 到55种鱼类, 其中细体拟鲿(Pseudobagrus pratti)和
+2.4 群落结构扰动 红唇薄鳅(Leptobotia rubrilabris)为乌江新记录种。
+丰度生物量比较(ABC)结果表明: 2006–2008年, 本文两个时期的调查共在乌江下游采集到鱼类105
+种类排序前7位鱼类种类的丰度曲线明显位于其生种, 相较1992年以前记录的种类(丁瑞华, 1994)新增
+物量曲线之上, 表明这7种鱼类为小型鱼类或大型加21种, 减少30种(附录1), 因此至2013年12月为止, 
+鱼类的幼体, 而在第8位时, 丰度曲线和生物量曲乌江下游干流已发现的鱼类种类数应增加21种, 为
+线出现交叉; 此后, 相同种类的生物量百分比均高135种, 较之于晓东等(2005)统计的乌江全流域的鱼
+于其数量百分比, 表明这些鱼类的平均体重较大。类种类数(132种)多3种。这21种新增加的种类中, 除
+整体而言, 鱼类群落结构受到中等程度的干扰。细体拟鲿、中华纹胸鮡(Glyptothorax sinense 
+2011–2013年, 相同种类鱼类的数量百分比均高于sinense)、花斑副沙鳅(Parabotia fasciata)的数量较多
+其生物量百分比, 丰度曲线一直在生物量曲线之上, 外, 其他种类数量多在10尾以下, 这很可能与采样
+表明调查区域小型鱼类或大型鱼类的幼体占本次网具的选择、采样的时间和强度有关(李寇军等,  
+504 生 物 多 样 性  Biodiversity Science 第23卷 
+ 
+                        
+图3  2006–2008年和2011–2013年乌江下游干流鱼类ABC曲线 
+Fig. 3  ABC curve of fishes in the mainstream of the low reaches of Wu River during 2006 and 2008 and during 2011 and 2013 
+ 
+ 
+2007; 张涛等, 2010; 熊六凤等, 2010)。 2004)可知: 乌江下游干流调查区域2011–2013年的
+3.2  鱼类物种多样性变化及其原因探析 鱼类群落结构处于严重扰动状态, 2006–2008年处
+本文两个时期的鱼类群落多样性分析显示: 于中等程度扰动状态, 表明两次采样时间内调查区
+Margalef丰富度指数(R)和Shannon-Wiener多样性指域的鱼类资源均处于过度捕捞状况, 且2011–2013
+数(H)在2011–2013年均低于2006–2008年, 其中又年的捕捞强度大于2006–2008年。而过度捕捞是能
+以江口江段下降最为明显, 分别下降43.35%和够对鱼类生物多样性造成严重影响的重要因素之
+60.80%, 表明后一时期乌江下游鱼类群落多样性已一(Yemane et al., 2005); (3)三峡蓄水倒灌。三峡蓄
+发生较大改变。造成这种变化的原因主要包括以下水倒灌导致库区流水性鱼类向上游迁徙(Gao et al., 
+几个方面: (1)大坝修建。大坝的修建不仅通过水文2010), 许多从长江干流进入的种类如圆口铜鱼
+情势的改变引起上下游区域部分鱼类栖息地的消(Coreius guichenoti)、长鳍吻鮈(Rhinogobio ventralis)
+失或减少(Anderson et al., 2006)、食物网结构和功能等在乌江河口附近的数量显著减少, 导致这些鱼类
+的变化(Manuwadi et al., 2002)以及生境异质性降低进入白马以上江段的数量明显减少。 
+条件下的生物入侵(Tarkan et al., 2012)等, 而且会3.3  水电开发背景下的乌江下游鱼类多样性保护
+造成纵向多重阻隔和生境破碎化(Xie, 2003; Waples 措施探讨 
+et al., 2008; Hudman & Gido, 2013)。银盘、彭水水结合乌江下游现有的水电开发背景以及鱼类
+电站的修建和运行所形成的河道阻隔、库区生境改群落多样性特征, 我们提出以下针对乌江下游干流
+变不仅导致原有流水生境的大规模减少, 部分鱼类鱼类多样性保护的对策: (1)栖息地保护或恢复。生
+的产卵场淹没, 而且也使得长江干流部分种类无法境的就地保护是生物多样性保护最为有力和高效
+洄游到原有的产卵场进行繁殖(Fan et al., 2006), 减的方法(刘建康和曹文宣, 1992)。为保护该区域的鱼
+少了这些种类在乌江下游的分布。这与三峡水库形类资源, 首要是保护该区域的物理生境, 特别是要
+成后的鱼类资源变化相一致(Yang et al., 2012); (2)保护或恢复许多有鱼类产卵场分布的库尾减水河
+过度捕捞。渔获物结构显示: 乌江下游捕捞个体规段以及银盘坝下至白马之间的自然流水江段。应采
+格普遍偏小, 能够生长到较大规格的鲇、鳜、白甲用河流廊道生态工程技术、人工鱼巢等方法恢复这
+鱼等鱼类的尾均重也仅在100 g左右, 表明乌江下些区域原有的生境特征。(2)严格控制捕捞量。本文
+游江段存在过度捕捞情况。此外, 根据ABC结果的结果显示调查区域捕捞的个体多为大型鱼类的幼
+分类标准(Clarke & Warwick, 2001; Blanchard et al., 体, 个体尾均重偏小, 过度捕捞情况严重。建议采
+第4期 肖琼等: 乌江下游干流鱼类物种多样性及其资源保护 505 
+取措施进一步加强渔政管理, 大力打击非法捕捞, Everitt BS, Hothorn T (2006) A Handbook of Statistical 
+Analyses Using R. Taylor and Francis Group, Chapman and 
+延长禁捕时间, 设立保护区。同时, 国家和企业提Hall/CRC, Boca Raton.  
+供相关政策和资金, 促进渔民转产转业, 最终实现Fan XG, Wei QW, Chang JB, Rosenthal H, He JX, Chen DQ, 
+全流域禁捕。(3)开展生态调度。结合乌江下游干流Shen L, Du H, Yang DG (2006) A review on conservation 
+issues in the upper Yangtze River—a last chance for a big 
+电站的布局和运行情况, 开展生态调度研究与试challenge: Can Chinese paddlefish (Psephurus gladius), 
+验, 减缓因流量等水位特征改变对部分鱼类繁殖等Dabry’s sturgeon (Acipenser dabryanus) and other fish 
+生活史过程造成的影响, 特别是要减缓银盘水电站species still be saved? Journal of Applied Ichthyology, 
+22(Suppl.1), 32–39. 
+日调节运行状况下水位迅速变化使粘沉性卵暴露Gao X, Zeng Y, Wang JW, Liu HZ (2010) Immediate impacts 
+空气而死亡的影响研究。(4)建立物种多样性数据库, of the second impoundment on fish communities in the 
+开展实时监测。乌江下游梯级开发以后, 该区域鱼Three Gorges Reservoir. Environmental  Biology  of 
+Fishes, 87, 163–173. 
+类的监测数据比较分散, 无连续的监测站点支持, 
+He GH (何光宏) (2014) Study on automatic generation control 
+需要设立站点进行长期、连续、实时监测, 并建立and its application in cascade hydropower stations in 
+物种多样性数据库, 以便于在对监测数据的充分分Wujiang River. Hydropower and New Energy (水电与新能
+析下采取合理措施维持或提高现有乌江下游干流源), (7), 1–4. (in Chinese with English abstract) 
+Hu ML, Wu ZQ, Liu YL (2009) The fish fauna of mountain 
+鱼类物种多样性。 streams in the Guanshan National Nature Reserve, Jiangxi, 
+参考文献  China. Environmental Biology of Fishes, 86, 23–27. 
+Hudman SP, Gido KB (2013) Multi-scale effects of 
+Anderson EP, Freeman MC, Pringle CM (2006) Ecological impoundments on genetic structure of creek chub (Semotilus 
+consequences of hydropower development in Central Ame- atromaculatus) in the Kansas River basin. Freshwater 
+rica: impacts of small dams and water diversion on neotrop- Biology, 58, 441–453. 
+ical stream fish assemblages. River Research and Applica- Jellyman PG, Harding JS (2012) The role of dams in altering 
+tions, 22, 397–411. freshwater fish communities in New Zealand. Journal of 
+Blanchard F, LeLoc’h F, Hily C, Boucher J (2004) Fishing Marine and Freshwater Research, 46, 475–489.  
+effects on diversity, size and community structure of the Kumar NAS, Kumar J, Mahesh V, Benakappa S (2013) 
+benthic invertebrate and fish megafauna on the Bay of Assessment of fish diversity of Tunga River, Karnataka, 
+Biscay coast of France. Marine Ecology Progress Series, India. Nature and Science, 11(2), 82–87. 
+280, 249–260. Li KJ (李寇军), Qiu YS (邱永松), Wang YZ (王跃中) (2007) 
+Chen YY (陈宜瑜) (1998) Fauna Sinica (Osteichthyes): Influence of natural environment variation on fishery 
+Cypriniformes II (中国动物志·硬骨鱼纲·鲤形目(中卷)). resources in Beibu Gulf. South China Fisheries Science (南
+Science Press, Beijing. (in Chinese) 方水产), 3(1), 7–13. (in Chinese with English abstract) 
+Chu XL (禇新洛), Zheng BS (郑葆珊), Dai DY (戴定远) Lin ML (林明利), Zhang TL (张堂林), Ye SW (叶少文), Li W 
+(1999) Fauna Sinica (Osteichthyes): Siluriformes (中国动(李文), Ren P (任鹏), Yang ZW (杨战伟), Liu JS (刘家寿), 
+物志·硬骨鱼纲·鲇形目). Science Press, Beijing. (in Li ZJ (李钟杰) (2013) Status of fish resources, historical 
+Chinese) variation and fisheries management strategies in Hongze 
+Clarke KR, Gorley RN (2006) PRIMER V6: User Manual/ 
+Lake. Acta Hydrobiologica Sinica (水生生物学报), 37, 
+Tutorial. PRIMER-E, Plymouth.  
+1118–1127. (in Chinese with English abstract) 
+Clarke KR, Warwick RM (2001) Changes in Marine 
+Communities: An Approach to Statistical Analysis and Liu JK (刘建康), Cao WX (曹文宣) (1992) Fish resources of 
+Interpretation, 2nd edn. PRIMER-E, Plymouth. the Yangtze River Basin and the tactics for their 
+conservation. Resources and Environment in the Yangtze 
+Dai YG (代应贵), Chen YF (陈毅峰) (2007) Fish fauna and its 
+ecological types of Qingshui River in Guizhou Province, Valley (长江流域资源与环境), 1(1), 17–23. (in Chinese 
+with English abstract) 
+Southwest China. Chinese Journal of Ecology (生态学杂
+Manuwadi H, Wilaiwan U, Penjai S, Watanee H (2002) 
+志), 26, 682–687. (in Chinese with English abstract) 
+Possible impact of dam reservoirs and river diversions on 
+Ding RH (丁瑞华) (1994) The Fishes of Sichuan (四川鱼类material fluxes to the Gulf of Thailand. Marine Chemistry, 
+志). Sichuan Publishing House of Science & Technology, 79, 185–191. 
+Chengdu. (in Chinese) Paul WW (2008) The impact of changes in water level and 
+Dudgeon D (2011) Asian river fishes in the Anthropocene: human development on forage fish assemblages in Great 
+threats and conservation challenges in an era of rapid envi- Lakes coastal marshes. Journal of Great Lakes Research, 
+ronmental change. Journal of Fish Biology, 79, 1487–1524. 34, 615–630. 
+506 生 物 多 样 性  Biodiversity Science 第23卷 
+Sun SS (孙莎莎), Tang WQ (唐文乔), Guo HY (郭弘艺), Li characteristics of fish community structure and biodiversity 
+HH (李辉华), Liu D (刘东), Zhou TS (周天舒), Chen HZ in autumn before and after impoundment of Pengshui 
+(陈浩洲), Shen LH (沈林宏), Gu SX (顾树信) (2013) Hydropower Station. Environmental Science and 
+Composition and changes in abundance and biomass of fish Technology (环境科学与技术), 34(8), 22–29. (in Chinese 
+assemblages along the Jingjiang section of the Yangtze with English abstract) 
+River over the last decade. Biodiversity Science (生物多样Yemane D, Field JG, Leslie R (2005) Exploring the effects of 
+fishing on fish assemblages using abundance biomass 
+性), 21, 688–698. (in Chinese with English abstract) 
+comparison (ABC) curves. Journal of Marine Science, 62, 
+Tarkan AS, Copp GH, Top N, Özdemir N, Önsoy B, Bikge G, 
+374–379. 
+Filiz H, Yapici S, Ekmmei FG, Kirankaya ŞG, Emiroglu Ö, 
+Yu XD (于晓东), Luo TH (罗天宏), Zhou HZ (周红章) (2005) 
+Gaygusuz Ö, Gursoy G, Oymark A, Özcan G, Sa G (2012) 
+Are introduced gibel carp Carassius gibelio in Turkey more Large-scale patterns in species diversity of fishes in the 
+invasive in artificial than in natural waters? Fisheries Yangtze River Basin. Biodiversity Science (生物多样性), 
+Management and Ecology, 19, 178–187. 13, 473–495. (in Chinese with English abstract) 
+Waples RS, Zabel RW, Scheuerell MD, Sanderson BL (2008) Yue PQ (乐佩琦) (2000) Fauna Sinica (Osteichthyes): 
+Evolutionary responses by native species to major Cypriniformes III (中国动物志·硬骨鱼纲·鲤形目(下卷)). 
+anthropogenic changes to their ecosystems: Pacific salmon Science Press, Beijing. (in Chinese) 
+in the Columbia River hydropower system. Molecular Zhang T (张涛), Zhuang P (庄平), Zhang LZ (章龙珍), Hou JL 
+Ecology, 17, 84–96. (侯俊利), Liu JY (刘鉴毅), Wang YL (王云龙), Liu J (刘
+Xie P (2003) Three-Gorges Dam: risk to ancient fish. Science, 健) (2010) Composition and diversity of fish species in the 
+302, 1149. coast of the Yangtze River Estuary. Chinese Journal of 
+Xiong LF (熊六凤), Ouyang S (欧阳珊), Chen TH (陈堂华), Applied and Environmental Biology (应用与环境生物学
+Qi T (祁涛), Wu XP (吴小平) (2010) The resource status 报), 16, 817–821. (in Chinese with English abstract) 
+and spatio-temporal variation of freshwater mussel in 
+Zhang JT (张金屯) (2004) Quantified Ecology (数量生态
+Qinglan Lake of Jiangxi Province. Acta Agriculturae 
+学). Science Press, Beijing. (in Chinese)  
+Universitatis Jiangxiensis (江西农业大学学报), 32, 1257– 
+1264. (in Chinese with English abstract) Zhang JM (张觉民), He ZH (何志辉) (1991) Manual of 
+Yang SR, Gao X, Li MZ, Ma BS, Liu HZ (2012) Interannual Investigation for Fisheries Resources in Inland Waters (内
+variations of the fish assemblage in the transitional zones of 陆水域渔业自然资源调查手册), pp. 242–298. China 
+the Three Gorges Reservoir: persistence and stability. Agriculture Press, Beijing. (in Chinese) 
+Environmental Biology of Fishes, 93, 295–304. Zhu SQ (朱松泉) (1995) Synopsis of Freshwater Fishes of 
+Yang Z (杨志), Zheng HT (郑海涛), Xiong MH (熊美华), Hu China (中国淡水鱼类检索). Jiangsu Science and 
+JX (胡菊香), Qiao Y (乔晔), Wang X (王翔), Zhang YC Technology Publishing House, Nanjing. (in Chinese) 
+(张轶超), Chang JB (常剑波) (2011) Variation  
+ 
+ (责任编委: 陈小勇   责任编辑: 闫文杰) 
+ 
+附录  Supplementary Material 
+ 
+附录1  2006–2013年间乌江下游沿河至白马江段鱼类种类组成、分布及其生态类型 
+Appendix 1  Fish species composition, distribution and ecotypes from Yanhe to Baima reaches in the lower reaches of Wu River 
+during 2006 and 2013 
+http://www.biodiversity-science.net/fileup/PDF/w2014-270-1.pdf 
+ 
+㙪⨐ᴼᖫ૤Ӯܗ段吣㖨⥟ᰧ⏙㙪䇗Н߬ᇣ➩乌江下游ᑆ⌕鱼类⠽种໮ḋᗻ及其䌘⑤ֱᡸ生⠽໮ḋᗻ
+KWWSZZZELRGLYHUVLW\VFLHQFHQHW&1DUWLFOHGRZQORDG$UWLFOH)LOHGR"DWWDFK7\SH 3')	LG 
+附录1  2006–2013年间乌江下游沿河至白马江段鱼类种类组成、分布及其生态类型 
+Appendix 1  Fish species composition, distribution and ecotypes from Yanhe to Baima reaches in the lower reaches of Wujiang 
+River during 2006 and 2013 
+编号 目 Order 科 Family 种 Species 拉丁名 2006–2008 2011–2013 生态类型
+Number Scientific name Ecotype 
+1 鲟形目 鲟科 Acipenseridae ▲达氏鲟 Acipenser dabryanus    R 
+Acipenseriformes 
+2    中华鲟 Acipenser sinensis   D 
+3   匙吻鲟科 Polydontidae 白鲟 Psephurus gladius    R 
+4 鳗鲡目鳗鲡科 Anguillidae 鳗鲡 Anguilla japonica    D 
+Anguilliformes 
+5 鲤形目  亚口鱼科 Catostomidae 胭脂鱼 Myxocyprinus asiaticus   + R 
+Cypriniformes 
+6   鳅科 Cobitidae 红尾副鳅 Paracobitis variegatus +  R 
+7     ▲短体副鳅 Paracobitis potanini  +  R 
+8     ▲乌江副鳅 Paracobitis wujiangensis   R 
+9     贝氏高原鳅 Triplophysa bleekeri    R 
+10     中华沙鳅 Botia superciliaris  + + R 
+11     ▲宽体沙鳅 Botia reevesae  +  R 
+12     花斑副沙鳅 Parabotia fasciata  + + R 
+13     ▲长薄鳅 Leptobotia elongata  + + R 
+14     ▲红唇薄鳅 Leptobotia rubrilabris  +  R 
+15     ▲小眼薄鳅 Leptobotia microphthalma +  R 
+16     紫薄鳅 Leptobotia taeniops + + R 
+17     泥鳅 Misgurnus + + EU 
+anguillicaudatus  
+18   鲤科 Cyprinidae 宽鳍鱲 Zacco platypus  + + R 
+19     马口鱼 Opsariichthys bidens  + + R 
+20     中华细鲫 Aphyocypris chinensis    R 
+21    青鱼 Mylopharyngodon piceus +  EU 
+22     鯮 Luciobrama   EU 
+macrocephalus  
+23     草鱼 Ctenopharyngodon idellus + + EU 
+24     洛氏鱼岁　　 Phoxinus lagowskii    EU 
+25     赤眼鳟 Squaliobarbus curriculus + + EU 
+26     鳤 Ochetobius elongatus    EU 
+27     鳡 Elopichthys bambusa  +  EU 
+28    银鲴 Xenocypris argentea  + + EU 
+29     黄尾鲴 Xenocypris davidi  + + EU 
+30     圆吻鲴 Distoechodon tumirostris +  EU 
+31     细鳞鲴 Xenocypris microlepis    R 
+32     似鳊 Pseudobrama simoni + + EU 
+33    鳙 Aristichthys nobilis  + + EU 
+34     鲢 Hypophthalmichthys  + + EU 
+molitrix  
+35    彩石鳑鮍 Rhodeus lighti  + + EU 
+36     高体鳑鮍 Rhodeus ocellatus   + EU 
+37    飘鱼 Pseudolaubuca sinensis  + + EU 
+38     寡鳞飘鱼 Pseudolaubuca engraulis + + EU 
+39     华鳊 Sinibrama macrops  + + R 
+40     ▲四川华鳊 Sinibrama taeniatus +  R 
+41     ▲黑尾近红鲌 Ancherythroculter +  R 
+nigrocauda  
+42     ▲高体近红鲌 Ancherythroculter +  R 
+kurematsui  
+43     ▲半　 Hemiculterella sauvagei +  R 
+㙪⨐ ᴼᖫ ૤Ӯܗ ↉吣㖨 ⥟ᰧ⏙ 㙪䇗Н ߬小➩ 乌江ϟ游ᑆ流鱼类⠽种多ḋ性ঞ其䌘源ֱᡸ 生⠽多ḋ性   
+KWWSZZZELRGLYHUVLW\VFLHQFHQHW&1DUWLFOHGRZQORDG$UWLFOH)LOHGR"DWWDFK7\SH 3')	LG 
+44     　 Hemiculter leucisculus  + + L 
+45     ▲张氏　 Hemiculter tchangi  + + L 
+46     贝氏　 Hemiculter bleekeri  + + L 
+47     红鳍原鲌  Cultrichthys erythropterus+  L 
+48     翘嘴鲌 Culter alburnus  + + L 
+49     蒙古鲌 Culter mongolicus  + L 
+mongolicus  
+50     达氏鲌  Culter dabryi  +  L 
+51     拟尖头鲌 Culter oxycephaloides    EU 
+52     鳊 Parabramis pekinensis +  L 
+53     ▲厚颌鲂 Megalobrama pellegrini  + L 
+54    唇鱼骨 Hemibarbus labeo + + R 
+55     花鱼骨　 Hemibarbus maculatus + + EU 
+56     似鱼骨　 Belligobio nummifer +  R 
+57     麦穗鱼 Pseudorasbora parva  + + EU 
+58    黑鳍鳈 Sarcocheilichthys  + EU 
+nigripinnis  
+59     华鳈 Sarcocheilichthys sinensis +  EU 
+60     短须颌须鮈 Gnathopogon imberbis   R 
+61     银鮈 Squalidus argentatus  + + EU 
+62     西湖银鮈 Squalidus sihuensis    EU 
+63     点纹银鮈 Squalidus wolterstorffi   R 
+64     铜鱼 Coreius heterodon + + R 
+65     ▲圆口铜鱼 Coreius guichenoti   +  R 
+66     吻鮈 Rhinogobio typus  + + R 
+67     ▲圆筒吻鮈 Rhinogobio cylindricus  + + R 
+68     ▲长鳍吻鮈 Rhinogobio ventralis   +  R 
+69     ▲裸腹片唇鮈 Platysmacheilus +  R 
+nudiventris  
+70     棒花鱼 Abbotina rivularis  + + EU 
+71     ▲钝吻棒花鱼 Abbotina obtusirostris  +  R 
+72     乐山小鳔鮈 Microphysogobio +  R 
+kiatingensis  
+73     蛇鮈 Saurogobio dabryi + + EU 
+74     长蛇鮈 Saurogobio dumerili  +  EU 
+75     光唇蛇鮈 Saurogobio gymnocheilus +  R 
+76    宜昌鳅鮀 Gobiobotia filifer  + + R 
+77     ▲异鳔鳅鮀 Gobiobotia boulengeri +  R 
+78     ▲裸体异鳔鳅鮀Xenophysogobio +  R 
+nudicorpa  
+79    中华倒刺鲃 Spinibarbus sinensis  + + R 
+80     ▲鲈鲤 Percocypris pingi  +  R 
+81     ▲宽口光唇鱼 Acrossocheilus monticola +  R 
+82     云南光唇鱼 Acrossocheilus +  R 
+yunnanensis 
+83     多鳞白甲鱼 Scaphesthes macrolepis +  R 
+84     厚唇光唇鱼 Acrossocheilus labiatus +  R 
+85     白甲鱼 Onychostoma sima + + R 
+86     ▲四川白甲鱼 Onychostoma   R 
+angustistomata 
+87     ▲短身白甲鱼 Onychostoma brevis    R 
+88     瓣结鱼 Tor (Folifer) brevifilis + + R 
+brevifilis 
+89    ▲伦氏孟加拉鲮Bangana rendahli  +  R 
+90     泸溪直口鲮 Rectoris luxiensis    R 
+91     泉水鱼 Semilabeo prochilus  + + R 
+㙪⨐ ᴼᖫ ૤Ӯܗ ↉吣㖨 ⥟ᰧ⏙ 㙪䇗Н ߬小➩ 乌江ϟ游ᑆ流鱼类⠽种多ḋ性ঞ其䌘源ֱᡸ 生⠽多ḋ性   
+KWWSZZZELRGLYHUVLW\VFLHQFHQHW&1DUWLFOHGRZQORDG$UWLFOH)LOHGR"DWWDFK7\SH 3')	LG 
+92     墨头鱼 Garra pingi pingi  + + R 
+93     云南盘鮈 Discogobio yunnanensis + + R 
+94     ▲中华裂腹鱼 Schizothorax   R 
+(Schizothorax) sinensis  
+95     ▲齐口裂腹鱼 Schizothorax   R 
+(Schizothorax) prenanti  
+96     重口裂腹鱼 Schizothorax (Racoma)   R 
+davidi 
+97     灰色裂腹鱼 Schizothorax (Racoma)   R 
+griseus  
+98    ▲岩原鲤 Procypris rabaudi + + R 
+99     鲤 Cyprinus (Cyprinus) + + EU 
+carpio  
+100     鲫 Carassius auratus  + + EU 
+101   平鳍鳅科 Homalopteridae▲四川爬岩鳅 Beaufortia szechuanensis+  R 
+102     犁头鳅 Lepturichthys fimbriata  + + R 
+103     ▲中华金沙鳅 Jinshaia sinensis  + + R 
+104     ▲西昌华吸鳅 Sinogastromyzon   R 
+sichangensis  
+105     ▲四川华吸鳅 Sinogastromyzon   R 
+szechuanensis  
+106     峨嵋后平鳅 Metahomaloptera   R 
+omeiensis  
+107 鲇形目 鲇科 Suluriformes 鲇 Silurus asotus  + + EU 
+Suluriformes 
+108     南方鲇 Silurus meridionalis  +  EU 
+109   鲿科 Bagridae 黄颡鱼 Pelteobagrus fulvidraco + + EU 
+110     瓦氏黄颡鱼 Pelteobagrus vachelli  + + EU 
+111    光泽黄颡鱼 Pelteobagrus nitidus + + EU 
+112     长吻鮠 Leiocassis longirostris  + + R 
+113     粗唇鮠 Leiocassis crassilabris  + + R 
+114     乌苏拟鲿 Pseudobagrus ussuriensis +  R 
+115     切尾拟鲿 Pseudobagrus truncatus + + R 
+116     凹尾拟鲿 Pseudobagrus +  R 
+emarginatus  
+117     细体拟鲿 Pseudobagrus pratti +  R 
+118     短尾拟鲿 Pseudobagrus +  R 
+brevicaudatus 
+119     圆尾拟鲿 Pseudobagrus tenuis +  R 
+120     大鳍鳠 Mystus macropterus  + + R 
+121   钝头鮠科 Amblycipitidae白缘鱼央　 Liobagrus marginatus + + R 
+122     黑尾鱼央 Liobagrus nigricauda  +  R 
+123     ▲拟缘鱼央　 Liobagrus marginatoides +  R 
+125   鮡科 Sisoridae 中华纹胸鮡 Glyptothorax sinense + + R 
+sinense 
+126     ▲黄石爬鮡 Euchiloglanis kishinouyei   R 
+127   ▲青石爬鮡 Euchiloglanis davidi    R 
+128 鳉形目青鳉科 Cyprinodontidae 青鳉 Oryzias latipes    L 
+Cyprinodontiformes 
+129 合鳃目合鳃鱼科 Synbranchidae 黄鳝 Monopterus albus  + + EU 
+Synbranchiformes 
+130 鲈形目 Perciformes 鮨科 Serranidae 鳜 Siniperca chuatsi  + + EU 
+131     大眼鳜 Siniperca kneri + + EU 
+132     斑鳜 Siniperca scherzeri  +  EU 
+133   塘鳢科 Eleotridae 小黄䱂鱼 Micropercops swinhonis +  EU 
+134   鰕虎鱼科 Bodiidae 子陵吻鰕虎鱼 Rhinogobius giurinus  + + EU 
+135   斗鱼科 Belontiddae 叉尾斗鱼 Macropodus opercularis   L 
+136   鳢科 Channidae 乌鳢 Channa argus    EU 
+合计         100 62  
+㙪⨐ ᴼᖫ ૤Ӯܗ ↉吣㖨 ⥟ᰧ⏙ 㙪䇗Н ߬小➩ 乌江ϟ游ᑆ流鱼类⠽种多ḋ性ঞ其䌘源ֱᡸ 生⠽多ḋ性   
+KWWSZZZELRGLYHUVLW\VFLHQFHQHW&1DUWLFOHGRZQORDG$UWLFOH)LOHGR"DWWDFK7\SH 3')	LG 
+注: ▲ 长江上游特有鱼类 , R: 喜流水性鱼类; D: 河海洄游鱼类; L: 湖沼定居型鱼类; EU: 广适性鱼类. 其他数据来源: 丁瑞华(1994). 
+Species endemic to the upper reaches of the Yangtze River. R, Rheophilic fish; D, Diadromous fish; L, Limnophilic fish; EU, Eurytopic fish.  
+ 
+ 

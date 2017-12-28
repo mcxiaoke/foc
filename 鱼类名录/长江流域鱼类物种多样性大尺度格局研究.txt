@@ -1,0 +1,950 @@
+生物多样性  2005, 13 (6): 473-495                                                        doi: 10.1360/biodiv.050121 
+Biodiversity Science                                                             http: //www.biodiversity-science.net 
+ 
+长江流域鱼类物种多样性大尺度格局研究 
+于晓东 罗天宏 周红章* 
+(中国科学院动物研究所, 北京 100080) 
+摘要: 作者以长江流域鱼类编目数据库为基础数据, 研究了长江流域鱼类物种多样性的大尺度格局。长江流域内
+共记录了鱼类378种(亚种), 隶属于14目32科144属。其中淡水鱼338种(亚种), 以鲤形目为主, 达到269种(亚种), 洄
+游鱼类11种, 河口鱼类29种; 流域内特有种和受威胁物种分别有162种(亚种)和69种(亚种)。根据鱼类分布特点, 按
+水系将长江流域分为19个区域, 除了江源区和金沙江中上游外, 物种数和G-F多样性指数上游高于中下游, 但各
+区域内差异不大, 然而特有种比例从上游到下游随海拔降低而逐渐降低。利用Jaccard物种相似性系数对19个区域
+进行聚类分析, 将整个流域分成三部分: (1) 江源区和金沙江中上游, 地理上属于青藏高原东南部波状平原部分和
+横断山区, (2) 上游其他流域, 地理上属于川西高原、云贵高原、四川盆地及秦巴山区, (3) 中下游流域, 地理上属
+于淮阳山地、江南丘陵和长江中下游平原, 基本反映了流域内自然地理环境及我国大陆地势三级台阶变化的特
+点。 
+关键词: 鱼类, 物种多样性, 大尺度格局, 长江流域 
+Large-scale patterns in species diversity of fishes in the Yangtze River 
+Basin 
+Xiaodong Yu, Tianhong Luo, Hongzhang Zhou * 
+Institute of Zoology, Chinese Academy of Sciences, Beijing 100080 
+Abstract: We synthesized the information on fish diversity in the Yangtze River Basin, documenting 378 
+species/subspecies that had been recorded and described from the basin, belonging to 14 orders, 32 families 
+and 144 genera. Of these, 338 species/subspecies are freshwater fishes, of which 269 species/subspecies are 
+from the Cypriniformes. Of the total, 11 species are migratory fishes, and 29 are species of brackish water of 
+the estuary. A total of 162 species/subspecies are endemic to the river and 69 are threatened. We divided the 
+Yangtze River Basin into 19 sub-basins. Except for the two sub-basins of the headwaters and the upper 
+and middle reaches of Jinshajiang River, the other 17 sub-basins showed similar values in species rich-
+ness and G-F diversity indices, although the values were higher in the upper reaches than in the middle 
+and lower reaches. However, the proportion of endemic species decreased gradually from the headwater 
+to the estuary of the basin in parallel with the gradient of elevation. Jaccard similarity analysis showed 
+that the 19 sub-basins were clustered into three groups: (1) the headwaters and the upper and middle 
+reaches of Jinshajiang River, located in the eastern Qinghai-Xizang Plateau and Hengduan Mountains; 
+(2) the other sub-basins of the upper reaches, located in Western Sichuan Plateau, Yungui Plateau, Si-
+chuan Basin, and Qinling-Daba Mountains; (3) the middle and lower reaches, belonging to the Huaiyang 
+Mountains, Jiangnan Hills and the plain along the middle and lower reaches of the Yangtze River. This 
+grouping reflects the environmental characteristics of the basins and the three large topographic plat-
+forms of the Chinese mainland. 
+Key words: fish, species diversity, large-scale pattern, Yangtze River Basin 
+—————————————————— 
+收稿日期    : 2005-06-07; 接受日期: 2005-09-22 
+基金项目: 国家重点基础研究发展规划项目(G2000046800)、中国科学院知识创新工程领域前沿项目(KSCX3-IOZ-01)和国家基础科学人才培养基金
+(NSFC-J0030092) 
+* 通讯作者 Author for correspondence. E-mail: zhouhz@ioz.ac.cn 
+474 生 物 多 样 性  Biodiversity Science 第13卷 
+长江流域内地貌复杂多样, 可概括为高原、赣江, 以及北岸的汉江。在自然地理上覆盖了江
+山地、丘陵和平原四大类, 这不仅影响了水域类南丘陵、秦岭东段南坡和大巴山区东段、部分淮
+型、数量和水面率的分布关系, 以及水域环境的阳山地(南阳盆地和大别山地区)和中下游平原低
+气象、水文、水质理化性状等因素, 而且极大地海拔地区。湖口至长江口段为下游段, 全长1045 
+影响了该区域内动物的分布(曾详琮, 1990)。 km, 流域面积12×104 km2, 江阔水深, 地势平缓, 
+长期以来, 长江流域鱼类研究主要集中在分可以进一步分成主干流流域、太湖流域(长江三角
+类和区系方面, 而对于整个流域物种多样性格局洲)以及河口区(江阴至入海口)。 
+研究很少。虽然近年来对长江上游各支流、整个由于鱼类分布完全依赖于水系, 我们在长江
+流域以及全国大河间的物种分布差异及原因已开流域水系自然分区(11个支流)的基础上, 根据干
+展了一些研究, 并取得了不错的成绩(Chen et al., 流、主要支流和湖泊所覆盖的水系范围, 将长江
+2002; Fu et al., 2003, 2004; 王寿昆, 1997; 李思流域分为19个区域(图1)。自长江源头至长江口包
+发, 2001; 刘军等, 2004), 但这些研究在涉及长江括江源区(HY)、金沙江中上游流域(UMJS)、金?沙
+流域的分析时存在水系或地理分区方面过粗或过江下游流域(LJS)、雅砻江流域(YLS)、大渡河流
+细的问题, 因此互有争议; 此外, 引用资料的可域(DS)、岷沱江流域(MTS)、嘉陵江流域(JLS)、
+靠性问题也需要商榷。我们基于多年来的文献资乌江流域(WS)、汉江流域(HS)、沅江流域(YS)、
+料, 并参照中国科学院动物研究所标本馆多年的湘江流域(XS)、洞庭湖流域(DLS)、鄱阳湖流域
+馆藏标本, 重新对长江流域内鱼类物种及采集地(PLS)、赣江流域(GS)、太湖流域(TLS)、上游主
+进行分析, 从物种组成、特有种和受威胁物种的干流(UMS)、中游主干流(MMS)、下游主干流
+分布、物种多样性以及区域相似性分析等方面分(LMS)以及河口区(EY)(图1)。 
+析长江流域鱼类物种多样性的大尺度格局。本文1.2  数据来源及分析 
+为长江流域动物多样性大尺度格局系列研究之鱼类物种分布数据和文献主要由中国科学院
+一。 动物研究所张春光和胡学友收集整理(附录1)。鱼
+类研究资料虽然较多, 但由于来自渔业部门或地
+1  研究方法 
+方组织的调查报告, 许多是没有专家参与的, 物
+1.1  地理分区 种分布数据可靠性差, 可能带来误差。因此对文
+长江流域的范围依据水利部长江水利委员会献进行筛选, 以正式发表的鱼类专著为主(湖北
+(1999)所划定, 分为上中下游三部分共11个分支省水生生物研究所, 1976; 湖南省水产研究所, 
+流域。其中江源至宜昌段为上游, 全长4300 km, 1980; 陈景星, 1981; 郑葆珊, 1981; 中国科学院
+流域面积100×104 km2; 地势险要, 海拔落差大, 水生生物研究所和上海自然博物馆, 1982; 朱元
+包括江源区、金沙江(包括雅砻江)和上游主干流鼎, 1984a, b; 成庆泰和郑葆珊, 1987; 陕西省动
+流域、以及岷沱江(包括大渡河)、嘉陵江和乌江物研究所等, 1987; 江苏省淡水水产研究所, 
+等主要支流流域。在自然地理上, 江源区流域覆1987; 农牧渔业部水产局等, 1988; 杨干荣, 1988; 
+盖了青藏高原东南部波状平原部分, 金沙江流域褚新洛和陈银瑞, 1989a, b; 伍律等, 1989; 朱松
+覆盖了横断山区和云贵高原高海拔部分(云南高泉, 1989, 1995; 中国水产科学研究院东海水产研
+原), 岷沱江流域覆盖了川西高原和四川盆地, 嘉究所和上海水产研究所, 1990; 曾详琮, 1990; 毛
+陵江流域覆盖了秦岭西段南坡和大巴山西段, 乌节荣, 1991; 武云飞和吴翠珍, 1992; 农业部水产
+江流域覆盖了云贵高原低海拔部分(贵州高原), 司和中国科学院水生生物研究所, 1993; 刘焕章, 
+著名的长江三峡就位于宜昌上游段。宜昌至湖口1993; 丁瑞华, 1994; 李思忠和王惠民, 1995; 陈
+段为长江中游, 全长955 km, 流域面积68×104 宜瑜, 1998a, b; 乐佩琦和陈宜瑜, 1998; 郑葆珊
+km2; 主干流地势平坦, 水流平缓; 主要支流包括和戴定远, 1999; 乐佩琦, 2000), 对照中国科学院
+南岸的洞庭湖水系的沅江、湘江和鄱阳湖水系的动物研究所标本馆的馆藏标本, 校对标本的采集
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 475 
+图1  长江流域水系分布（I）和本研究的自然地理分区（II） 
+Fig.1  Sketch map of the Yangtze River Basin. I, River and tributary; II, Geographic regions (sub-basins) in this study 
+地信息, 对物种分布记录进行增补, 并补充最新华和傅天佑, 1991; 乐佩琦, 1995; 丁瑞华和赖琪, 
+发表的物种分布信息(丁瑞华, 1990, 1993; 丁瑞1996; 许涛清和张春光, 1996; 赵俊等, 1997; He, 
+ 
+476 生 物 多 样 性  Biodiversity Science 第13卷 
+1996; Zhang, 2000; Froese & Pauly, 2005), 对有争版的《中国物种红色名录》(汪松和解焱, 2004), 将
+议的物种进行筛选后汇总。 名录中定为近危以上等级的物种视为目前急需保
+对有争议物种的处理分4种情况: (1) 分类地护的受威胁物种。 
+位存在争议, 但分布范围明晰, 不会影响数据分多样性评估采用G-F指数(蒋志刚和纪力强, 1999):  
+析结果, 收录到数据库内。如白氏银汉鱼(1) F指数(DF): 指科间的多样性。在一个特
+(Allanetta bleekeri)、刀?鲚(Coilia ectenes)、中国少定科k,  
+鳞鳜(Coreoperca whiteheadi)、棱鮻(Liza carina-
+tus)、刺鳅(Mastacembelus aculeatus)、中华青鳉DFk = –∑n
+pilnpi 
+(Oryzias latipes sinensis)、戴氏南鳅(Schistura i=1
+dabryi)、湘西盲南鳅(Schistura xiangxiensis)、厚其中pi = ski / Sk, Sk为长江流域内鱼类k科中物种
+唇裂腹鱼(Schizothorax (Racoma) labrosus)、暗鳜数, ski为k科i属中的物种数, n为k科中的属数。一
+(Siniperca obscura)以及长身鳜(Siniperca roulei)。个地区的F指数 
+(2) 不同文献中分布存在争议, 经查阅并筛选文m
+献证实为长江流域分布物种, 收录到数据库内。DF = ∑DFk 
+如吉首光唇鱼(Acrossocheilus jishouensis)、细鳞鲑 k=1
+(Brachymystax lenok)、斑鳢(Channa maculata)、其中m为长江流域内鱼类的科数。 
+密点吻鰕虎鱼(Ctenogobius multimaculatus)、伍?氏(2) G指数(DG): 指属间的多样性。 
+半  (Hemiculterella wui)、大刺鳅(Mastacem- 
+belus armatus)、海南拟  (Pseudohemiculter DG ＝ –∑p
+qjlnqj 
+hainanensis)、有?明?银?鱼 (Salanx ariakensis)、无?斑j=1
+南鳅(Schistura incerta)以及拟硬刺高原鳅 (Trip-其中qj = sj / S, S为长江流域内鱼类的物种数, sj为
+lophysa (Triplophysa) pseudoscleroptera)。(3) 不j属中的物种数, p为总属数。 
+同文献中分布范围存在问题, 极有可能不是长江(3) G-F指数: DG-F ＝1 –DG /DF  
+流域内分布, 暂不收录。如细身光唇鱼 (Acros-G-F指数的特征: (1) 非单种科越多, G-F指
+socheilus elongates)、侧条光唇鱼(A. parallens)、数越高; (2) G-F指数是0–1的测度。 
+细纹颌须鮈(Gnathopogon taeniellus)、长吻鱼骨 长江流域内各区域间的相似性比较采用聚类
+(Hemibarbus longirostris)、鳗尾鱼央(Liobagrus an-分析的方法(Ludwig & Reynolds, 1988), 以各区
+guillicauda)、广西副鱊(Paracheilognathus me-域内物种组成的相异程度和相似程度对区域进行
+ridianus)、短鳍鮡(Pareuchiloglanis feae)、长尾鱥归类, 建立树状图。采用物种种类的有无(0–1值), 
+(Phoxinus lagowskii)、中国大银鱼 (Protosalanx 利用Jaccard相似性系数对19个区域进行归类描
+chinensis)、长脂拟鲿(Pseudobagrus adiposalis)、述, 比较整个区域的相似性; 物种分布信息见附
+条纹二须魞(Puntius semifasciolatus)、唇鲮录1。分析中先后采用组内联法(within-groups)、
+(Semilabeo notabilis)、大眼华鳊(Sinibrama 组间联法(between-groups)、最近邻法(nearest 
+macrops) 以及达里湖高原鳅(Triplophysa (Trip-neighbor)和最远邻法或完全连接法(furthest 
+lophysa) dalaica)。(4) 分类地位和分布地区都存在neighbor or complete linkage), 最远邻法的结果最
+争议, 不收录, 如漓江少鳞鳜(Siniperca loona)。 具有生物学意义, 故我们选用这一分析方法。聚
+流域内特有种信息主要来源于数据库内物种类分析使用数理统计软件SPSS (1997)完成。 
+分布信息(基于已经发表的动物志和专著), 并参
+2  研究结果 
+照最新发表的文献(陈灵芝, 1993; 汪松和解焱, 
+2004; Chen et al., 2002; Fu et al., 2003), 对于容易2.1  物种组成 
+引起争议的物种暂不收录。濒危等级参照最新出长江流域内共记录鱼类378种(亚种), 其中有
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 477 
+338种(亚种)为淡水类群, 接近我国淡水鱼总数的类总物种数的42.86%, 比例较高; 中国特有种有
+1/3, 11种为洄游类群, 29种为河口类群(附录1)。在265种, 比例达到了70.10%, 占这些类群所对应
+分类系统上, 隶属于14目32科144属。鲤形目269的中国特有种总数的60.36%; 而且本流域内数量
+种, 占整个流域物种数的71％以上; 其次是鲇形最丰富的5目在流域内的中国特有种数量都达到
+目和鲈形目, 分别有37和35种, 各占整个流域物了这些类群所对应的中国特有种总数的一半以上
+种数的10％左右; 其他11目数量很少, 共有37种, (表2)。从长江源头至长江口, 流域内特有种的比
+仅占整个流域物种数的10％左右(表1)。与全国物例显示出上游高、中游和下游低的特点, 但随海
+种数相比, 鲤形目、鲇形目、鲟形目和合鳃鱼目拔下降而逐渐降低的趋势不明显; 而中国特有种
+比例相对较高, 在1/3以上; 与世界物种数相比, 的比例基本上随海拔降低而逐渐降低(图2)。 
+只有鲤形目和鲟形目占到10％以上, 其他目比例长江流域内国家级保护鱼类有7种, 其中, 一
+很低(表1)。 级保护的3种, 包括达氏鲟(Acipenser dabryanus)、
+鲤形目4科在长江流域都有分布, 鲤科、鳅科中华鲟(A. sinensis)和白鲟(Psephurus gladius); 二
+各有190和61种, 分别占整个流域总数的50.26%级保护的4种, 包括四川哲罗鱼(Hucho bleekeri)、
+和16.14%, 是整个流域物种最丰富的类群; 平鳍胭脂鱼(Myxocyprinus asiaticus)、松江鲈
+鳅科有17种, 占总数的4.50%; 胭脂鱼仅1种。鲇(Trachidermus fasciatus)和花鳗鲡(Anguilla mar-
+形目的鲿科和鮡科各有20种和8种, 分别占总数morata)(中华人民共和国野生动物保护法, 1989)。
+的5.29%和2.12%; 鲈形目的鰕虎鱼科和鮨科各有列入《中国物种红色名录》(汪松和解焱, 2004)
+16种和7种, 占总数的4.23％和1.85%; 鲑形目的近危等级以上的鱼类有69种, 占整个长江流域物
+银鱼科和鲀形目的鲀科各有6种, 分别占总数的种数的18.25%, 是这些类群在我国受到威胁的物
+1.59%。其他23科共有47种, 每科有1–5种, 数量种总数的1/4以上, 其中, 鲤科数量最多, 有32种, 
+较少(附录1)。 鰕虎鱼科次之, 有6种, 鲿科、鮡科和鮨科各有3
+2.2  受威胁物种和特有种分布 种, 钝头鱼央科、鲀科、鲟科、鲑科和鳅科各有2
+长江流域鱼类特有种有162种, 占流域内鱼种, 平鳍鳅科、匙吻鲟科、鲇科、胭脂鱼科、
+表1  长江流域鱼类物种组成（目级单元） 
+Table 1  Faunal composition (Order) of fishes in the Yangtze River Basin 
+长江流域 中国* 世界* 
+目Order Yangtze River Basin China World 
+鲤形目 Cypriniformes  269 597 2422 
+鲇形目 Siluriformes  37 84 2211 
+鲈形目 Perciformes  35 1068 7791 
+鲑形目 Salmoniformes 8 75 320 
+鲱形目 Clupeiformes 6 40 331 
+鲀形目 Tetrodontiformes  6 106 329 
+鳉形目 Cypriodontiformes 4 28 845 
+鲻形目 Mugiliformes 4 23 – 
+鲟形目 Acipenseriformes  3 8 25 
+鳗鲡目 Anguilliformes  2 97 597 
+鲉形目 Scorpaeniformes  1 148 1160 
+鲽形目 Pleuronectiformes 1 125 538 
+银汉鱼目 Atheriniformes 1 6 235 
+合鳃鱼目 Synbranchiformes 1 1 257 
+* 数据引自陈灵芝(1993) 
+ * Data are cited from Chen (1993).–, No data. 
+478 生 物 多 样 性  Biodiversity Science 第13卷 
+表2  长江流域鱼类特有种、中国特有种及受威胁物种的数量(目级单元) 
+Table 2  Faunal composition (Order) of endemic species, China endemic species and threatened species of fishes in the 
+Yangtze River Basin 
+ 长江流域特有种 中国特有种*, † 受威胁物种† 
+目 Endemic species to Endemic species to China *, † Threatened species† 
+Order Yangtze River Basin 长江流域 中国 长江流域 中国 
+Yangtze River BasinChinaYangtze River Basin China
+鲤形目 Cypriniformes  139 216 347 40 115 
+鲇形目 Siluriformes  17 31 44 9 20 
+鲈形目 Perciformes  3 11 19 9 45 
+鲑形目 Salmoniformes 1 4 7 2 7 
+鲱形目 Clupeiformes 1 1 2 1 8 
+鲀形目 Tetrodontiformes  1 1 5 2 5 
+鳉形目 Cypriodontiformes 0 0 1 1 4 
+鲻形目 Mugiliformes 0 0 0 0 3 
+鲟形目 Acipenseriformes  0 1 1 3 5 
+鳗鲡目 Anguilliformes  0 0 0 1 5 
+鲉形目 Scorpaeniformes  0 0 0 1 1 
+鲽形目 Pleuronectiformes 0 0 13 0 1 
+银汉鱼目 Atheriniformes 0 0 0 0 2 
+合鳃鱼目 Synbranchiformes 0 0 0 0 0 
+总计 Total 162 265 439 69 221 
+* 数据引自陈灵芝(1993)；† 数据引自汪松和解焱(2004) 
+* Data are cited from Chen (1993); † Data are cited from Wang and Xie (2004) 
+ 
+ 
+图2  长江流域内鱼类特有种比例(区域代号同图1) 
+Fig.2  Percentage of endemic species of fishes in the Yangtze River Basin. The sub-basin codes are the same as those in Fig. 1.
+ 
+鲱科、鳗鲡科、杜父鱼科和青鳉科各有1种(附录1)。 域物种较少外(21种以下), 其他区域都在80种以
+2.3  物种多样性 上。上游其他区域物种丰富, 数量平均在139种左
+如图3所示, 除了江源区和金沙江中上游流右, 雅砻江和大渡河等高海拔地区物种数相对较
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 479 
+少, 分别为82种和106种; 中游和下游流域物种均匀。F指数与G指数不同, 江源区和金沙江中上
+丰富度相近, 平均数量分别为125和120种左右, 游远低于其他区域(小于1.2), 其他区域除了雅砻
+略低于上游流域(图3)。流域内受威胁物种的分布江、大渡河、乌江和赣江较低外(小于8.0), 都在
+规律与上述规律基本相似, 除了江源区和金沙江8.02–10.79间, 比较均匀。G-F指数比较均匀, 在
+中上游数量较少外, 上游地区物种最丰富, 数量0.69–0.83间, 其中金沙江中上游较低, 长江口较
+在20种左右, 高于中游和下游的物种丰富度, 中高。 
+下游受威胁物种数量仅为10种和11种左右(图4)。2.4  区域相似性 
+从图3、4还可看出, 金沙江下游、岷沱江、嘉陵基于鱼类物种分布数据, 利用Jaccard物种相
+江、上游干流区和中游干流区5个区域内的物种似性系数和最远邻法对长江流域内19个区域进行
+(或受威胁物种)数量最多, 是目前长江流域内急聚类分析, 发现当相似性系数为0.3时, 整个流域
+需关注和保护的热点地区。 可以分成3部分(图5): ①包括江源区和金沙江中
+从表3看出, 除了江源区和金沙江中上游G指上游, 是整个流域内海拔最高的地区, 覆盖了青
+数较低外, 其他流域的都较高(大于1.0)。上游流藏高原和横断山区, 属于我国地势一级台阶; ②
+域中, 雅砻江和大渡河较低, 其他区域在2.0左包括上游其他流域, 即雅砻江、大渡河、岷沱江、
+右, 其中上游干流在整个流域内G指数最高; 中嘉陵江、乌江、上游主干流及金沙江下游组成, 主
+下游流域中除了中游干流较高, 鄱阳湖、太湖和要覆盖了云贵高原、四川盆地和秦巴山区等我国
+赣江较低外, 其他区域都在1.80–1.88之间, 比较海拔二级台阶地区以及一级向二级台阶过渡地区
+ 
+ 
+图3 长江流域不同区域内鱼类物种丰富度(区域代号同图1) 
+Fig.3  Species richness of fishes in different sub-basins in the Yangtze River Basin. The sub-basin codes are the same as 
+those in Fig. 1. 
+ 
+ 
+ 
+图4  长江流域不同区域内受威胁鱼类物种丰富度(区域代号同图1) 
+Fig.4  Species richness of the threatened fishes in different sub-basins of the Yangtze River Basin. The sub-basin codes are 
+the same as those in Fig. 1.  
+480 生 物 多 样 性  Biodiversity Science 第13卷 
+表3  长江不同区域鱼类物种多样性的G-F指数 
+Table 3  G-F index of fish species in different sub-basins of the Yangtze River Basin 
+分支流域 G指数 F指数 G-F指数 
+Sub-basin G-index (DG) F-index (DF) G-F index (DG-F) 
+江源区 HY 0.2540 1.0207 0.7512 
+金沙江中上游 UMJS 0.3576 1.1764 0.6960 
+雅砻江 YLS 1.2263 5.5581 0.7794 
+大渡河 DS 1.6028 7.7991 0.7945 
+金沙江下游 LJS 2.3015 8.5792 0.7317 
+岷沱江 MTS 2.3789 10.4467 0.7723 
+嘉陵江 JLS 2.2823 9.0868 0.7488 
+乌江 WS 1.9586 7.3830 0.7347 
+上游干流 UMS 2.4045 10.3195 0.7670 
+汉江 HS 1.8288 10.0543 0.8181 
+中游干流 MMS 2.3781 10.7891 0.7796 
+沅江 YS 1.8410 8.0251 0.7706 
+湘江 XS 1.8242 8.1340 0.7757 
+洞庭湖 DLS 1.8794 9.2580 0.7970 
+赣江 GS 1.5016 7.5544 0.8012 
+鄱阳湖 PLS 1.6369 8.1563 0.7993 
+下游干流 LMS 1.8799 9.0484 0.7922 
+太湖 TLS 1.6233 8.5042 0.8091 
+长江口 EY 1.8056 10.2394 0.8237 
+区域代号同图1  
+The sub-basin codes are the same as those in Fig. 1. 
+ 
+—川西高原; ③包括了中下游所有流域, 主要覆                                         上游到下游随着海拔降低而逐渐降低; 其中, 金
+盖了海拔较低的江南丘陵和长江中下游平原地沙江下游、岷沱江、嘉陵江、上游干流区和中游
+区, 完全属于我国地势的三级台阶部分。相似性干流区5个区域内的物种(或受威胁物种)数量最
+系数为0.5时, ②按海拔进一步分成川西高原部分多, 是目前长江流域内急需关注和保护的热点地
+(一级台阶)和上游其他部分(二级台阶), ③进一区。各分支流域内物种分布基本上依照我国阶梯
+步分成中游部分和下游部分。 形地势的三级台阶聚类, 形成了高原、中高海拔
+山地或盆地、丘陵和平原等不同特点的栖息地类
+3  讨论 
+型。这与各区域内的自然地理特征、水体面积和
+长江流域内鱼类达到了378种(亚种), 其中纯河流长度等特征以及鱼类物种组成和起源差异密
+淡水种类达到了338种(亚种), 接近全国淡水鱼总切相关。 
+数的1/3; 特有种的比例达到了43%, 是物种极为根据我国的自然地理, 长江流域分为青藏
+丰富的地区; 受威胁物种的比例也达到了全国受区、西南区以及华中区(任美锷和包浩生, 1992; 
+威胁鱼类物种总数的1/4以上。所以长江流域在我水利部长江水利委员会, 1999)。青藏区在长江流
+国鱼类物种多样性保护以及濒危动物保护中占有域内包括江源区和横断山区北部的高山峡谷部分
+重要地位。 (金沙江－雅砻江－大渡河－岷江), 属于一级台
+从物种数、受威胁物种数以及特有种的比例阶, 前者属于青藏东部高原亚区, 气候寒冷; 后
+看, 除了源头等少数区域外, 大多数区域都是从者属于川西－藏东南亚区, 气候温暖半湿润, 其
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 481 
+ 
+ 
+图5  长江流域不同区域内基于鱼类物种相似性和最远邻法的聚类分析(区域代号同图1) 
+Fig.5  Dendrogram of 19 sub-basins using the method of complete linkage (furthest neighbor) based on Jaccard similarity 
+measure of fish distribution in the Yangtze River Basin. The sub-basin codes are the same as those in Fig. 1. 
+ 
+中金沙江中上游海拔高, 气候寒冷, 与江源区更盆地小区和贵州高原小区。前者在流域内主要包
+为接近。西南区在流域内包括金沙江下游以南大括岷江—嘉陵江和嘉陵江—汉江西部区域, 以四
+部分地区和横断山区中部和南部的低海拔地区, 川盆地及周围低山山地为主, 冬暖、春早, 云雾
+属于二级台阶, 以热带山原为主要特征, 干湿季多、日照少, 内部地貌差异大; 后者在流域内主
+节明显。华中区在流域内包括了秦巴山区、四川要包括金沙江—乌江—沅江间的区域, 以贵州高
+盆地、贵州高原、江南丘陵以及长江中下游平原, 原为主, 夏无酷暑、冬少严寒, 阴雨天多。鱼类对
+在流域内可再分为江汉、秦岭亚区, 江南、南岭水系分布、水质条件和温度的依赖性较大, 其物
+亚区和川黔亚区。江汉、秦岭亚区地处暖温带向种分布随海拔的阶梯性变化, 正好符合我国阶梯
+亚热带的过渡地区, 可再细分为属于二级台阶的型地势的自然地理特征, 反映出各自然地理亚区
+秦巴山区小区以及属于三级台阶的淮阳山地、长的特征。此外, 中下游地区由于工农业发达, 植被
+江中下游平原和长江三角洲小区, 其中秦巴山区受到破坏, 河流污染相对较为严重, 这也可能是
+小区与其他小区在气候、植被以及地貌(形)因素导致鱼类物种数量和多样性较低的原因。相对于
+上差异明显, 而且相对于前者, 其他小区工农业中下游, 上游地区在自然景观上具有从河谷亚热
+发达, 人为活动频繁, 森林覆盖率低。江南、南岭带到高山顶永久冰雪带的垂直分布, 且有显著的
+亚区在流域内包括了沅江—湘江—赣江—武夷山地区差异和山地自然条件复杂性, 植被种类和气
+间的大范围区域以及鄱阳湖平原流域, 属于三级候多样化, 从而形成了生境的多样化, 而且因为
+台阶, 气候温暖多雨。川黔亚区属于我国地势一以畜牧业为主, 生境的保护程度相对较高, 为不
+级台阶向二级台阶的过渡地带, 可再细分为四川同鱼类的生境选择提供了良好的场所。 
+ 
+482 生 物 多 样 性  Biodiversity Science 第13卷 
+此外, 某一个地区鱼类的物种组成和多样性参考文献 
+高低除了与栖息环境(包括人类干扰)相关外, 还Bureau of Fisheries of Ministry of Agriculture (农牧渔业部
+与研究区域的水体面积和河流长度等流域特征有水产局), Institute of Hydrobiology of Chinese Acad-
+关, 长江的上游、中游和下游在水体面积和长度emy of Sciences (中国科学院水生生物研究所), 
+Shanghai Nature Museum (上海自然博物馆) (1988) 
+上显然不同(见研究方法的地理分区)。从以往对
+The Freshwater Fishes of China in Colored Illustra-
+我国主要河流的鱼类研究发现, 鱼种数与河流流tions, Vol. 2 (中国淡水鱼类原色图集第二集). 
+域面积、年平均流量、单位干流长和单位流域面Shanghai Scientific and Technical Publishers, Shang-
+积呈显著或极显著的正相关(王寿昆, 1997; 刘军hai. (in Chinese) 
+Bureau of Fisheries of Ministry of Agriculture (农业部水产
+等, 2004)。长江流域各区域在河流流域面积、年
+司), Institute of Hydrobiology of Chinese Academy of 
+平均流量、单位干流长和单位流域面积上都有显Sciences (中国科学院水生生物研究所) (1993) The 
+著差异(水利部长江水利委员会, 1999), 因此, 同Freshwater Fishes of China in Colored Illustrations, 
+样可能导致鱼类物种数在不同区段间存在显著差Vol. 3 (中国淡水鱼类原色图集第三集). Shanghai 
+异, 长江上游支流鱼类研究已经证实了这种现象Scientific and Technical Publishers, Shanghai. (in Chi-
+nese) 
+(刘军等, 2004)。 Changjiang Hydrological Committee of Hydrology Ministry 
+鱼类区系的组成和起源也是导致物种分布存(水利部长江水利委员会) (1999) Atlas of the Yangtze 
+在区域间差异的重要原因。江源区和金沙江中上River Basin (长江流域地图集). China Map Press, Bei-
+jing. (in Chinese) 
+游反映了高海拔流域物种特点, 共有鱼类29种, 
+Chen JX (陈景星) (1981) A study on the classification of 
+以适应高寒环境分布的裂腹鱼和高原鳅为主, 其the subfamily Cobitinae of China. In: Transactions of 
+中4种高原鳅仅在该区段分布; 上游其他区域则the Chinese Ichthyological Society, Vol. 1 (鱼类学论
+反映了中高海拔流域的物种特点, 共有鱼类279文集第一辑) (ed. The Chinese Ichthyological Society 
+种, 流域内仅在该区段分布的鱼类达到了92种, (中国鱼类学会)), pp. 21–32. Science Press, Beijing. 
+(in Chinese) 
+其中以适应高海拔或急流分布的裂腹鱼、白鱼、Chen LZ (陈灵芝) (1993) China’s Biodiversity: Current 
+高原鳅以及云南鳅等为主; 中下游流域则主要反Status and Protective Measures (中国的生物多样性: 
+映低海拔流域的物种特点, 共有鱼类261种, 流域现状及其保护对策). Science Press, Beijing. (in Chi-
+内仅在该区段分布的鱼类达到了95种, 其中洄游nese) 
+Chen Y, Chen Y, He D (2002) Biodiversity in the Yangtze 
+和河口鱼类占很大比例。 river fauna and distribution of fishes. Journal of Ich-
+总之, 长江流域鱼类物种丰富, 受威胁物种thyology, 42, 161–171. 
+和特有种比例较高, 是重点保护区域, 流域内的Chen YY (陈宜瑜) (1998a) Fauna Sinica (Osteichthyes): 
+自然地理特征、各区域的水体面积和河流长度等Cypriniformes, II (中国动物志·硬骨鱼纲·鲤形目(中
+卷)). Science Press, Beijing. (in Chinese) 
+流域特征以及鱼类物种组成和起源可能决定了鱼
+Chen YY (陈宜瑜) (1998b) The Fishes of the Hengduan 
+类物种的分布特点。当然由于各区域内物种调查Mountains Region (横断山区鱼类). Science Press, 
+工作的强度不同以及文献收集可能存在不足也会Beijing. (in Chinese) 
+对我们目前的研究结果造成一定影响。 Cheng QT (成庆泰), Zheng BS (郑葆珊) (1987) Systematic 
+Synopsis of Chinese Fishes (中国鱼类系统检索). 
+Science Press, Beijing. (in Chinese) 
+致谢  论文的基础数据基于长江流域鱼类编目数Chu XL (褚新洛), Chen YR (陈银瑞) (1989a) The Fishes 
+据库, 由中国科学院动物研究所张春光和胡学友of Yunnan (1) (云南鱼类志(上册)). Science Press, 
+完成, 在论文撰写中得到张春光研究员的指导; Beijing. (in Chinese) 
+中国科学院水生生物研究所陈毅峰研究员提供相Chu XL (褚新洛), Chen YR (陈银瑞) (1989b) The Fishes 
+关文献; 两位审稿专家帮助核实了部分数据并提of Yunnan (2) (云南鱼类志(下册)). Science Press, 
+出了宝贵的修改意见, 特此致谢。 Beijing. (in Chinese) 
+Ding RH (丁瑞华) (1990) Researches on fishes of Noe-
+macheilinae from Sichuan. II. Triplophysa. Sichuan 
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 483 
+Journal of Zoology (四川动物), 9 (2), 15–18. (in Chi-所), Institute of Hydrobiology of CAS (中国科学院水
+nese with English abstract) 生生物研究所), Lanzhou University (兰州大学) 
+Ding RH (丁瑞华) (1993) Two new species of the genus (1987) Fishes of Qinling Mountain Area (秦岭鱼类
+Triplophysa from western Sichuan (Cypriniformes: 志). Science Press, Beijing. (in Chinese) 
+Cobitidae). Acta Zootaxonomica Sinica (动物分类学Jiang ZG (蒋志刚), Ji LQ (纪力强) (1999) 
+报), 18, 247–252. (in Chinese with English abstract) Avian-mammalian species diversity in nine represen-
+Ding RH (丁瑞华) (1994) The Fishes of Sichuan, China (四tative sites in China. Chinese Biodiversity (生物多样
+川鱼类志). Sichuan Publishing House of Science and 性), 7, 220–225. (in Chinese with English abstract) 
+Technology, Chengdu. (in Chinese) Jiangsu Freshwater Fisheries Research Institute (江苏省淡
+Ding RH (丁瑞华), Fu TY (傅天佑) (1991) Two new spe-水水产研究所) (1987) The Freshwater Fishes of Ji-
+cies of the genus Pareuchiloglanis from China angsu (江苏淡水鱼类). Jiangsu Science and Technol-
+(Siluriformes: Sisoridae). Acta Zootaxonomica Sinica ogy Publishing House, Nanjing. (in Chinese) 
+(动物分类学报), 16, 369–374. (in Chinese with Eng-Li SF (李思发) (2001) A Study on Biodiversity and its Con-
+lish abstract) 
+servation of Major Fishes in the Yangtze River (长江
+Ding RH (丁瑞华), Lai Q (赖琪) (1996) A new species of 
+重要鱼类生物多样性和保护研究). Shanghai Sci-
+Triplophysa from Sichuan (Cypriniformes: Cobitidae). 
+entific and Technical Publishers, Shanghai. (in Chi-
+Acta Zootaxonomica Sinica (动物分类学报), 21, 
+nese) 
+374–376. (in Chinese with English abstract) 
+Li SZ (李思忠), Wang HM (王惠民) (1995) Fauna Sinica 
+East China Sea Fisheries Research Institute of Chinese 
+(Osteichthyes): Pleuronectiformes (中国动物志·硬骨
+Academy of Fisheries Sciences (中国水产科学研究院
+鱼纲·鲽形目). Science Press, Beijing. (in Chinese) 
+东海水产研究所), Shanghai Fisheries Research Insti-
+Liu HZ (刘焕章) (1993) Studies on Skeleton Anatomy and 
+tute (上海水产研究所) (1990) The Fishes of Shanghai 
+Phylogeny of the Sinipericine Fishes (鳜类的骨骼解剖
+Area (上海鱼类志). Shanghai Scientific and Technical 
+及其系统发育的研究
+Publishers, Shanghai. (in Chinese) ). Ph.D. dissertation, Institute of 
+Froese R, Pauly D (2005) FishBase. World wide web elec-Hydrobiology of Chinese Academy of Sciences, Wu-
+tronic publication. www.Fishbase.Org, version (09/ han. (in Chinese) 
+2005) Liu J (刘军), Cao WX (曹文宣), Chang JB (常剑波) (2004) 
+Fu C, Wu J, Chen J, Wu Q, Lei G (2003) Freshwater fish The relationship between species diversity of fish and 
+biodiversity in the Yangtze River basin of China: pat-basin characteristics of main rivers in the upper 
+terns, threats and conservation. Biodiversity and Con-reaches of the Yangtze River. Journal of Jishou Uni-
+servation, 12, 1649–1685. versity (Natural Science Edition) (吉首大学学报 (自
+Fu C, Wu J, Wang X, Lei G, Chen J (2004) Patterns of di-然科学版)), 25 (1), 42–47. (in Chinese with English 
+versity, altitudinal range and body size among fresh-abstract) 
+water fishes in the Yangtze River basin, China. Global Ludwig JA, Reynolds JF (1988) Statistical Ecology. Wiley, 
+Ecology and Biogeography, 13, 543–552. New York. 
+He S (1996) The phylogeny of the glyptosternoid fishes Mao JR (毛节荣) (1991) Zhejiang Province Annals: 
+(Teleostei: Siluriformes, Sisoridae). Cybium, 20, Freshwater Fishes (浙江动物志·淡水鱼类). Zhejiang 
+115–159. Science and Technology Publishing House, Hangzhou. 
+Hunan Fisheries Research Institute (湖南省水产研究所) (in Chinese) 
+(1980) The Fishes of Hunan (湖南鱼类志). Hunan Ren ME (任美锷), Bao HS (包浩生) (1992) Natural Re-
+Scientific and Technical Publishers, Changsha. (in gions of China and Their Exploitation (中国自然区域
+Chinese) 及开发整治). Science Press, Beijing. (in Chinese) 
+Institute of Hydrobiology of Chinese Academy of Sciences SPSS Inc (1997) SPSS Base 7.5 for Windows User’s Guide. 
+(中国科学院水生生物研究所), Shanghai Nature Mu-SPSS Inc, Chicago. 
+seum (上海自然博物馆) (1982) The Freshwater The Law of Wild Animal Protection of People’s Republic of 
+Fishes of China in Colored Illustrations, Vol. 1 (中国China (中华人民共和国野生动物保护法) (1989) The 
+淡水鱼类原色图集第一集). Shanghai Scientific and List of Wild Animals Under National Protection (国家
+Technical Publishers, Shanghai. (in Chinese) 重点保护野生动物名录). (in Chinese) 
+Institute of Hydrobiology of Hubei Province (湖北省水生Wang S (汪松), Xie Y (解焱) (2004) China Species Red 
+生物研究所) (1976) Fishes of Yangtze River (长江鱼List (Vol. 1): Red List (中国物种红色名录第一卷: 红
+类). Sciences Press, Beijing. (in Chinese) 色名录)．Higher Education Press, Beijing. (in Chinese) 
+Institute of Zoology of Shaanxi Province (陕西省动物研究
+ 
+484 生 物 多 样 性  Biodiversity Science 第13卷 
+Wang SK (王寿昆) (1997) The distribution of freshwater Zeng XC (曾详琮) (1990) Fishery Resources of the Yangtze 
+fish and the relationship between species diversity and River Basin (长江水系渔业资源). Marine Press, Bei-
+basin characteristics of main rivers in China. Chinese jing. (in Chinese) 
+Biodiversity (生物多样性), 5, 197–201. (in Chinese Zhang E (2000) Revision of the cyprinid genus Parasinila-
+with English abstract) beo, with descriptions of two new species from south-
+Wu L (伍律) Zheng JZ (郑建州), Lu KQ (吕克强), Xie JH ern China (Teleostei: Cyprinidae). Ichthyological Ex-
+(谢家骅), Luo ZQ (罗泽琴), Li DJ (李德俊), Zhao ZF ploitation of Freshwater, 11, 265–271. 
+(赵执桴) (1989) The Fishes of Guizhou (贵州鱼类志). Zhao J (赵俊), Chen XL (陈湘粦), Li WW (李文卫) (1997) 
+Guizhou People’s Press, Guiyang. (in Chinese)  A new species of the genus Acrossocheilus from Hu-
+Wu YF (武云飞), Wu CZ (吴翠珍) (1992) The Fishes of the nan Province, China (Cypriniformes: Cyprinidae). 
+Qinghai-Xizang Plateau (青藏高原鱼类). Sichuan Zoological Research (动物学研究), 18, 243–246. (in 
+Publishing House of Science and Technology, Chinese with English abstract) 
+Chengdu. (in Chinese) Zheng BS (郑葆珊) (1981) The Freshwater Fishes of 
+Xu TQ (许涛清), Zhang CG (张春光) (1996) A new species Guangxi (广西淡水鱼类志). Guangxi People’s Press, 
+of Cobitid fish from Tibet, China (Cypriniformes: Co-Nanning. (in Chinese) 
+bitidae). Acta Zootaxonomica Sinica (动物分类学报), Zheng BS (郑葆珊), Dai DY (戴定远) (1999) Fauna Sinica 
+21, 377–379. (in Chinese with English abstract) (Osteichthyes): Siluriformes (中国动物志硬骨鱼
+Yang GR (杨干荣) (1988) The Fishes of Hubei (湖北鱼类纲·鲇形目). Science Press, Beijing. (in Chinese) 
+志). Hubei Scientific and Technical Publishers, Wu-Zhu SQ (朱松泉) (1989) The Loaches of the Subfamily 
+han. (in Chinese) Namacheilinae in China (Cypriniformes: Cobitidae) 
+Yue PQ (乐佩琦) (1995) Description of a new species of (中国条鳅志). Jiangsu Science and Technology Pub-
+the genus Microphysogobio Mori from China lishing House, Nanjing. (in Chinese) 
+(Cypriniformes: Cyprinidae). Acta Zootaxonomica Zhu SQ (朱松泉) (1995) Synopsis of Freshwater Fishes of 
+Sinica (动物分类学报), 20, 495–498. (in Chinese with China (中国淡水鱼类检索). Jiangsu Science and 
+English abstract) Technology Publishing House, Nanjing. (in Chinese) 
+Yue PQ (乐佩琦) (2000) Fauna Sinica (Osteichthyes): Cy-Zhu YD (朱元鼎) (1984a) The Fishes of Fujian, Vol. 1 (福
+priniformes, III (中国动物志·硬骨鱼纲·鲤形目(下建鱼类志(上卷)). Fujian Science and Technology 
+卷)). Science Press, Beijing. (in Chinese) Publishing House, Fuzhou. (in Chinese) 
+Yue PQ (乐佩琦), Chen YY (陈宜瑜) (1998) China Red Zhu YD (朱元鼎) (1984b) The Fishes of Fujian, Vol. 2 (福
+Data Book for Endangered Animals, Vol. 1: Pisces (中建鱼类志(下卷)). Fujian Science and Technology 
+国濒危动物红皮书第一卷: 鱼类). Science Press, Publishing House, Fuzhou. (in Chinese) 
+Beijing. (in Chinese)  
+  
+  
+ (责任编辑: 闫文杰) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 485 
+附录1 长江流域鱼类名录及分布 
+Appendix 1  List and distribution of fishes in the Yangtze River Basin 
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXSDLS GS PLS MMS LMSTLSEY
+鲟形目 Acipenseriformes             
+鲟科 Acipenseridae             
+达氏鲟 Acipenser dabryanus d, e   + +++++    +   +
+中华鲟 A. sinensis d, e   +  +++ + + + + +++
+匙吻鲟科 Polyodontidae             
+白鲟 Psephurus gladius b, d, e   + ++++ +  + + + +
+鲑形目 Salmoniformes             
+鲑科 Salmonidae             
+细鳞鲑 Brachymystax lenok d      +       
+四川哲罗鱼 Hucho bleekeri a, b, d    ++++       
+银鱼科 Salangidae             
+短吻间银鱼 Hemisalanx brachyrostralis b       ++ + + + + +
+前颌间银鱼 H. prognathus f           + +
+安氏新银鱼 Neosalanx andersoni f             +
+寡齿新银鱼 N. oligodontis b   +   ++  + + +++
+太湖新银鱼 N. taihuensis b     + +++  + + +++
+有明银鱼 Salanx ariakensis e             +
+鲱形目 Clupeiformes             
+鲱科 Clupeidae             
+鲥 Tenualosa reevesii d, e       ++ + + + +++
+鳀科 Engraulidae             
+短颌鲚 Coilia branchygnathus a, b, f      + +++ + + + +++
+刀鲚 C. ectenes e       +++ + + + +++
+凤鲚 C. mystus e           + +
+黄鲫 Setipinna taty f             +
+赤鼻棱鳀 Thrissa kammalensis f             +
+鳗鲡目 Anguilliformes             
+鳗鲡科 Anguillidae             
+日本鳗鲡 Anguilla japonica e   +++++++ +++ + + + +++
+花鳗鲡 A. marmorata d, e             +
+鲤形目 Cypriniformes             
+鲤科 Cyprinidae             
+钝吻棒花鱼 Abbottina obtusirostris a, b   + ++++       
+棒花鱼 A. rivularis    + +++++ +++ + + + +++
+短须鱊 Acheilognathus barbatulus    +++ + ++   + +++
+须鱊 A. barbatus b    +  +    +++
+兴凯鱊 A. chankaensis b   ++++ + +++ + + + +++
+长身鱊 A. elongatus elongatus a, b, d   +          
+无须鱊 A. gracilis a, b   + +++ + + + +  +
+  
+486 生 物 多 样 性  Biodiversity Science 第13卷 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+寡鳞鱊 A. hypselonotus a, b   +  + ++ + + + ++
+大鳍鱊 A. macropterus b     +++ + + + + +++
+峨眉鱊 A. omeiensis a, b   + ++++       
+多鳞鱊 A. polylepis b       +++    + 
+巨口鱊 A. tabira       +  + + ++
+越南鱊 A. tonkinensis b     +  +++  +  +++
+光唇鱼 Acrossocheilus fasciatus b       + + +  + 
+吉首光唇鱼 A. jishouensis a, b       +      
+厚唇光唇鱼 A. labiatus b       ++      
+宽口光唇鱼 A. monticola a, b   + ++++++ ++   +   
+云南光唇鱼 A. yunnanensis b   +++++++ +   +   
+银白鱼 Anabarilius alburnops a, b, d   +          
+短臀白鱼 A. brevianalis a, b   +          
+程海白鱼 A. liui chenghaiensis a, b   +          
+西昌白鱼 A. liui liui a, b, d   ++         
+多鳞白鱼 A. polylepis a, b, d   +          
+邛海白鱼 A. qionghaiensis a, b, d   +         
+嵩明白鱼 A. songmingensis a, b   +          
+寻甸白鱼 A. xundianensis a, b   +          
+高体近红鲌 Ancherythroculter kurematsui a, b   + ++++       
+黑尾近红鲌 A. nigrocauda a, b   + +++    +   
+汪氏近红鲌 A. wangi a, b   + +++    +   
+中华细鲫 Aphyocypris chinensis    ++++ + +  +  ++
+鳙 Aristichthys nobilis   ++++++++ +++ + + + ++
+大鳞黑线   Atrilinea macrolepis a, b, d      +       
+黑线   A. roulei b, d           + 
+宽头四须鲃 Barbodes laticeps b     +        
+多鳞四须鲃 B. polylepis a, b     +        
+似鱼骨 Belligobio nummifer b    ++++       
+彭县似鱼骨 B. pengxianensis a, b, d    +        
+鲫 Carassius auratus auratus   ++++++++ +++ + + + +++
+圆口铜鱼 Coreius guichenoti a, b   +++++++ +   +   
+铜鱼 C. heterodon b   + +++++ +++ + + + +++
+草鱼 Ctenopharyngodon idellus   + +++++ +++ + + + +++
+翘嘴鲌 Culter alburnus   + ++++ ++  + + +++
+达氏鲌 C. dabryi dabryi   + ++++ +++ + + + +++
+程海鲌 C. mongolicus elongatus a, b   +          
+蒙古鲌 C. mongolicus mongolicus   +++++++ +++  + + +++
+邛海鲌 C. mongolicus qionghaiensis a, b   +         
+  拟尖头鲌 C. oxycephaloides a, b   + +++++ +++ + + + + 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 487 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+尖头鲌 C. oxycephalus b     ++ +  + + + 
+红鳍原鲌 Cultrichthys erythropterus   +++++++ +++ + + + +++
+鲤 Cyprinus (Cyp.) carpio   ++++++++ +++ + + + +++
+杞麓鲤 C. (Cyp.) chilia b, d   +          
+邛海鲤 C. (Cyp.) qionghaiensis a, b, d   +         
+小鲤 C. (Mesocyprinus) micristius a, b, d   +          
+短体盘鮈 Discogobio brachyphysallidos b   +          
+云南盘鮈 D. yunnanensis b   ++ ++ +   +   
+湖北圆吻鲴 Distoechodon hupeinensis a, b, d          +   
+圆吻鲴 D. tumirostris b   + ++++ +++    ++
+鳡 Elopichthys bambusa b   + +++++ +++ + + + +++
+墨头鱼 Garra pingi pingi   + ++++    +   
+嘉陵颌须鮈 Gnathopogon herzensteini a, b     ++ +    +   
+短须颌须鮈 G. imberbis a, b   ++++++++    +   
+隐须颌须鮈 G. nicholsi a, b           + 
+短身鳅鮀 Gobiobotia abbreviata a, b   + ++       
+短吻鳅鮀 G. brevirostris b      +       
+宜昌鳅鮀 G. filifer a, b   + ++++++ ++ + + +   +
+南方鳅鮀 G. meridionalis      + +++ +  +   
+董氏鳅鮀 G. tungi b           ++
+稀有鮈鲫 Gobiocypris rarus a, b, c, d    ++        
+硬刺松潘裸鲤 Gymnocypris potanini firmispinatus a, b  + +          
+松潘裸鲤 G. potanini ptanini b  +  ++        
+厚唇裸重唇鱼 Gymnodiptychus pachycheilus b, d  + +++        
+唇鱼骨 Hemibarbus labeo   + ++++++ +++ + + + ++
+花鱼骨 H. maculatus   + ++++++ +++ + + + +++
+贝氏   Hemiculter bleekeri b     ++++ +++ + + + +++
+ H. leucisculus   + +++++ +++ + + + +++
+张氏   H. tchangi a, b   +++++++       
+半   Hemiculterella sauvagei a, b   + +++++ ++      
+伍氏半   H. wui b       ++      
+小头高原鱼 Herzensteinia microcephalus b +  +          
+鲢 Hypophthalmichthys molitrix   ++++++++ +++ + + + +++
+鯮 Luciobrama macrocephalus d   + +++++ +++ + + + + +
+团头鲂 Megalobrama amblycephala a, b   +   + + + + + +++
+长体鲂 M. elongata a, b, d   +  +       
+厚颌鲂 M. pellegrini a, b   +++++++    +   
+鲂 M. skolkovii     ++ ++  + + + +
+福建小鳔鮈 Microphysogobio fukiensis b    ++  ++ +    +
+  
+488 生 物 多 样 性  Biodiversity Science 第13卷 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXSDLS GS PLS MMS LMSTLSEY
+乐山小鳔鮈 M. kiatingensis b   + ++++++ ++   +   
+小口小鳔鮈 M. microstomus a, b           ++
+洞庭小鳔鮈 M. tungtingensis a, b       ++    + 
+青鱼 Mylopharyngodon piceus   + +++++ +++ + + + +++
+鳤 Ochetobius elongatus   + +++++ +++ + + + +++
+四川白甲鱼 Onychostoma angustistomata a, b   +++++++       
+粗须白甲鱼 O. barbata b     ++ ++      
+台湾铲颌鱼 O. barbatula b         +    
+短身白甲鱼 O. brevis a, b   +  +++       
+大渡白甲鱼 O. daduensis a, b    +         
+小口白甲鱼 O. lini d       +   +   
+多鳞铲颌鱼 O. macrolepis b     +++    +   
+稀有白甲鱼 O. rara b, d     +  ++      
+白甲鱼 O. sima   + ++++++ +++   +   
+马口鱼 Opsariichthys bidens    ++++++ +++ + + + +++
+鳊 Parabramis pekinensis    +++++ +++ + + + +++
+似刺鳊鮈 Paracanthobrama guichenoti a, b       +++  + + +++
+革条副鱊 Paracheilognathus himantegus b        + +  +++
+彩副鱊 P. imberbis b    ++ +   + +++
+斑异华鲮 Parasinilabeo maculatus a, b           + 
+鲈鲤 Percocypris pingi pingi a, b, d   ++++++    +   
+尖头鱥 Phoxinus oxycephalus     +++    +  +
+片唇鮈 Platysmacheilus exiguus      + ++   +   
+长须片唇鮈 P. longibarbatus a, b, d          +   
+裸腹片唇鮈 P. nudiventris a, b   + ++++    +   
+岩原鲤 Procypris rabaudi a, b, d   +++++++ +++   +   
+似鳊 Pseudobrama simoni b    ++++ +++ + + + +++
+似鮈 Pseudogobio vaillanti b     + + +   + + 
+泉水鱼 Pseudogyrincheilus procheilus a, b   + +++    +   
+南方拟   Pseudohemiculter dispar        +     
+海南拟   P. hainanensis       +      
+贵州拟   P. kweichowensis a, b     +        
+寡鳞飘鱼 Pseudolaubuca engraulis b   + +++++ ++ + + + +++
+飘鱼 P. sinensis    +++++ ++  + + +++
+长麦穗鱼 Pseudorasbora elongata b, d         +  + 
+麦穗鱼 P. parva   ++++++++ +++ + + + +++
+中甸叶须鱼 Ptychobarbus chungtienensis chungtiensis a, b, d  + +          
+格咱叶须鱼 P. chungtienensis gezaensis a, b  + +          
+裸腹叶须鱼 P. kaznakovi b + + +         
+  泸溪直口鲮 Rectoris luxiensis a, b   + ++ +++   + + 
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 489 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+变形直口鲮 R. mutabilis b     +        
+圆筒吻鮈 Rhinogobio cylindricus a, b   +++++++ +++ + + +   
+湖南吻鮈 R. hunanensis a, b      + ++   +   
+吻鮈 R. typus b   + +++++ +++ + + + ++
+长鳍吻鮈 R. ventralis a, b   ++++++++  +  +   
+方氏鳑鲏 Rhodeus fangi b          + +++
+彩石鳑鲏 R. lighti    ++ +    + +++
+高体鳑鲏 R. ocellatus   + ++++++ +++ + + + +++
+川西鳈 Sarcocheilichthys davidi a, b    +++    +   
+江西鳈 S. kiangsiensis b       +++  +   +
+黑鳍鳈 S. nigripinnis    +++++ +++ + + + +++
+小鳈 S. parvus b       +  +   +
+华鳈 S. sinensis sinensis    +++ +++ + + + +++
+蛇鮈 Saurogobio dabryi   + ++++++ +++ + + + +++
+长蛇鮈 S. dumerili b    ++++ +++ + + + +++
+细尾蛇鮈 S. gracilicaudatus a, b      + +   +   
+光唇蛇鮈 S. gymnocheilus a, b   +  ++ +++ + + + + +
+湘江蛇鮈 S. xiangjiangensis b       ++      
+嘉陵裸裂尻鱼 Schizopygopsis kialingensis a, b     +        
+宝兴裸裂尻鱼 S. malacanthus baoxingensis a, b    ++        
+大渡软刺裸裂尻鱼 S. malacanthus chengi a, b   +++        
+软刺裸裂尻鱼 S. malacanthus malacanthus a, b + + ++++        
+重口裂腹鱼 Schizothorax (Racoma) davidi a, b  + ++++++++       
+灰色裂腹鱼 S. (Racoma) griseus b, d  +   +++       
+四川裂腹鱼 S. (Racoma) kozlovi a, b  + +++ +        
+厚唇裂腹鱼 S. (Racoma) labrosus a, b, d   +         
+长须裂腹鱼 S. (Racoma) longibarbus a, b, d    ++        
+小口裂腹鱼 S. (Racoma) microstomus a, b, d   +         
+宁蒗裂腹鱼 S. (Racoma) ninglangensis a, b, d   +         
+小裂腹鱼 S. (Racoma) parvus a, b, d   +          
+威宁裂腹鱼 S. (Racoma) yunnanensis weiningensi a, b   +  ++       
+细鳞裂腹鱼 S. (Schizothorax) chongi a, b   + +++       
+隐鳞裂腹鱼 S. (Schizothorax) cryptolepis a, b    +         
+长丝裂腹鱼 S. (Schizothorax) dolichonema b, d + + +++         
+昆明裂腹鱼 S. (Schizothorax) grahami a, b, d  + ++ ++       
+异唇裂腹鱼 S. (Schizothorax) heterochilus a, b    +         
+齐口裂腹鱼 S. (Schizothorax) prenanti a, b   +++++++    +   
+中华裂腹鱼 S. (Schizothorax) sinensis a, b     +++    +   
+短须裂腹鱼 S. (Schizothorax) wangchiachii a, b + + +++ +        
+  四川华鳊 Sinibrama taeniatus a, b   + +++       
+490 生 物 多 样 性  Biodiversity Science 第13卷 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+伍氏华鳊S. wui b    +++++ + + + + + 
+长须华鲮 Sinilabeo longibarbatus a, b     +        
+华鲮 S. rendahli a, b   ++++++++    +   
+湘华鲮 S. tungting a, b       +++   +  +
+华缨鱼 Sinocrossocheilus guizhouensis a, b, d     +        
+滇池金线鲃 Sinocyclocheilus(S.) grahami a, b, d   +          
+多斑金线鲃S.(S.) multipunctatus b     +        
+光倒刺鲃 Spinibarbus hollandi     ++  +++  + + + 
+中华倒刺鲃 S. sinensis a, b   ++++++++ +++ +  +   
+银鮈 Squalidus argentatus b   + +++++ +++ + + + +++
+亮银鮈 S. nitens a, b     +     + +++
+点纹银鮈 S. wolterstorffi b    +++++ + + + + ++
+赤眼鳟 Squaliobarbus curriculus   ++++++ +++ + + + +++
+瓣结鱼 Tor (Foliter) brevifilis brevifilis   + +++++ +++   +   
+似鱎 Toxabramis swinhonis b   ++ + +++ + + + +++
+银鲴 Xenocypris argentea   + ++++++ +++ + + + +++
+黄尾鲴 X. davidi b    ++++ +++ + + + +++
+方氏鲴 X. fangi a, b, d   + +++++       
+细鳞鲴 X. microlepis    ++++ ++  + + ++
+云南鲴 X. yunnanensis a, b, d   + +++    +   
+异鳔鳅鮀 Xenophysogobio boulengeri a, b, c   +++++++ +   +   
+裸体异鳔鳅鮀 X. nudicorpa a, b, c   ++++       
+成都鱲 Zacco chengtui a, b, d    ++       
+宽鳍鱲 Z. platypus   + ++++++ +++ + + + + +
+胭脂鱼科 Catostomidae             
+胭脂鱼 Myxocyprinus asiaticus b, d   +++++++ +++ + + + +++
+鳅科 Cobitidae             
+宽体沙鳅 Botia (Sinibotia) superciliaris a, b   +++++       
+中华沙鳅 B. reevesae b   +++++++    +   
+大斑花鳅 Cobitis macrostigma a, b       +++ + + + + 
+稀有花鳅 C. rarus b     + +       
+中华花鳅 C. sinensis    ++++ +++ + + + +++
+花鳅 C. taenia           + 
+长薄鳅 Leptobotia elongata a, b, d   ++++++++ + +  + + 
+桂林薄鳅 L. guilinensis b       +      
+小眼薄鳅 L. microphthalma a, b    ++++       
+东方薄鳅 L. orientalis b      +       
+薄鳅 L. pellegrini b     + ++      
+红唇薄鳅 L. rubrilabris a, b   + ++++ +++   +   
+  紫薄鳅 L. taeniops a, b    +++ + + + +   
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 491 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+张氏薄鳅 L. tchangi tchangi a, b       +      
+汉水扁尾薄鳅 L. tientaiensis hansuiensis a, b     ++    +   
+泥鳅 Misgurnus anguillicaudatus  + ++++++++ +++ + + + +++
+暗纹条鳅 Nemacheilus obscurus   +          
+武昌副沙鳅 Parabotia banarescui a, b      + ++   +   
+双斑副沙鳅 P. bimaculata a, b   + ++++       
+花斑副沙鳅 P. fasciata b   + ++++ +++ + + + +++
+点面副沙鳅 P. maculosa b      + ++      
+短体副鳅 Paracobitis potanini a, b   ++++++++ +++   +   
+红尾副鳅 P. variegatus b   ++++++++    +   
+乌江副鳅 P. wujiangensis a, b     ++       
+大鳞副泥鳅 Paramisgurnus dabryanus b    ++++ + +  + +++
+戴氏南鳅 Schistura dabryi b  + ++++++    +   
+横纹南鳅 S. fasciolata b   ++         
+无斑南鳅 S. incerta       +      
+湘西盲南鳅 S. xiangxiensis a, b       +      
+滇池球鳔鳅 Sphaerophysa dianchiensis a, b, c, d   +          
+多带高原鳅 Triplophysa polyfasciata a, b    ++        
+安氏高原鳅 T. (Triplophysa) angeli a, b   ++ +       
+前鳍高原鳅 T. (Triplophysa) anterodorsalis a, b   +          
+贝氏高原鳅 T. (Triplophysa) bleekeri a, b   +++++++       
+短须高原鳅 T. (Triplophysa) brevibarba a, b   ++         
+短尾高原鳅 T. (Triplophysa) brevicauda b   ++++        
+粗唇高原鳅 T. (Triplophysa) crassilabris a, b    +        
+大桥高原鳅 T. (Triplophysa) daqiaoensis a, b   ++         
+昆明高原鳅 T. (Triplophysa) grahami b   + +      +   
+梭形高原鳅 T. (Triplophysa) leptosoma b  + +++++       
+麻尔柯高原鳅 T. (Triplophysa) markehenensis a, b + + ++         
+小眼高原鳅 T. (Triplophysa) microps + +  +         
+宁蒗高原鳅 T. (Triplophysa) ninglangensis a, b   +         
+黑体高原鳅 T. (Triplophysa) obscura b     +        
+东方高原鳅 T. (Triplophysa) orientalis b +   + +        
+拟硬刺高原鳅 T. (Triplophysa) pseudoscleroptera b     +        
+粗壮高原鳅 T. (Triplophysa) robusta b     +        
+圆腹高原鳅 T. (Triplophysa) rotundiventris b +            
+细尾高原鳅 T. (Triplophysa) stenura + + ++         
+刺突高原鳅 T. (Triplophysa) stewarti +            
+斯氏高原鳅 T. (Triplophysa) stoliczkae  + ++++++       
+唐古拉高原鳅 T. (Triplophysa) tanggulaensis a, b +            
+  秀丽高原鳅 T. (Triplophysa) venusta a, b   +          
+492 生 物 多 样 性  Biodiversity Science 第13卷 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+西昌高原鳅 T. (Triplophysa) xichangensis a, b   +         
+西溪高原鳅 T. (Triplophysa) xiqiensis a, b   +          
+姚氏高原鳅 T. (Triplophysa) yaopeizhii a, b  +           
+草海云南鳅 Yunnanilus caohaiensis a, b   +  +        
+长鳔云南鳅 Y. longibulla a, b   +          
+黑斑云南鳅 Y. nigromaculatus a, b   +  +       
+侧纹云南鳅 Y. pleurotaenia a, b   +          
+四川云南鳅 Y. sichuanensis a, b   ++         
+平鳍鳅科 Homalopteridae             
+侧沟爬岩鳅 Beaufortia liui a, b   + ++        
+四川爬岩鳅 B. szechuanensis a, b   + ++++       
+窑滩间吸鳅 Hemimyzon yaotanensis a, b, d   + ++       
+短身金沙鳅 Jinshaia abbreviata a, b, c   +++++++    +   
+中华金沙鳅 J. sinensis a, b, c   ++++++    +   
+犁头鳅 Lepturichthys fimbriata a, b   ++++++++ +++   +   
+峨眉后平鳅 Metahomaloptera omeiensis omeiensis a, b, c   ++++++ +    +   
+汉水后平鳅 M. omeiensis hangshuiensis a, b, c     + +    +   
+龙口似原吸鳅 Paraprotomyzon lungkowensis a, b   +  +    +   
+似原吸鳅 P. multifasciatus b     +       
+方氏品唇鳅 Pseudogastromyzon fangi b       +      
+下司华吸鳅 Sinogastromyzon hsiashiensis a, b       ++      
+西昌华吸鳅 S. sichangensis a, b  + +++++++    +   
+四川华吸鳅 S. szechuanensis a, b   ++++++++       
+平舟原缨口鳅 Vanmanenia pinchowensis b       ++  + +   
+原缨口鳅 V. stenosoma b         +   +
+横斑原缨口鳅 V. tetraloba   +          
+鲇形目 Siluriformes             
+鲿科 Bagridae             
+粗唇鮠 Leiocassis crassilabris b   ++++++++ + +  + + 
+长须鮠 L. longibarbus a, b, d   +          
+长吻鮠 L. longirostris b   + +++++ +++ + + + +++
+叉尾鮠 L. tenuifurcatus b   +   +    +   
+大鳍鳠 Mystus macropterus b    ++++++ +++ + + + + 
+长须黄颡鱼 Pelteobagrus eupogon a, b, d   + ++  +++ + + + +++
+黄颡鱼 P. fulvidraco    ++++ + +++ + + + +++
+光泽黄颡鱼 P. nitidus b    +++++ +++ + + + +++
+瓦氏黄颡鱼 P. vachelli   + +++++ +++ + + + +++
+长臀拟鲿 Pseudobagrus analis a, b       +  +    
+短尾拟鲿 P. brevicaudatus b   +  ++++ ++  +    
+  凹尾拟鲿 P. emarginatus b   + +++++       
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 493 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+中臀拟鲿 P. medianalis a, b, d   + +++       
+峨眉拟鲿 P. omeihensis a, b    +         
+盎堂拟鲿 P. ondan b      +       
+细体拟鲿 P. pratti b   +++++++ ++ + + + + 
+条纹拟鲿 P. teaniatus b      +      ++
+圆尾拟鲿 P. tenuis b       ++ + +  +++
+切尾拟鲿 P. truncatus b   + ++++++    + +++
+乌苏拟鲿 P. ussuriensis   +  ++++ +++ + + + +++
+钝头鱼央科 Amblycipitidae             
+金氏鱼央 Liobagrus kingi a, b, d   +          
+拟缘鱼央 L. marginatoides a, b    ++        
+白缘鱼央 L. marginatus a, b, d   ++++++++ +   +   
+黑尾鱼央 L. nigricauda a, b   + +++++  + + + + 
+司氏鱼央 L. styani a, b      +     + 
+鲇科 Siluridae             
+鲇 Silurus asotus    ++++++ +++ + + + +++
+昆明鲇 S. mento b, d   +          
+大口鲇 S. meridionalis b   + ++++ ++  + + ++
+胡子鲇科 Clariidae             
+胡子鲇 Clarias fuscus     + + + + +  + 
+鮡科 Sisoridae             
+青石爬鮡 Euchiloglanis davidi a, b, d   ++++++    +   
+黄石爬鮡 E. kishinouyei a, b, d + + ++++++       
+福建纹胸鮡 Glyptothorax fukiensis fukiensis   ++++  +++     +
+中华纹胸鮡 G. sinense sinense a, b   + +++++ +++ + + +   
+前臀鮡 Pareuchiloglanis anteanalis a, b   ++++++       
+中华鮡 P. sinensis a, b, d +  + +++        
+壮体鮡 P. robusta a, b    +         
+四川鮡 P. sichuanensis a, b    ++        
+银汉鱼目 Atheriniformes             
+银汉鱼科 Atherinidae             
+白氏银汉鱼 Allanetta bleekeri f       +      +
+鳉形目 Cypriodontiformes             
+青鳉科 Oryziatidae             
+青鳉 Oryzias latipes   + ++++++ +++ + + + +++
+中华青鳉 O. latipes sinensis d   +          
+胎鳉科 Poeciliidae             
+食蚊鱼 Gambusia affinis   +  ++ +      +
+鱵科 Hemirhamphidae             
+  间下鱵Hyporhamphus intermedius     + +  + + +++
+494 生 物 多 样 性  Biodiversity Science 第13卷 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+合鳃鱼目 Synbranchiformes             
+合鳃鱼科 Synbranchidae             
+黄鳝 Monopterus albus   ++++++++ +++ + + + +++
+鲻形目 Mugiliformes             
+鲻科 Mugilidae             
+棱鮻 Liza carinatus f             +
+鮻 L. haematocheila f             +
+鲻 Mugil cephalus f           +++
+马鲅科 Polynemidae             
+四指马鲅 Eleutheronema tetradactylum f             +
+鲈形目 Perciformes             
+斗鱼科 Belontiidae             
+圆尾斗鱼 Macropodus chinensis     + + +++ + + + +++
+叉尾斗鱼 M. opercularis    +++ +++ + + +   
+鳢科 Channidae             
+乌鳢 Channa argus   ++++++++ +++ + + + +++
+月鳢 C. asiatica     +  ++ + +  ++
+斑鳢 C. maculata       +      
+鮨科 Serranidae             
+中国少鳞鳜 Coreoperca whiteheadi       ++      
+鳜 Siniperca chuatsi    ++++++ +++ + + + +++
+大眼鳜 S. kneri b    ++++++ +++ + + + ++
+暗鳜 S. obscura b, d       +++ +     +
+长身鳜 S. roulei b, d        +++ + +  + 
+斑鳜 S. scherzeri    ++++++ +++ + + + +++
+波纹鳜 S. undulata b, d     +  ++ + +    
+塘鳢科 Eleotridae             
+乌塘鳢 Bostrichthys sinensis f             +
+尖头塘鳢 Eleotris oxycephala f             +
+黄鱼幼Hypseleotris swinhonis   + +++++ +++ + + + +++
+暗色沙塘鳢 Odontobutis obscuras f      + +++ + + + +++
+鰕虎鱼科 Gobiidae             
+长体刺鰕虎鱼 Acanthogobius elongata d, f             +
+矛尾鰕虎鱼 Chaeturichthys stigmatias f             +
+褐栉鰕虎鱼 Ctenogobius brunneus     +       +
+成都栉鰕虎鱼 C. chengtuensis a, b, d    ++        +
+波氏栉鰕虎鱼 C. cliffordpopei b, f   +  +++ + +  + +++
+子陵栉鰕虎鱼 C. giurinus   +++++++ +++ + + + +++
+密点吻鰕虎鱼 C. multimaculatus b, d            +
+  神农栉鰕虎鱼 C. shennongensis a, b, d      +    +   
+第6期 于晓东等: 长江流域鱼类物种多样性大尺度格局研究 495 
+附录1 (续)  Appendix 1 (continued)  
+物种 Species HY UMJSLJSYLSDSMTSJLSWSUMSHSYSXS DLS GS PLS MMS LMSTLSEY
+四川栉鰕虎鱼 C. szechuanensis a, b, d   +  ++       
+舌鰕虎鱼 Glossogobius giuris f             +
+蝌蚪鰕虎鱼 Lophiogobius ocellicauda f             +
+粘皮鲻鰕虎鱼 Mugilogobius myxodermus d, f     +  +    + +
+多鳞鲻鰕虎鱼 M. polylepis b, d, f             +
+红狼牙鰕虎鱼 Odontamblyopus rubicundus f            ++
+斑尾复鰕虎鱼 Synechogobius ommaturus f             +
+纹缟鰕虎鱼 Tridentiger trigonocephalus f            ++
+刺鳅科 Mastacembelidae             
+刺鳅 Mastacembelus aculeatus      + +++ + + + +++
+大刺鳅 M. armatus       +++    +++
+中华刺鳅 Sinobdella sinensis       +      
+鲉形目 Scorpaeniformes             
+杜父鱼科 Cottidae             
+松江鲈 Trachidermus fasciatus d, e           +++
+鲽形目 Pleuronectiformes             
+舌鳎科 Cynoglossidae             
+窄体舌鳎 Cynoglossus gracilis f             +
+鲀形目 Tetrodontiformes             
+鲀科 Tetraodontidae             
+晕环多纪鲀 Takifugu coronoidus a, b, d, f           + +
+菊黄东方鲀 T. flavidus d, f             +
+暗纹东方鲀 T. obscurus e      + +++  + + +++
+弓斑东方鲀 T. ocellatus f        + + + +++
+虫纹东方鲀 T. vermicularis f             +
+黄鳍东方鲀 T. xanthopterus f             +
+区域代号同图1；上标分别代表长江流域特有种(a)、中国特有种(b)、中国特有属(c)、受威胁物种(d)、洄游性鱼类(e)和河口鱼(f) 
+The sub-basin codes are the same as those in Fig. 1. The superscripts represent endemic species to Yangtze River Basin (a), 
+endemic species to China (b), endemic genus to China (c); threatened species (d); migratory fishes (e), and fishes chiefly in 
+brackish water of the estuary of the river (f), respectively. 
+ 
+ 
+ 
+ 
+ 

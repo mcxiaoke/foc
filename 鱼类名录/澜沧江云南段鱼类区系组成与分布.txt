@@ -1,0 +1,670 @@
+中国水产科学  2011年1月, 18(1): 156170 
+Journal of Fishery Sciences of China    研究论文 
+DOI: 10.3724/SP.J.1118.2011.00156 
+澜沧江云南段鱼类区系组成与分布 
+刘明典1,2, 陈大庆2, 段辛斌2, 王珂2, 刘绍平2 
+1. 西南大学 生命科学学院, 重庆 400715;  
+2. 中国水产科学研究院 长江水产研究所, 农业部长江中上游渔业资源环境重点野外科学观测试验站,  
+湖北 荆州  434000 
+摘要: 2009年4月、7–8月、9月、10–11月及2010年1月对澜沧江云南段及洱海的鱼类种类和分布进行了调查。
+根据不同的海拔和生境设置52个鱼类采样点, 共采集鱼类标本4 787尾, 经鉴定计有土著鱼类5目、14科、80种, 
+加上文献资料记载整理, 共计139种, 隶属于6目、18科。澜沧江云南段鱼类由华西区的康藏亚区和华南区的怒
+澜亚区鱼类组成。另有外来鱼类21种。土著鱼类水平分布差异较明显, 具有明显的多样性和地域性。澜沧江鱼类
+的分布受海拔以及气候的影响较显著, 许多类群具有一定的分布范围, 如形目、鲈形目、鲤形目的部分种类仅局
+限于低海拔热带地区, 而占较高比例的鲤科鱼类和鲇形目鱼类的分布, 则随着海拔的升高出现类群的替代。与历史
+资料比较, 澜沧江部分江段鱼类种类数量明显减少。 [中国水产科学, 2011,18(1): 156170] 
+关键词: 鱼类区系; 组成; 分布; 澜沧江 
+中图分类号: S93      文献标识码: A           文章编号: 10058737(2011)01015615 
+澜沧江属太平洋水系, 发源于唐古拉山北麓
+拉寨贡马山一个面积为0.4 km2, 海拔5 167 m的小
+冰川[1]。澜沧江自北向南先后流经中国的青海、西
+藏和云南三省、区以及缅甸、老挝、泰国、柬埔寨
+和越南, 是东南亚地区唯一一条穿越6个国家的国
+际性河流。澜沧江–湄公河中国境内的干流总长为
+2 129 km, 其中云南段河长1 216 km[2]。根据澜沧江
+水道特征可将其分为4段[3]: 源头至昌都为河源段, 河
+床海拔5 060~3 210 m, 落差1 850 m, 平均比降3.3%;
+昌都至功果桥为上游段, 河床海拔3 210~1 230 m,
+落差1 980 m, 平均比降2.4%; 功果桥至景临桥为中
+游段, 河床海拔1 230~914 m, 落差316 m, 平均比降
+1.5%; 景临桥至勐腊县南腊河口为下游段, 河床海
+拔914~465 m, 落差449 m, 平均比降0.9%[4]。 
+澜沧江鱼类资源调查起步于20世纪50年代,
+主要是大专院校和科研院所对澜沧江不同江段进
+                                  
+收稿日期: 20100310; 修订日期: 20100531. 
+基金项目: 农业部公益性行业科研专项经费项目(200902048). 
+行鱼类资源考察和标本采集, 发现了一些鱼类新
+种和新记录种[5], 并对考察结果进行了报道[6–8]。
+目前比较系统地整理澜沧江鱼类的有《云南鱼类
+志》(上、下)[9–10]及相关研究报道[11–12]。然而, 随
+着时间和环境条件的改变, 以及水利工程、酷渔
+滥捕、水体污染等对渔业资源的严重破坏, 澜沧
+江云南段鱼类的群聚结构已经发生了变化。因此, 
+有必要对现阶段澜沧江的鱼类组成及分布进行研
+究, 其结果不仅对澜沧江渔业资源的保护和可持
+续利用具有重要的参考价值, 还可为中国西南地
+区水电开发与自然生态保护协调发展的宏观决策
+提供参考。 
+1  材料与方法 
+1.1  调查时间与区域 
+2009年4月、7–8月、9月、10–11月及2010
+作者简介: 刘明典(1980),博士研究生, 研究方向为渔业资源与生态保护. E-mail: lmd800226@163.com 
+通讯作者: 刘绍平(1963–), 研究员, 主要从事鱼类保护研究. E-mail: lsp@yfi.ac.cn 
+第1期 刘明典等: 澜沧江云南段鱼类区系组成与分布 157 
+年1月进行了5次野外调查, 调查区域包括澜沧及不同海拔设点对调查江段随机捕捞, 捕捞工具
+江云南境内干流(德钦县至勐腊县)、较大一级支包括地笼(20节, 总长18 m)、3层流刺网(网眼边
+流以及流域附属湖泊——洱海, 涉及7个自治州长分别为50 mm、20 mm、50 mm, 长50 m、高1 
+(市)、25个县(区), 共设置52个采样点(图1、附m)和肩背式电鱼机(650 W, 24 V); 2在调查河流周
+录1)。 边市(县、镇)农贸市场或向当地渔民收集购买。
+1.2  调查方法 此外, 通过查阅历史文献、走访相关渔政部门、
+本调查参照《内陆水域渔业自然资源调查手渔业从业人员了解鱼类的历史分布情况。鱼类分
+册》[13]进行。鱼类样本的获得主要通过2个途径: 类参照《云南鱼类志》[910]、《中国动物志》[14]、
+1)根据河流地形地貌特点, 沿河流不同水平距离 《中国条鳅志》[15]等。 
+ 
+2  结果与分析 
+2.1  鱼类区系种类组成 
+综合历史资料及调查结果, 澜沧江云南段共
+有鱼类139种(附录2), 隶属于6目、18科, 其中
+双孔鱼科、粒鲇科和锡伯鲇科在中国仅分布于澜
+沧江。调查共采集到鱼类4 787尾, 经分类鉴定共
+有5目、14科、80种, 其中, 澜沧江流域特有鱼
+类29种, 列入《中国濒危动物红皮书》[16] 的鱼
+类4种: 裂峡鲃、短须粒鲇、和线足鲈; 列入《中
+国物种红色名录》[17]的鱼类7种: 裂峡鲃、澜沧
+裂腹鱼、丝尾鳠、细尾、短须粒鲇、和线足
+鲈。采集的鱼类中, 鲤形目种类最多, 共55种, 占
+68.75%; 其次是鲇形目, 18种, 占22.50%。鲤?科?、
+鳅科和科鱼类种类数较多, 依次为36种、16种
+和10种。国家二级保护鱼类: 大理裂腹鱼及云南
+省二级保护鱼类: 双孔鱼、大鳍鱼、大理鲤、洱
+海鲤、春鲤、长丝以及细纹似鳡、红鳍方口鲃、
+灰裂腹鱼、鲃鲤、大眼鲤、湄南缺鳍鲇、兰坪等
+濒危种类[16–17]均未发现, 且部分种类多年未见采
+集报道。 
+此外, 采集到外来鱼类21种, 分别为青鱼、
+草鱼、、麦瑞加拉鲮、棒花鱼、云南棒花鱼、
+麦穗鱼、中华鳑、鲤、鲢、鳙、大鳞副泥鳅、
+鲇、下口鲇、食蚊鱼、波氏吻虾虎鱼、罗非鱼、
+圆尾斗鱼、黄、太湖新银鱼和小口脂鲤。 
+2.2  鱼类区系组成特征 
+ 
+ 根据李思忠[18]对中国淡水鱼类的分区, 澜沧
+图1  澜沧江云南段鱼类调查采样点区域图 江上游属华西区康藏亚区, 表现出青藏高原区鱼
+Fig. 1  Map of survey area showing sampling sites in 
+Yunnan section of Lancang River 类区系的特点, 该区域包括迪庆州及怒江州的兰 
+158 中国水产科学 第18卷 
+坪江段, 气候寒冷, 海拔在1 500~2 300 m范围,外来鱼类主要分布于中下游库区、部分支流
+其代表种类是裂腹鱼类和高原鳅类; 下游属华南及洱海。这些外来鱼类有的是当地放养的种类, 
+区的怒澜亚区, 为动物地理区划的东洋界, 主要如青鱼、草鱼、鲢、鳙、鲤、麦瑞加拉鲮、小口
+是横断山区南部的低海拔地区, 以热带山区为主, 脂鲤等; 有的是人为引种过程中无意带入的种类, 
+雨旱季季节明显, 其代表种类为鲃亚科、野鲮亚如、棒花鱼、麦穗鱼、中华鳑、食蚊鱼、波
+科、鱼类、南鳅属、副鳅属、沙鳅亚科及鲇氏吻虾虎鱼等; 也有养殖逃逸到天然水体的, 如
+形目、鳉形目、鲈形目、鲀形目鱼类; 澜沧江中罗非鱼、鲇。部分外来鱼类已繁衍成区域优势种
+游为横断山区南部, 系2个鱼类地理区划的过渡群, 如中下游库区江段的、太湖新银鱼, 洱海的
+段, 包含有2种区系成分鱼类。 波氏吻虾虎鱼、黄等。垂直分布看(表1), 澜沧
+在鱼类起源上, 澜沧江云南段土著鱼类由中江云南段大部分鱼类都集中在500~1 100 m海拔
+国平原区系、南方平原区系、南方山地区系、中范围, 如亚科、鲃亚科、野鲮亚科、南鳅属、 
+亚山地区系及晚第三纪早期区系等5个区系复合鲈形目、鲀形目以及鲇形目大部分种类; 裂腹鱼
+体组成。 类分布于1 500~2 100 m海拔范围, 高原鳅分布于
+2.3  鱼类区系分布 1 500~1 900 m海拔范围。科纹胸属鱼类垂直
+根据调查结果, 上游、中游、下游江段分别分布比较分散, 丽纹胸分布于500~700 m范围, 
+采集到鱼类13种、25种和67种, 分别占采集鱼扎那纹胸和德钦纹胸分布于1 300 m以上海拔
+类种数的16.25%、31.25%和83.75%, 洱海水域仅范围, 老挝纹胸和大斑纹胸则在500~1 700 m
+采集到土著鱼类5种, 占6.25%。上?、中?、下?游?干海拔之间均有分布。濒危鱼类中, 裂峡鲃、丝尾
+流段分别为7种、14种和24种。各支流对比, 下鳠、、短须粒鲇、线足鲈均仅分布在500~700 m
+游2支流罗梭江和南腊河鱼类种数较高, 分别为海拔范围, 澜沧裂腹鱼和细尾见于1 300~1 500 m
+57种和37种, 各占71.25%、46.25%, 较低的如范围。垂直广布的鱼类有鲫、泥鳅、中华沙鳅等。
+罗扎河及上游部分支流, 种类数在10种以下。主澜沧江鱼类的分布受海拔以及气候的影响较显著, 
+要分布于上游江段的鱼类包括裂腹鱼类、高原鳅、许多类群具有一定的分布范围, 如形目、鲈形
+2种纹胸(德钦纹胸和扎那纹胸)和3种(扁目、鲤形目的部分种类仅局限于低海拔热带地区, 
+头、细尾、兰坪); 主要分布于下游江段的而占比重很大的鲤科鱼类和鲇形目鱼类的分布则
+鱼类有鳉形目、鲈形目、鲀形目、鲇形目中的鲇随着海拔的升高出现类群的替代, 适应暖水性、
+科、鲿科、粒鲇科和科及鲤形目中的双孔鱼科低海拔的类群如鲤科的鲃亚科和野鲮亚科、鲇形
+鱼类。在澜沧江云南各段都有分布的种类有东方目的科、锡伯鲇科和?科的鱼类逐渐减少鲿, 代
+墨头鱼、鲫、中华沙鳅、泥鳅。以各河段及支流之以适应较低水温和激流生境的裂腹鱼类和科
+物种占有比例来看, 土著鱼类水平分布差异较明鱼类。 
+显, 具有明显的多样性和地域性。 
+与历史分布记录比较, 鱼类种类组成发生的3  讨论 
+较明显变化主要集中在中、下游干流段, 减少的3.1  澜沧江流域土著鱼类的种类数 
+种类包括鲃亚科、野鲮亚科、裂腹鱼亚科、鲇科、对于澜沧江流域土著鱼类种类数, 有诸多不
+科、鲈形目等部分鱼类。洱海及其附属水域的同的研究结果。多数研究者认为澜沧江土著鱼类
+鱼类组成也发生了较大的变化, 历史上有分布的有124种[10,19–20], 也有报道130种[21]、134种[12]
+土著珍稀鱼类如大眼鲤、春鲤、洱海鲤、大理鲤、以及137种[22]。康?斌?等[11]比较系统地总结了澜沧
+大理裂腹鱼、油吻孔鲃、颌突吻孔鲃等现在已很江鱼类组成, 认为澜沧江鱼类有6目、21科、86
+难采集到。 属、162种。不同的研究结果除了与不同的研究 
+第1期 刘明典等: 澜沧江云南段鱼类区系组成与分布 159 
+表1  澜沧江云南段土著鱼类垂直分布(2009–2010) 
+Tab. 1  Vertical distribution of aboriginal fish in Yunnan section of Lancang River (2009–2010) 
+种类species 海拔/m altitude 
+500– 700–900–1100– 1300–1500– 1700– 1900–
+ >2100
+700 90011001300 1500 1700 1900 2100
+鲤形目Cypriniformes          
+鲤科Cyprinidae          
+麦氏 Danio myersi ▲         
+金线 Danio chrysotaeniatus ▲         
+丽色低线 Barilius pulchellus ▲ ▲ ▲ ▲ ▲ ▲    
+斑尾低线Barilius caudiocellatus ▲ ▲ ▲ ▲ ▲ ▲    
+长嘴Raiamas guttatus ▲  ▲       
+马口鱼Opsariichthys bidens ▲  ▲       
+大鳞半Hemiculterella macrolepis ▲         
+大鳞结鱼Tor (Tor) douronensis ▲ ▲        
+中国结鱼Tor (Tor) sinensis ▲ ▲        
+裂峡鲃Hampala macrolepidota ▲         
+南腊方口鲃Cosmochilus nanlaensis ▲         
+短吻鱼Sikukia stejnegeri ▲         
+黄尾短吻鱼Sikukia flavicaudata ▲ ▲        
+长须短吻鱼Sikukia longibarbata ▲         
+大鳞高须鱼Hypsibarbus vernayi ▲         
+云南吻孔鲃Poropuntius huangchuchieni ▲ ▲ ▲       
+爪哇无名鲃Barbonymus gonionotus ▲         
+后背鲈鲤Percocypris pingi retrodorslis ▲ ▲        
+南方白甲鱼Onychostoma gerlachi ▲ ▲ ▲       
+长臀鲃Mystacoleucus marginatus ▲ ▲        
+细尾长臀鲃Mystacoleucus lepturus ▲         
+条纹小鲃Puntius semifasciolatus ▲         
+少鳞舟齿鱼Scaphiodonichthys acanthopterus ▲ ▲ ▲       
+宽头华鲮Sinilabeo laticeps ▲ ▲        
+舌唇鱼Lobocheilus melanotaenia ▲         
+东方墨头鱼Garra orientalis ▲ ▲ ▲ ▲ ▲     
+奇额墨头鱼Garra mirofrontis ▲         
+条纹墨头鱼Garra taeniata ▲         
+墨头鱼Garra pingi pingi ▲ ▲ ▲       
+花 Hemibarbus maculates ▲         
+短须 Acheilognathus barbatulus ▲ ▲ ▲     ▲  
+光唇裂腹鱼Schizotharax (S.) lissolabiatus      ▲ ▲ ▲ ▲ 
+澜沧裂腹鱼Schizotharax (R.) lantsangensis     ▲     
+云南裂腹鱼Schizotharax (R.) yunnanensis yunnanensis     ▲ ▲ ▲  
+松潘裸鲤Gymnocyprispotanini potanini      ▲    
+鲫Carassius auratus auratus ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲  
+鳅科Cobitidae          
+拟鳗副鳅Paracobitis anguillioides    ▲ ▲ ▲    
+锥吻南鳅Schistura Conirostris ▲ ▲        
+南方南鳅Schistura meridionalis ▲ ▲        
+鼓颊南鳅Schistura bucculenta   ▲       
+泰国南鳅Schistura thai ▲         
+横纹南鳅Schistura fasciolata   ▲  ▲ ▲    
+  
+160 中国水产科学 第18卷 
+续表1 
+种类species 海拔/m altitude 
+500– 700–900–1100– 1300–1500– 1700– 1900–
+ >2100
+700 90011001300 1500 1700 1900 2100 
+澜沧江爬鳅Balitora lancangjiangensis ▲ ▲        
+鲇形目Siluriformes          
+鲇科Siluridae          
+叉尾鲇Wallago attu ▲         
+滨河缺鳍鲇Kryptopterus bleekeri ▲         
+胡子鲇Clarias fuscus ▲  ▲       
+鲿科Bagridae          
+丝尾鳠Mystus wyckioides ▲         
+科Sisoridae          
+ Bagarius bagarius ▲         
+巨 Bagarius yarrelli ▲         
+大斑纹胸 Glyptothorax macromaculatus ▲ ▲ ▲   ▲    
+丽纹胸 Glyptothorax lampris ▲         
+老挝纹胸 Glyptothorax laosensis ▲  ▲   ▲    
+札那纹胸 Glyptothorax zainaensis     ▲ ▲ ▲   
+德钦纹胸 Glyptothorax deqinensis         ▲ 
+似黄斑褶 Pseudecheneis sulcatoides      ▲    
+扁头 Pseudecheneis kamengensis       ▲ ▲ ▲ 
+细尾 Pseudecheneis gracilicaudata     ▲     
+粒鲇科Akysidae          
+短须粒鲇Akysis brachybarbatus ▲         
+科Pangasiidae          
+贾巴 Pangasius djambal ▲         
+锡伯鲇科Schilbeidae          
+中华鲱鲇Clupisoma sinensis ▲ ▲        
+长臀鲱鲇Clupisoma longianalis ▲ ▲        
+鲈形目Perciformes          
+线足鲈Trichogaster trichopterus ▲         
+宽额鳢Channa gachua ▲ ▲ ▲       
+线鳢Channa striata ▲         
+大刺鳅Mastacembelus armatus ▲         
+刺鳅Mastacembelus aculeatus ▲         
+合鳃目Synbranchiformes          
+黄鳝Monopterus albus ▲ ▲      ▲  
+鲀形目Tetraodontiformes          
+斑腰单孔鲀Monotreta leiurus ▲         
+南鳅Schistura sp. ▲         
+多鳞条鳅Nemacheilus schultzi ▲         
+细尾高原鳅Triplophysa (T.) stenura      ▲    
+斯氏高原鳅Triplophysa (T.) stolioczkae       ▲   
+黑线沙鳅Botia (Hymenophysa) nigrolineata ▲         
+中华沙鳅Botia (Sinibotia) superciliaris ▲   ▲  ▲    
+泥鳅Misgurnus anguillicaudatus ▲   ▲  ▲ ▲ ▲  
+马头鳅Acanthopsis choirorhyrchos ▲         
+鳞头鳅Lepidocephalus birmanicus ▲         
+拟长鳅Acanthopsoides gracilis ▲         
+平鳍鳅科Homalopteridae          
+横斑原缨口鳅Vanmanenia tetraloba ▲  ▲   ▲    
+云南原爬鳅Balitoropsis yunnanensis    ▲      
+ 
+第1期 刘明典等: 澜沧江云南段鱼类区系组成与分布 161 
+年代有关外, 还与鱼类种属的有效性有关。实际84种、怒江44种、伊洛瓦底江58种[29], 澜沧江
+上关于澜沧江鱼类“属”的划分以及“种”的鉴定和与这5大水系拥有相同鱼类的种数分别为金沙江
+命名, 历史上就存在若干分歧意见, 这也可能造12种、南盘江18种、元江23种、怒江18种、
+成种类数量的不一致。如Barilius guttatus, 伍献伊洛瓦底江12种[19]。说明了澜沧江与相邻水系
+文等[6]命名为大口鱼(Luciosoma fasciata), 李思忠[23]鱼类区系既有密切联系又有明显的差异。 
+认为是长嘴低线(Barilius guttatus), 但褚新洛[24]3.3  鱼类区系组成及分布的影响因素 
+未把本种鱼列入低线属(Barilius), Howes[25]则与历史资料比较, 现阶段澜沧江鱼类组成与
+认为是长嘴属(Raiamas)。周伟等[26]研究了不同分布状况发生了明显的改变, 种类数量由原来的
+产地的黄斑褶(Pseudecheneis sulcatus), 发现澜139种减少至80种, 部分鱼类分布范围大幅缩小, 
+沧江水系的黄斑褶与怒江和伊洛瓦底江水系的甚至濒危灭绝。其影响因素包括以下几个方面: 1)
+黄斑褶在头颅(包括复合脊椎骨)、背鳍骨骼上存水利工程。近年来澜沧江中下游已建成小湾电站、
+在很大差异, 其中最显著的是背鳍第1硬鳍消失, 漫湾电站、大朝山电站、糯扎渡电站和景洪电站, 
+复合椎体后端无叉状髓棘, 第5椎体髓棘呈柄状, 由于水库的淹没及水文情势的改变, 中下游干流
+由此将澜沧江的黄斑褶剔除, 描述了新种似黄段部分鱼类的栖息地范围大幅缩小, 如常年习惯
+斑褶(Pseudecheneis sulcatoides)。周用武等[27]在激流中生活的底栖鱼类(如野鲮亚科、鳅科), 以
+的分子学证据支持宏观形态的研究结果, 即似黄及喜流水性生活的中下层鱼类(如鲇科、科、部
+斑褶不与黄斑褶形成单群系, 它们分别为独分鲃亚科), 这些鱼类不仅失去原有的栖息场所, 
+立的种。 还失去了饵料来源, 直接导致了部分鱼类繁殖条
+3.2  澜沧江流域鱼类区系组成与分布 件的丧失, 影响了库区江段鱼类的种类组成及后
+鱼类区系是在不同鱼类种群的相互联系及其备种群的补充。2)酷渔滥捕。随着近年澜沧江两
+环境条件综合因子的长期影响和适应过程中形成岸居住人口的增长, 捕捞力量不断增加, 电鱼、毒
+的。澜沧江云南省境内沿途流经了北温带、中温鱼以及下游地区特有的“拦河捕鱼法”的盛行给澜
+带、南温带、北亚热带、中亚热带和南亚热带等沧江鱼类资源带来了极大的破坏。3)水体污染。
+7个不同的气候带, 水汽来源以孟加拉湾西南暖澜沧江流域内金属、非金属矿产资源丰富, 如兰
+湿气流为主。流域上游河流深切岩体, 山谷幽深, 坪县铅锌矿的开采和冶炼, 导致支流沘江水体遭
+垂直自然地理景观明显, 河谷温干少雨, 多年平受镉、铅、铜的污染, 水体中铅和镉的含量均已
+均年降水量仅900~1 100 mm。流域中、下游河段超过国家V类水质标准[30], 本调查在此区域未发
+属北亚热带气候, 温湿多雨, 多年平均年降水量现任何鱼类。铅、镉等重金属污染对鱼类免 
+可达1 000~1 600 mm[28]。澜沧江不同的生态环境疫功能、呼吸强度、呼吸运动、生理生化作用、
+以及受不同的纬度、海拔的影响, 造就了澜沧江鱼类胚胎发育以及仔鱼的生长都有不同程度的影
+鱼类具有明显的地域性和多样性。高海拔的上游响[31]。4)外来鱼类竞争。如洱海外来鱼类与土著
+地区生境简单恶劣, 营养物质缺乏, 作为鱼类饵鱼类的生态位竞争、吞食土著鱼类的卵导致大理
+料的有机物少且单一化, 只适合裂腹鱼、高原鳅裂腹鱼等特有鱼类几乎绝迹[32], 外来鱼类食性广, 
+等生存; 低海拔的下游地区由于常年高温、高湿, 适应性强, 与土著鱼类可能存在着食物竞争[21]。 
+降雨量丰富, 气候较稳定, 河流具有更高的生产大量研究表明, 物种濒危和绝灭是有选择性
+力, 为鱼类多样性的生存发展提供了较为广阔的的[33–34], 物种的选择性绝灭说明, 物种灭绝风险
+空间。 是外部因素和自身互相作用的结果[35]。澜沧江濒
+与相邻水系比较, 云南其他5大水系的鱼类危鱼类的共同特点是: 个体较大、种群数量少、
+种数大致是金沙江88种、南盘江158种、元江分布区域狭窄, 长期囿于1个稳定的又极窄的水
+162 中国水产科学 第18卷 
+域环境中生活进化。如科鱼类、丝尾鳠、巨、卷)[M]．上海: 上海科学技术出版社, 1977． 
+湄南缺鳍鲇等, 个体大的物种通常营养级水平[8] 刘振华, 何纪昌, 江望高．云南澜沧江中游地区鱼类调查
+研究[J]．云南大学学报, 1987, 9(2): 146–150． 
+高、具有更多能量需求[36], 且容易吸引猎食者捕
+[9] 褚新洛, 陈银瑞, 匡溥人, 等．云南鱼类志(上册)[M]．北
+杀[37]; 列入《云南省保护动物名录》的双孔鱼和京: 科学出版社, 1989． 
+大鳍鱼分布范围狭窄, 且适应生境单一[9]。这些鱼[10] 褚新洛, 陈银瑞, 周伟, 等．云南鱼类志(下册)[M]．北京: 
+科学出版社, 1989． 
+类对外界环境的变化是十分敏感的, 并且很难在
+[11] 康斌, 何大明．澜沧江鱼类生物多样性研究进展[J]．资源
+短时间内出现新的适应性, 一旦原生境遭到破坏科学, 2007, 29(5): 195–198． 
+以后, 就导致了某些对环境较敏感的鱼类灭绝。 [12] 周霖．云南土著鱼类资源现状及发展规划[J]．水利渔业, 
+3.4  鱼类资源恢复的措施与对策 2005, 25(1): 51–52． 
+[13] 张觉民, 何志辉．内陆水域渔业自然资源调查手册[M]．北
+充分了解鱼类生物学特性, 是保护鱼类资
+京: 科学出版社, 1993． 
+源、保证流域有生资源可持续利用的关键, 应该[14] 乐佩琦．中国动物志-硬骨鱼纲-鲤形目(下卷)[M]．北京: 
+根据不同的影响因素迅速采取相应的保护措施与科学出版社．2000． 
+[15] 朱松泉．中国条鳅志[M] ．南京: 江苏科学技术出版社, 
+对策: 1)在适宜江段或支流建立鱼类自然保护区, 
+1989． 
+协调澜沧江水利工程建设与鱼类保护的矛盾, 弥[16] 汪松．中国濒危动物红皮书-鱼类[M]．北?京: 科学出版社, 
+补水利工程建设对鱼类自然生境的破坏; 2)开展1998． 
+[17] 汪松, 解焱．中国物种红色名录[M]．北?京: 高等教育出版
+人工增殖放流, 补充群体规模, 储备足够量的繁
+社, 2004． 
+殖亲体后备群体, 解决天然经济鱼类资源量的不[18] 李思忠．中国淡水鱼类的分布区划[M]．北京: 科学出版
+足; 3)建立鱼类及其生态环境监测体系, 通过动社．1981, 1–30. 
+态监测及时发现生态环境变化及发展趋势, 掌握[19] 陈银瑞．云南的鱼类资源及其利用和保护[J]．资源科学, 
+1991, 1: 25–33． 
+相关地区水生生物生态环境变化的时空规律, 预[20] 何舜平, 王伟．澜沧江中上游鱼类生物多样性现状初报
+测不良趋势并及时发布警报; 4)建立外来物种监[J]．云南地理环境研究, 1999, 11(1): 26–29． 
+管体系, 开展预测预警研究; 5)通过明确规定繁[21] 杨君兴. 云南的外来鱼类和土著鱼类: 影响的方式和程度
+及相关问题研究[M]//保护中国的生物多样性(二). 北京: 
+殖保护对象、实行捕捞许可证和征收资源增殖费、
+中国环境科学出版社, 1996． 
+划定禁渔区、建立检查和监督制度、加强流域环[22] 周伟, 韩联宪．云南澜沧江水系鱼类资源的保护及持续利
+境整治等措施完善水生生物资源及生态环境管理用．面向21世纪的中国生物多样性保护[M]．北?京: 中国
+林业出版社, 1999． 
+体制与机制。 
+[23] 李思忠．采自云南省澜沧江的我国鱼类新纪录[J]．动?物?学
+ 报, 1976, 22(1): 117–118． 
+致谢: 野外采样过程中, 得到邓华堂、田辉伍、[24] 褚新洛．我国的低线属鱼类小结—包括一新种的描述
+张东亚、阴双雨、王生等的大力协助, 谨致谢忱！ [J]．动物学研究, 1984, 5(1): 95–102． 
+[25] Howes G J. The anatomy, phylogeny and classification of 
+参考文献:  the barline cyprinid fishes[J]. Bull Br Mus Nat Hist 
+[1] 靳长兴, 周长进．关于澜沧江正源问题[J]．地理研究, 1995, (Zool) ,1980, 37(3):129–198． 
+47(14): 1． [26] 周伟, 褚新洛．科褶属鱼类一新种兼论其骨骼形态学
+[2] 何大明, 汤奇成．中国国际河流[M]．北?京: 水利科学出版的种间分化[J]．动物分类学报, 1992, 17(1): 110–115． 
+社, 2000. [27] 周用武, 庞峻峰, 周伟, 等．科褶属鱼类部分线粒体
+[3] 丁为民, 刘大清．中老缅泰上湄公河航运联合考察报告DNA序列分析与分子进化[J]．西南林学院学报, 2007, 
+[M]．昆明: 云南省新闻出版局, 1993. 27(3): 45–51． 
+[4] 何大明．澜沧江-湄公河水文特征分析[J]．云南地理环境[28] 李秀云, 傅肃性, 李丽娟．河流枯水极值分析与模型预测
+研究, 1995, 7(1): 58–74． 研究[J]．资源科学, 2000, 22(5): 73–77s． 
+[5] 李树深．中国鱼类新纪录[J]．动物学报, 1973, 19(3): 305． [29] 陈银瑞, 杨君兴, 李再云．云南鱼类多样性和面临的危机
+[6] 伍献文, 杨干荣, 黄宏金, 等．中国鲤科鱼类志(上[J]．生物多样性, 1998, 6(4): 272–277． 
+卷)[M]．上海: 上海科学技术出版社, 1964． [30] 王李鸿, 角媛梅, 明庆忠, 等．云南?江流域水体重金属沘
+[7] 伍献文, 林人端, 陈景星, 等．中国鲤科鱼类志(下污染评价[J]．环境科学研究, 2009, 22(5): 595–600． 
+第1期 刘明典等: 澜沧江云南段鱼类区系组成与分布 163 
+[31] 孙德文, 詹勇, 许梓荣．重金属对鱼类危害作用的研究267(1456): 1947–1952. 
+[J]．水利渔业, 2003, 23(2): 4–6． [35] Bennett P M, Owens P F．Variation in extinction risk among 
+[32] 吴庆龙, 王云飞．洱海生物群落的历史演变分析[J]．湖泊birds: chance or evolutionary predisposition?[J]．Proc Roy 
+科学, 1999, 11(3): 267–273． Soc B, 1997, 264: 401–408． 
+[33] Angermeier P L．Ecological attributes of extinction-prone [36] Wodroffe R, Ginsberg J R．Edge effects and extinction of 
+species: loss of freshwater fishes in Virginia[J]．Conserv populations inside protected areas[J]．Science, 1998, 280: 
+Bio1, 1995, 9: 143–158． 2126–2128． 
+[34] Purvis A, Gittleman J L, Cowlishaw G, et a1．Predicting [37] Dulvy N K, Reynolds J D．Predicting extinction vulnerability 
+extinction risk in declining species[J]．Proc Biol Sci, 2000, in skates [J]. Conserv Biol, 2002, 16: 440–450． 
+Ichthyofauna composition and distribution of fishes in Yunnan section 
+of Lancang River 
+LIU Mingdian1,2, CHEN Daqing2, DUAN Xinbin2, WANG Ke2, LIU Shaoping2 
+1. School of Life Science, Southwest University, Chongqing 400715, China; 
+2. Yangtze River Fisheries Research Institute, Chinese Academy of Fishery Science; Fishery Resources and Envi- 
+ronment Key Field Station of Upper-middle Reaches of the Yangtze River, Ministry of Agriculture, Jingzhou 434000, 
+China 
+Abstract: Lancang River originates from alpine springs on the slopes of the Tanggula Mountain in Qinghai-Tibet 
+Plateau, and the species and distribution of fishes are very special in the river. To understand the present 
+composition and distribution of fishes in this water system, a comprehensive survey was carried out in Yunnan 
+section of Lancang River and its affiliated lake, Erhai Lake. Fifty two sampling sites were set up based on the 
+different elevation and multiple habitatation. In the 4 787 fish samples collected, five orders, 14 families, 80 
+species of aboriginal fishes were identified, with another 59 species recorded in references. All the fishes, 
+consisting of six orders, 18 families, are composed of fishes from two regions: Xikang-Tibetan Sub-region 
+belonging to West China Region and Nukiang-Lancang Subregion belonging to South China Region. In addition, 
+21 species of exotic fishes were collected. The differences in horizontal and vertical distribution of aboriginal fish 
+are obvious. The horizontal distribution shows an obvious diversity and regional variety. The distribution of fish in 
+Lancang River was influenced by altitude and climate. Many groups of fish have a certain distribution range. The 
+Tetraodontiformes, the Perciformes and some species of the Cypriniformes are limited to low elevation regions in 
+the tropics. The distribution of the Cyprinidaes and the Siluriformes which take up a large proportion in Lancang 
+River shows a gradual replacement of different groups with the rise of altitude. Compared with the historical data, 
+the current species number of aboriginal fish in some sections of Lancang River has decreased obviously. 
+Environmental stress caused by river construction, over-fishing, pollution and exotic fish is external impact factors 
+for fishes in Lancang River. Relevant departments should adopt various measures to tackle the problem such as 
+establishing nature reserves, promoting artificial enhancement and releasing, setting up eco-environment 
+monitoring system, improving aquatic living resources and environment administrative systems.[Journal of 
+Fishery Sciences of China, 2011,18(1): 156170] 
+Key words: ichthyofauna; composition; distribution; Lancang River 
+Corresponding author: LIU Shaoping. E-mail: lsp@yfi.ac.cn  
+ 
+ 
+ 
+164 中国水产科学 第18卷 
+附录1  云南澜沧江鱼类调查采样点 
+Appendix 1  Sampling stations of fish investigation in Yunnan section of Lancang River 
+序号 采样点 水域 行政区域 海拔/m纬度 经度 
+no. sampling point water administrative division altitudelatitude longitude 
+1 溜筒江 支流阿东河 德钦县 2266 28°33.436'N 098°48.561'E 
+2 巴迪阿尺打嘎 支流 维西县 1827 27°54.404' N 098°57.139'E 
+3 攀天阁嘎嘎塘 支流永春河 维西县 1777 27°20.152' N 099°08.735'E 
+4 维登富川村 支流其普河 维西县 1616 27°06.982' N 099°09.594'E 
+5 石登界坪村 支流 兰坪县 1550 26°41.960' N 099°10.227'E 
+6 营盘镇 干流 兰坪县 1527 26°26.252' N 099°07.978'E 
+7 表村乡 干流 云龙县 1412 26°04.165' N 099°07.218'E 
+8 旧州镇 干流 云龙县 1300 25°44.678' N 099°13.988'E 
+9 马登镇大平子 支流黑惠江 剑川县 2540 26°28.689' N 099°42.372'E 
+10 乔后镇温坡 支流黑惠江 洱源县 2112 26°14.255' N 099°49.077'E 
+11 洱源 支流弥茨河 洱源县 2050 26°05.756' N 100°00.336'E 
+12 漾江镇紫阳村 支流漾濞江 漾濞县 1566 25°42.017' N 099°56.035'E 
+13 上关镇桃源 洱海 大理市 1969 25°54.460' N 100°06.562'E 
+14 下关镇大关邑 洱海 大理市 1968 25°36.226' N 100°13.421'E 
+15 漾濞县 支流漾濞江 漾濞县 1570 25°40.243' N 099°57.382'E 
+16 瓦厂乡 支流漾濞江 漾濞县 1534 25°25.010' N 099°57.564'E 
+17 曲硐 支流银江河 永平县 1587 25°25.587' N 099°31.464'E 
+18 瓦窑镇 干流 保山市 1311 25°26.457' N 099°15.530'E 
+19 漭水沧江大桥 干流 昌宁县 1116 24°57.176' N 099°44.386'E 
+20 澜沧江大桥 干流 南涧县 995 24°44.362' N 100°21.395'E 
+21 温泉乡 支流罗扎河 昌宁县 1529 24°42.724' N 099°41.181'E 
+22 漫湾镇 干流 云县 940 24°35.602' N 100°28.138'E 
+23 漫湾镇漫湾村 支流 景东县 1168 24°37.227' N 100°30.266'E 
+24 景临桥 干流 临翔区 767 23°33.541' N 100°10.374'E 
+25 景谷乡 支流威远江 景谷县 1294 23°44.062' N 100°37.336'E 
+26 勐库镇 支流小黑江 双江县 1085 23°36.585' N 099°52.513'E 
+27 贺派 支流小黑江 耿马县 1075 23°28.244' N 099°23.224'E 
+28 勐省农场 支流小黑江 沧源县 975 23°20.264' N 099°25.496'E 
+29 正兴镇 支流威远江 景谷县 1081 23°19.470' N 100°57.522'E 
+30 云仙乡桃子树 支流威远江 思茅区 732 23°01.127' N 100°39.192'E 
+31 南邦河 支流威远江 思茅区 760 22°34.279' N 100°35.097'E 
+32 谦六那撒村 干流 澜沧县 659 22°51.340' N 100°19.236'E 
+33 富邦镇 支流黑河 澜沧县 1058 22°50.374' N 099°47.466'E 
+34 糯扎渡热水塘 支流黑河 澜沧县 704 22°38.170' N 100°14.672'E 
+35 小勐养 支流勐养河 景洪市 778 22°05.340' N 100°53.455'E 
+36 勐混镇曼国村 支流流沙河 勐海县 1207 21°48.005' N 100°22.001'E 
+37 嘎洒镇 支流流沙河 景洪市 555 21°57.101' N 100°45.109'E 
+38 景洪市 干流 景洪市 541 22°00.568' N 100°48.034'E 
+39 勐罕镇 干流 景洪市 539 21°51.022' N 100°55.413'E 
+40 蚌弄村 支流罗梭江 思茅区 959 22°43.579' N 101°20.659'E 
+41 普文镇 支流普文河 景洪市 882 22°30.409' N 101°03.741'E 
+42 象明乡曼迁村 支流罗梭江 勐腊县 884 22°07.196' N 101°26.240'E 
+43 勐仑镇 支流罗梭江 勐腊县 547 21°56.138' N 101°14.870'E 
+44 勐龙东风农场 支流南阿河 景洪市 622 21°36.204' N 100°41.506'E 
+45 关累港 干流 勐腊县 516 21°401607' N 101°08.170'E 
+46 关累镇坝荷村 支流 勐腊县 673 21°41.259' N 101°12.254'E 
+47 瑶区纳卓乡 支流南腊河 勐腊县 692 21°40.171' N 101°35.269'E 
+48 勐腊县 支流南腊河 勐腊县 636 21°29.319' N 101°34.531'E 
+49 磨憨镇磨整村 支流南腊河 勐腊县 809 21°11.383' N 101°44.427'E 
+50 曼迈村 支流南腊河 勐腊县 624 21°24.588' N 101°32.293'E 
+51 勐捧农场 支流南腊河 勐腊县 583 21°24.267' N 101°21.352'E 
+52 勐捧镇曼岗村 支流南腊河 勐腊县 589 21°22.255' N 101°18.075'E 
+ 
+附录2  澜沧江流域云南段土著鱼类分布名录(2009–2010) 
+Appendix 2  Horizontal distribution of aboriginal fish in Yunnan section of Lancang River (2009–2010) 
+上游 中游 下游 
+upper reach middle reach lower reach 洱海水域 
+种类 干流 支流干流 支流 tributary干流 mainstream支流 tributary 
+species 罗扎河黑惠江西双版纳思茅南腊河罗梭江流沙河威远江小黑江Erhai Lake and 
+Luozha Heihui XishuangSimao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+mainstream tributary mainstream
+RiverRiver banna sectionRiverRiverRiver RiverRiver
+鲤形目CYPRINIFORMES              
+双孔鱼科Gyrinocheilidae              
+双孔鱼Gyrinocheilus aymonieri﹡         △ △    
+鲤科Cyprinidae              
+麦氏 Danio myersi﹡      ▲  ◆ ◆ ▲    
+金线 Danio chrysotaeniatus﹡      △  ▲ ◆     
+勐腊 Danio menglaensis﹡         △     
+条纹裸 Gymnodanio strigatus﹡           △   
+丽色低线 Barilius pulchellus    ▲   △  ★  ◆ ◆  
+斑尾低线 Barilius caudiocellatus   △ ▲ ◆  ▲ ◆ ★  ◆ ◆  
+长嘴 Raiamas guttatus   △   △  ▲ ▲   △  
+黑背波鱼Rasbora atridorsalis﹡         △     
+麦氏波鱼Rasbora myersi﹡      △        
+马口鱼Opsariichthys bidens   △   ▲   ★ ▲ ◆ ★  
+大鳍鱼Macrochirichthys macrochirius     △        
+罗碧鱼Paralaubuca barroni﹡      △        
+大鳞半 Hemiculterella macrolepis﹡       ★ ▲     
+大鳞结鱼Tor (Tor.) douronensis      △   ▲  ▲   
+中国结鱼Tor (Tor) sinensis﹡     △ △ ▲ ◆ ◆  ▲ △  
+侧带结鱼Tor (Tor) laterivittatus﹡              
+多鳞结鱼Tor (Tor) polylepis﹡              
+瓣结鱼Tor (Foliter) brevifilis brevifilis        △     
+裂峡鲃Hampala macrolepidota        ◆ ▲     
+细纹似鳡Luciocyprinus striolatus﹡        △     
+红鳍方口鲃Cosmochilus cardinalis﹡     △ △  △     
+南腊方口鲃Cosmochilus nanlaensis﹡       ▲      
+短吻鱼Sikukia stejnegeri﹡      ◆   ◆     
+黄尾短吻鱼Sikukia flavicaudata﹡   ▲   ▲    △    
+长须短吻鱼Sikukia longibarbata﹡      ▲   △     
+ 
+续表1 
+上游 中游 下游 
+种类 upper reach middle reach lower reach 洱海水域 
+species 干流 支流干流 支流 tributary干流 mainstream支流 tributary 
+罗扎河黑惠江西双版纳思茅南腊河罗梭江流沙河威远江小黑江Erhai Lake and 
+Luozha Heihui XishuangSimao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+ mainstreamtributarymainstream
+RiverRiver banna sectionRiverRiverRiver RiverRiver
+小异齿鲃Discherodontus parva﹡      △        
+大鳞高须鱼Hypsibarbus vernayi      ▲   ▲     
+棱吻孔鲃Poropuntius shanensis carinatus﹡         △    
+油吻孔鲃Poropuntius exigua﹡             △ 
+颌突吻孔鲃Poropuntius cogginii﹡             △ 
+云南吻孔鲃Poropuntius huangchuchieni  ◆   ★ ◆ ◆ ★  ★ ◆  
+爪哇无名鲃Barbonymus gonionotus        ▲      
+后背鲈鲤Percocypris pingi retrodorslis   △    ▲       
+河口光唇鱼Acroosiocheilus krempfi        △      
+南方白甲鱼Onychostoma gerlachi   ▲ ▲ △   ◆ ★  ◆ ▲  
+长臀鲃Mystacoleucus marginatus﹡       △ ◆ ★  ◆   
+细尾长臀鲃Mystacoleucus lepturus﹡       △ ◆ ◆     
+条纹小鲃Puntius semifasciolatus      ▲   ◆     
+短须圆唇鱼Cyclocheilichthys repasson        △      
+少鳞舟齿鱼Scaphiodonichthys acanthopterus  △  △  ▲ ◆ ▲  ◆ ◆  
+单吻鱼Henicorhynchus lineatus﹡      △        
+宽头华鲮Sinilabeo laticeps﹡         ◆  ▲   
+朱氏华鲮Sinilabeo zhui   △   △        
+舌唇鱼Lobocheilus melanotaenia﹡      △  ▲ ▲     
+云南野鲮Labeo yunnanensis       △       
+长背鲮Labiobarbus lineatus﹡      △        
+鲮Cirrhinus molitorella      △        
+网纹缨鱼Crossocheilus reticulatus﹡      △        
+东方墨头鱼Garra orientalis ▲  ▲   ▲ ▲  ▲  ▲   
+奇额墨头鱼Garra mirofrontis﹡  △       ★ ◆    
+条纹墨头鱼Garra taeniata      ★  ◆ ★ △    
+墨头鱼Garra pingi pingi       △ ◆ ▲  ▲ ▲  
+花 Hemibarbus maculates       △ ◆ ▲     
+短须 Acheilognathus barbatulus     ▲ △  ◆ ◆ ▲ ▲ ▲ ◆ 
+光唇裂腹鱼Schizotharax (S.) lissolabiatus ◆ ◆ ▲ △ ◆         
+灰裂腹鱼Schizotharax (R.) griseus △  △           
+续表2 
+种类 上游 中游 下游 
+洱海水域 
+species upper reach middle reach lower reach 
+干流 支流干流 支流 tributary干流 mainstream支流 tributary  
+ 罗扎河黑惠江西双版纳 思茅南腊河罗梭江流沙河威远江小黑江Erhai lake and 
+Main-Tribu-Main- Luozha Heihui Xishuang Simao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+streamtarystreamRiverRiver banna sectionRiverRiverRiver RiverRiver
+澜沧裂腹鱼Schizotharax (R.) lantsangensis﹡▲  ▲           
+云南裂腹鱼Schizotharax (R.) yunnanensis 
+◆ ▲ △ ▲ ▲        ▲ 
+yunnanensis﹡ 
+大理裂腹鱼Schizotharax (R.) taliensis﹡            △ 
+松潘裸鲤Gymnocyprispotanini potanini ◆            
+鲃鲤Puntioplites proctozysron      △   △     
+爪哇鲃鲤Punwaandersi      △   △     
+大眼鲤Cyprinus (C.) megalophthalmus﹡            △ 
+春鲤Cyprinus (C.) longipectoralis﹡             △ 
+洱海鲤Cyprinus (C.) barbatus﹡             △ 
+大理鲤Cyprinus (C.) daliensis﹡             △ 
+鲫Carassius auratus auratus  ▲ ★ ▲ ▲  ◆ ◆ ◆ ▲ ◆ ◆ ★ 
+元江长须鳅 Gobiobotinae (Gobiobotia)
+  △           
+longjbarba yuanjiangensis
+鳅科 Cobitidae              
+拟鳗副鳅Paracobitis anguillioides ◆ ◆ △  ★         
+洱海副鳅Paracobitis erhaiensis﹡             △ 
+尖头副鳅Paracobitis acuticephala﹡             △ 
+侧纹云南鳅Yunnanilus pleurotaenia             △ 
+锥吻南鳅Schistura conirostris﹡      ▲      ▲  
+南方南鳅Schistura meridionalis   △   △  △ ◆   ◆  
+鼓颊南鳅Schistura bucculenta﹡          △  ▲  
+泰国南鳅Schistura thai        ▲ ▲     
+横纹南鳅Schistura fasciolata     ◆   ★ ★  ◆ ◆  
+宽纹南鳅Schistura latifasciata﹡   △  △         
+版纳南鳅Schistura bannaensis﹡        △      
+异颌南鳅Schistura heterognathos﹡        △      
+南鳅Schistura sp.         ▲     
+双江条鳅Nemacheilus shuangjiangensis﹡           △  
+多鳞条鳅Nemacheilus schultzi﹡         ▲ △    
+细尾高原鳅Triplophysa (T.) stenura △ △   ▲         
+ 
+续表3 
+上游 中游 下游 
+upper reach middle reach lower reach 洱海水域 
+种类 干流 支流干流 支流 tributary干流 mainstream支流 tributary 
+species 罗扎河黑惠江西双版纳思茅南腊河罗梭江流沙河威远江小黑江Erhai Lake and 
+Luozha Heihui XishuangSimao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+mainstream tributary mainstream
+RiverRiver banna sectionRiverRiverRiver RiverRiver
+斯氏高原鳅Triplophysa (T.) stolioczkae△ ▲            
+斑鳍沙鳅Botia (Hymenophysa) beauforti﹡         △    
+云南沙鳅Botia (H.) yunnanensis﹡      △        
+黑线沙鳅Botia (H.) nigrolineata﹡      △  ◆ ◆ ▲    
+中华沙鳅Botia (Sinibotia) superciliaris△  ▲  ▲  ▲  ▲     
+泥鳅Misgurnus anguillicaudatus  ▲ ▲ ▲ ◆   ◆ ▲ ◆ ▲ ◆ ▲ 
+马头鳅Acanthopsis choirorhyrchos      ▲   ▲     
+鳞头鳅Lepidocephalus birmanicus        ◆ ▲     
+拟长鳅Acanthopsoides gracilis      △   ▲     
+平鳍鳅科Homalopteridae              
+横斑原缨口鳅Vanmanenia tetraloba   ▲ ▲   ▲ ▲     
+云南原爬鳅Balitoropsis yunnanensis﹡ ▲            
+澜沧江爬鳅Balitora lancangjiangensis﹡    △   ★ ▲   ▲  
+长体爬鳅Balitora elongata﹡        △      
+彭氏爬鳅Balitora pengi﹡        ▲  △    
+张氏爬鳅Balitora tchangi﹡ △  △     △      
+鲇形目SILURIFORMES              
+鲇科Siluridae              
+叉尾鲇Wallago attu      △   ▲     
+湄南缺鳍鲇Kryptopterus moorei      △        
+滨河缺鳍鲇Kryptopterus bleekeri      △   ▲     
+半鲇Hemisilurus heterorhynchus      △        
+胡子鲇Clarias fuscus    ▲    ▲ ▲     
+鲿科Bagridae              
+丝尾鳠Mystus wyckioides        ◆ ◆     
+科Sisoridae              
+ Bagarius bagarius       ◆  ◆   △  
+巨Bagarius yarrelli      ▲ ◆  ◆     
+大斑纹胸Glyptothorax macroma-
+  △  ▲   ★ ▲  ▲ ▲  
+culatus﹡ 
+丽纹胸Glyptothorax lampris      △ △  ▲   △  
+老挝纹胸Glyptothorax laosensis﹡  ▲  ◆ ▲ △ ★ ★ ▲  ▲  
+ 
+续表4 
+上游 中游 下游 
+upper reach middle reach lower reach 洱海水域 
+种类 支流 tributary干流 mainstream支流 tributary 
+species 干流 支流干流 罗扎河黑惠江西双版纳思茅南腊河罗梭江流沙河威远江小黑江Erhai Lake and 
+Luozha Heihui XishuangSimao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+mainstream tributary mainstream
+RiverRiver banna sectionRiverRiverRiver RiverRiver
+札那纹胸Glyptothorax zainaensis ◆ ◆ △           
+德钦纹胸Glyptothorax deqinensis﹡△ ◆            
+似黄斑褶Pseudecheneis sulcatoides△  △  ▲  △     △  
+无斑褶Pseudecheneis immaculatus﹡△             
+扁头Pseudecheneis kamengensis  ▲ △           
+细尾Pseudecheneis gracilicaudata﹡▲             
+兰坪Pseudecheneis myzostoma﹡ △             
+穗缘异齿  Oreoglanis setiger   △         △  
+景东异齿 Oreoglanis jingdongensis﹡             
+粒鲇科Akysidae              
+短须粒鲇Akysis brachybarbatus﹡        ▲ ▲     
+中华粒鲇Akysis sinensis﹡      △        
+科Pangasiidae              
+长丝 Pangasius sanitwangsei         △     
+贾巴 Pangasius djambal         ▲     
+短须 Pangasius micronemus         △     
+锡伯鲇科Schilbeidae              
+中华鲱鲇Clupisoma sinensis﹡   ▲   ◆ ◆  ◆   △  
+长臀鲱鲇Clupisoma longianalis﹡   ▲   ◆ ▲    ◆   
+鳉形目CYPRINODONTIFORMES              
+青鳉科Oryziatidae              
+小青鳉Oryzias minutillus﹡      △    △    
+中华青鳉Oryzias latipes sinensis     △  △      △ 
+鲈形目PERCIFORMES              
+攀鲈科Anabantidae              
+攀鲈Anabas testudineus      △   △     
+斗鱼科Belontiidae              
+叉尾斗鱼Macropodus opercularis      △        
+丝足鲈科Osphronemidae              
+线足鲈Trichogaster trichopterus      △  ▲  ▲    
+鳢科Channidae              
+ 
+续表5 
+上游 中游 下游 
+upper reach middle reach lower reach 洱海水域 
+种类 干流 支流干流 支流 tributary干流 mainstream支流 tributary 
+species 罗扎河黑惠江西双版纳思茅南腊河罗梭江流沙河威远江小黑江Erhai Lake and 
+Luozha Heihui XishuangSimao Nanla LuosuoLiusha Weiyuan Xiaohei attached waters 
+mainstream tributary mainstream
+RiverRiver banna sectionRiverRiverRiver RiverRiver
+长身鳢Channa siamensis﹡        △ △     
+宽额鳢Channa gachua   ▲ ▲   ▲ ◆ ◆ ◆ ▲ ◆  
+线鳢Channa striata      △  ▲  △    
+刺鳅科Mastacembelidae              
+大刺鳅Mastacembelus armatus        ◆ ◆     
+刺鳅Mastacembelus aculeatus         ▲     
+合鳃目SYNBRANCHIFORMES              
+合鳃鱼科Synbranchidae              
+黄鳝Monopterus albus   ▲   △ △ ◆ ◆    ▲ 
+鲀型目TETRAODONTIFORMES              
+鲀科Tetraodontidae              
+斑腰单孔鲀Monotreta leiurus        ★ △     
+注: “△”历史有分布记录; “▲”偶见(数量比1%以下); “◆”常见种(1%–10%); “★”优势种(10%以上); “﹡”澜沧江流域特有种类. 
+Note: “△” means recorded species in historical document. “▲” means incidental species and the percentage of amount was below 1%. “◆” means common species and the percentage of amount 
+was from 1% to 10%. “★” means dominant species and the percentage of amount was above 10%. “﹡”means endemic species in Lancang River. 
+ 
+ 

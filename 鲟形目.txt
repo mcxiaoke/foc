@@ -1,0 +1,18 @@
+界：
+动物界
+脊索动物门Chordata
+纲：
+硬骨鱼纲Osteichthyes
+目：
+鲟形目Acipenseriformes
+
+鲟属
+西伯利亚鲟 Acipenser baeri
+达氏鲟 Acipenser dabryanus
+裸腹鲟 Acipenser nudiventris
+小体鲟 Acipenser ruthenus
+史氏鲟 Acipenser schrenckii
+中华鲟 Acipenser sinensis
+
+鳇属
+鳇 Huso dauricus

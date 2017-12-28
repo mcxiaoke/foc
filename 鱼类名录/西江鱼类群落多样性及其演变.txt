@@ -1,0 +1,613 @@
+第17卷第2期 中国水产科学 Vol.17  No.2
+2?0?1?0?年?3?月 Journal of Fishery Sciences of China March  2010
+西江鱼类群落多样性及其演变
+李捷 1，3，李新辉 1，贾晓平 2，李跃飞 1，何美峰 1，谭细畅 1，王超 1，蒋万祥 4
+（1.中国水产科学研究院 珠江水产研究所；农业部珠江中下游渔业资源环境重点野外科学观测试验站，广东 广州510380；
+2.广东省渔业资源生态环境重点实验室，广东 广州 510300；3.中国水产科学研究院内陆渔业生态环境和资源重点开放实验
+室，无锡 214081；4. 枣庄学院生命科学系，山东 枣庄 277160）
+摘要：2005-2008?年对珠江下游西江江段?6?个采样点进行鱼类多样性调查，共采集鱼类?96?种，隶属于?13?目?29?科?75
+属，辐斑虫纹东方鲀（Takifugu vermicularis）、南方波鱼（Rasbora steineri）、西江鲇（Silurus gilberti）等?8?种为西江新记录鱼
+类。西江鱼类群落多度大于?1%?的种类有?17?种，前?5?位依次是鲮（Cirrhina molitorella）、  （Hmiculter leucisxulus）、赤眼鳟
+（Squaliobarbus curriculus）、广东鲂（Megalobrama hoffmanni）、子陵吻虾虎鱼（Rhinogobius giurinus）；多度小于?0.1?的有?28?种。
+西江鱼类群落以定居性、杂食性种类为主；与历史比较杂食性、定居性鱼类种类所占百分比上升，肉食性、洄游性、半洄
+游性鱼类所占比例下降。聚类分析发现西江鱼类群落可以分为?3?个类群，即：上游类群、中游类群和下游河口类群；物
+种组成差异分析结果表明，不同江段鱼类群落有明显的差异，相同生境类型江段的鱼类物种相似性较高；上游的物种多
+样性明显高于下游。通过个体生态学指数（autecology index）分析，西江鱼类群落底层生活、口下位、喜急流生活、肉食性
+种类受影响程度大，而口端位、杂食性、喜缓流的种类演变成优势种群。航道整治、大规模无序挖沙、河口水体污染、过度
+捕捞等因素是影响西江鱼类群落变动的主要原因。[ 中国水产科学，2010，17（2）：298-311]
+关键词：西江；鱼类群落；多样性；个体生态学
+中图分类号：S97　　　　　　文献标识码：A　　　　　　 　文章编号：1005-8737- （2010）02-0298-14
+西?江?源?出?云?南?沾?益?马?雄?山，是?珠?江?下?游?的?江
+段，流经贵州入广西，在梧州与桂江汇合后进入广东
+境内始称西江。西江在广东境内的支流主要有贺江、
+罗定江和新兴江，流至三水市河口与北江汇合，下接
+珠江三角洲河网后入海。西江地处亚热带，气候温
+和，雨量充沛，河水丰盈，上游带来的泥沙、矿物质和
+有机物含量较大，饵料资源丰富，生态环境适合鱼、
+虾、蟹、贝类生长，鱼类资源十分丰富，分布有多种珍
+稀、特有鱼类。20?世纪?80?年代初期，珠江水产研究
+所等单位对西江渔业资源进行系统调查，记录鱼类
+136?种 [1-4]，并对西江主要经济鱼类种群生物学特性、
+产卵场等进行了分析 [2，4]。
+鱼类群落是指具有一定的种类组成，并与环境
+之间彼此影响、相互作用，具有一定的形态结构和营
+养结构，并具特定功能的生物集合体。鱼类群落多
+样性研究始于?20?世纪?60?年代 [5-6]，而在中国至?20
+世纪?80?年代才见报道 [7]。鱼类是水生生态系统中
+较高级的消费者，通过上、下行效应与环境间存在着
+紧密的相互关系，鱼类群落的演替过程及其机制主
+要受环境条件变动的影响。鱼类栖息地的改变可通
+过影响群落内的各个成分、群落功能、物种多样性和
+相对丰度而使群落构成发生改变。由于水工建设、
+过度捕捞、水体污染等因素导致生态环境恶化，鱼类
+群落组成受到影响，进而使河流生态系统功能受到
+收稿日期：2009-09-27；修订日期：2009-11-10.
+基金项目：科技部公益专项资助项目（2005DIB3J023）；广东省渔业资源环境重点实验室开放基金资助项目（LFE-2009-01）；中
+国水产科学研究院内陆渔业生态环境和资源重点开放实验室开放基金资助项目（YM2007-05）；公益性行业（农业）专项资助项目 
+（200903048）.
+作者简介：李捷（1979-），男，助理研究员，硕士，主要从事鱼类分类及生态研究. E-mail：lijie1561@163.com
+通讯作者：李新辉，研究员. E-mail：lxhui01@tom.com
+第2期 李捷等：西江鱼类群落多样性及其演变299
+影响[8-10]。近?30?年有关西江鱼类资源调查仅有少眼?大?小?为?1.5 cm-7 cm-1.5 cm）、撒?网（网?眼?大?小?为
+量报道[11-13]，而有关西江鱼类群研究未见报道，因6 cm）、延绳钓钩，采样方法主要依据《内陆水域渔业
+此本研究开展西江鱼类群落多样性调查，了解西江自?然?资?源?调?查?手?册》[14]，2005?年?5?月、2006?年?5?月
+鱼类群落组成、变化及演替规律，旨在对西江河流生采用科考船从三水至梧州对沿江的渔船进行统计，
+态系统功能、鱼类生物多样性保护、河流综合开发与每个采样点每次每种网具各统计?5?船次，2007?年?10
+利用提供基本依据。月—?2008?年?9?月每个点每月每种网具各统计?2?船
+1次。4?年来累计调查?816?船次共统计标本?27 473?尾，
+  材料与方法
+重约?3 874 kg，采集到的标本现场拍照、称重、测体
+1.1 数据采集方法长、取鳞片、穿标签后带回实验室分析、保存。鱼类
+2005-2008?年，在西江进行鱼类资源采样调查，鉴定依据广东淡水鱼类志[3]与广西淡水鱼类志 [15]。
+采?样?站?点（图?1），采?样?工?具?为?虾?笼、三?层?刺?网（网
+E111°E111°30′E112°E112°30′
+Gui桂He贺北Bei
+N?23°45′
+Jiang江Jiang江
+River梧州江Jiang
+浔Wuzhou city
+江
+XunRiver
+N?23°30′River
+JiangS6
+S5
+River
+西Xi
+S4S1
+N?23°15′S3肇庆▲ 采样点
+JiangZhaoqing city
+River
+江     Sampling sites 
+S2
+图?1　西江鱼类资源调查采样点分布图
+Fig. 1　Map of sampling stations in Xijiang River
+1.2 计算方法所有物种总个体数的比例。
+相对多度（DR）:Margalef?丰富度指数（D）计算式为：D= （S-1）/
+Dlog2N，S为样品中的种类总数； N为样品中的生物
+R=Ni
+N#100%， N为样品中总个数，Ni为样品
+个体总数。
+中属于第i种的个体比例。Pielou’s?均匀性指数（E）计算式为： E=H / log2S，
+Jaccard’s?种类相似性指数（I）计算式为：I = j / S为样品中的种类总数。
+（a +b-j）， j是两个江段共有的鱼类种数，a是其中一鱼类个体生态学指数[16]（R）计算式为： R=S×A/nS，
+江段记录到的鱼类种数，b是另一江段记录到的鱼S为鱼类群落矩阵，A为鱼类生态矩阵，n为鱼类群
+类种数。当I为?0～0.25?时，为极不相似；0.25～0.5落种类数，R为鱼类群落对环境需求矩阵。鱼类个
+为中等不相似；0.5～0.75?为中等相似；0.75～1.0体生态学指数包括了群落中每种鱼类已知生态学
+为极相似。特征如生活史、产卵条件、相应得水质要求等，然后
+Shannon-Wiener?多?样?性?指?数（H′）计?算?式?为：把收集的鱼类生态学特征根据要达到的目的进行整
+H l=-/ilog2Pi，Pi 为群落中第i 种的个体数占理、筛选，以此来评价鱼类群落变化与环境之间的关
+300 中 国 水 产 科 学第17卷
+系。个体生态学指数首先是应用在伊利诺州的水质次亚?科?8?种（16.7%），野?鲮?亚?科?6?种（12.5%）、雅
+管理信息系统，孙建平把该方法应用于研究台湾北罗鱼亚科?5?种，亚科?3?种，鲤亚科、鲃亚科各?3?种，
+部鱼类和?Dahan?河鱼类群落[16]。鲴亚科、鲢亚科、亚科各?2?种，鳅亚科?1?种。西
+数理统计，文中数据分析和作图所采用的软件江鱼类鲌亚科、亚科、野鲮亚科种类较多的特点与
+为Microsoft Excel，Pc-ord 4.0和SigmaPlot 10.0。广东省鱼类区系组成相吻合[3]。
+2.1.2 
+2种类组成变化　本部分采用历史资料记载，
+  结果与分析
+近年调查未采集到的种类为分析数据，这些鱼类共
+2.1 鱼类种类组成及变化52?种，根据喜急流、缓流生活、产漂浮性卵、产黏性卵、
+2.1.1 鱼类组成　2005-2008?年?采?集?鱼?类?标?本肉食性、杂食性、植食性、底层、中下层、中上层、广盐
+13 736?尾，计鱼类?96?种，分属于?13?目?29?科?75?属，性、口端位、口下位等?13?个生态学特征建立鱼类个体
+（附录?1）。其中辐斑虫纹东方鲀、南方波鱼、台细鳊、生态学矩阵（autecology matrix）（表１）。鱼类群落环
+西江鲇、桂林鳅、棒花鱼、似、攀鲈?8?种为西江新境需求矩阵中，R表示该鱼类群落对环境需求因子的
+记录种，麦瑞加拉鲮、条纹鲮脂鲤、短盖巨脂鲤、斑需求度。在表?1?矩阵中，鱼类适宜底层生活的R最大
+点叉尾是西江新记录外来种。西江纯淡水土著鱼值为?0.67，其次是喜急流?0.58，再次为口下位?0.50，第
+类以鲤形目最多，有?54?种，占西江淡水鱼类总种数四为肉食性的R值为?0.44。由此推断，西江鱼类群落
+的?56.3%，其次是鲈形目?15?种，占总数的?15.6%，鲇中底层生活、口下位、喜急流的种类如鲃亚科、野鲮亚
+形目?13?种占总数的?14.6%。鲤科?48?种，占总种数科、亚科鱼类受影响最大，近几年调查显示?,?具备
+的?50%，其次是鲿科?8?种（8.3%），鳅科?6?种（6.3%）。这些生态习性的种类如倒刺鲃、似、卷口鱼、东方墨
+可见西江鱼类种类组成以鲤科占显著优势，其次种头鱼等在西江已经十分稀少。同样以目前西江鱼类
+类较多的依次是鲿科、鳅科，这与珠江水系鱼类的区种类多度大于?1%?的种类结合上述?13?个生态学特征
+系组成一致[1]。中国鲤科鱼类的?12?个亚科，西江有建立矩阵，分析表明杂食性、口端位、喜缓流生活的种
+11?个，以鲌亚科最多?12?种（占鲤科总数的?25%），其类如赤眼鳟、、鲮、鲤等却演变成西江的优势种群。
+表1　西江未采集到鱼类及稀有种鱼类个体生态学矩阵（ 2005-2008）
+Tab. 1　Fish autecology matrix of uncollected species of Xijiang River（ 2005-2008）
+种类  SpeciesE1E2E3E4E5E6E7E8E9E10E11E12E13
+赤D.akajei1000100100101
+中华鲟A. sinensis 1001100100101
+大海鲢M. cyprinoides0000100000100
+鲥M.reevesi1000100001110
+ L. macrocephalus1010100000000
+翘嘴红鲌E. ilishaeformis0101100001000
+黑尾H.nigromarginis 0101000001010
+圆吻鲴D. tumirostris1010001100001
+光倒刺鲃B. caldwelli1010001100001
+似鳡 F. vivus 1010100100010
+半刺光唇鱼A. hemispinus1010010100001
+髭虾虎鱼T.barbatus1001100100100
+注：E1：急流型；E2：缓流型；E3：产漂浮性卵；E4：产黏性卵；E5：肉食性；E6： 杂食性；E7：植食性；E8：底层；E9：中
+下层；E10：中上层；E11：广盐性；E12：口端位；E13：口下位?.
+Note：E1：Riffle；E2：Slow current；E3：Lay floating eggs；E4：Lay glutinous eggs；E5：Carnivore；E6：Omnivore；E7：Herbivore；
+E8：Sub-stratum；E9：Mid &sub stratum；E10：Mid &super stratum；E11：Be able to bare salt water；E12：With terminal 
+mouth；E13：With inferior mouth.
+第2期 李捷等：西江鱼类群落多样性及其演变301
+2.2 鱼类生态类型及变化势类群有：鲮、赤眼鳟、鲤、、子陵吻虾虎鱼等；半
+2.2.1 鱼类群落生态类型　按生态习性将西江鱼类洄游性鱼类群落主要以广东鲂、黄尾鲴、银鲴、鳊为
+分为洄游性、半洄游性和定居性?3?种生态类型；按主；而洄游性鱼类群落花占绝对优势地位。从营
+营养结构（食性）分为滤食性、植食性、肉食性和杂食养结构分析，西江鱼类群落主要以杂食性和肉食性
+性?4?种（图?2）。从生态习性分，西江鱼类群落种类个鱼类为主，杂食性鱼类群落优势物种有：花、赤眼
+体数和生物量以定居性鱼类为主，其次是半洄游性鳟、广东鲂、鲮、、鲤等，肉食性鱼类主要以子陵吻
+鱼类，洄游性鱼类所占比例最低，定居性鱼类群落优虾虎鱼、条纹、斑纹舌虾虎鱼为主（附录?1）。
+100个体数  Number
+生物量  Weight
+80
+60
+40
+百分比  Percentage
+20
+0
+RSRLSEFHCO
+生态类型  Ecology type
+图?2　西江鱼类群落组成
+F：滤食性；C：肉食性；H：植食性；O：杂食性；RS：江海洄游性；RL：河湖洄游性；SE：定居性?.
+Fig. 2　Fish assemble composition in Xijiang River
+C：Carnivore；F：Filter-feeder；H：Herbivore；O：Omnivore；RS：River-sea migratory； RL：River-lake migratory；SE：Sedentary.
+2.2.2 生态类型变化　与?20?世纪?80?年代调查结果类型所占比例进行比较（图?3），从生活类习性分析，
+相比，西江鱼类生态类型发生显著变化，整个鱼类群洄游性、半洄游性鱼类种类所占比例下降，而定居性
+落相似性指数为?0.57。其中洄游性鱼类变化最为明鱼类所占比例上升；从鱼类食性分析，西江鱼类群
+显，历史记录洄游性种类有?22?种，近年调查仅发现落肉食性鱼类群落种类所占百分比降低，而杂食性、
+10?种，相似性指数仅为?0.39，其次是肉食物性种类，植食性鱼类所占比例有所上升。
+相似性指数为?0.48（表?2）。从各个时期不同生态
+表2　西江鱼类种类组成变化及其种类相似性
+Tab. 2　Variation of species composition and comparability of fish in Xijiang River
+全类群
+指标  IndicatorRSRLSEFHCO
+Whole community
+1981-1985?年种类数
+Species number in 1981-1985222591295867136
+2006-2008?年种类数
+Species number in 2006-200810157127355496
+共有种数
+Number of common species9146126304884
+种类相似性指数
+Jaccard similarity coefficient of species0.390.580.601.000.60.480.660.57
+注：F：滤食性；C：肉食性；H：植食性；O：杂食性；RS：江海洄游性；RL：河湖洄游性；SE：定居性；
+Note：C：Carnivore；F：Filter-feeder；H：Herbivore；O：Omnivore；RS：River-sea migratory； RL：River-lake migratory；SE：Sedentary
+302 中 国 水 产 科 学第17卷
+80-1981
+2005-2008
+60
+40
+百分比  Percentage20
+0
+RSRLSEFHCO
+生态类型  Ecology type
+图?3　西江不同时期鱼类种类组成
+F：滤食性；C：肉食性；H：植食性；O：杂食性；RS：江海洄游性；RL：河湖洄游性；SE：定居性?.
+Fig. 3　Species composition of fishes in different periods in Xijiang River
+C：Carnivore；F：Filter-feeder；H：Herbivore；O：Omnivore；RS：River-sea migratory； RL：River-lake migratory；SE：Sedentary.
+2.3 鱼类群落组成鲂、鲮、鲤、、黄尾鲴、鳡、鳊、鲢、银鲴，这些种类占
+2.3.1 优势种　将采样鱼类按数量和生物量汇总，西江鱼类群落总生物量的?80.84%，各优势种群按数
+以渔获物数量计算，前?10?位依次是鲮、、赤眼鳟、量和生物量所占比例见表?3。多度小于?0.1?的有?28
+广东鲂、子陵吻虾虎鱼、条纹、银、黄尾鲴、花、种，占总种类数的?29.17%，其中辐斑虫纹东方鲀、
+银鲴，这些种占西江鱼类群落总个体数的?68.34%；、三线舌鳎、台细鳊多度小于?0.01，这些种类在西江
+以渔获物生物量计算，前?10?位依次是赤眼鳟、广东数量已经十分稀少。
+表3　西江鱼类前10位种组成
+Tab. 3　Composition of top ten species in Xijiang River
+以渔获数量计Count by number以渔获重量计Count by weight
+种类百分比?/%种类百分比?/%
+SpeciesPercentageSpeciesPercentage
+鲮Cirrhina molitorella13.33赤眼鳟Squaliobarbus curriculus21.82
+ Hmiculter leucisxulus10.24广东鲂Megalobrama hoffmanni20.33
+赤眼鳟Squaliobarbus curriculus9.86鲮Cirrhina molitorella14.74
+广东鲂Megalobrama hoffmanni9.34鲤Cyprinus carpio9.08
+子陵吻虾虎鱼Rhinogobius giurinus5.44 Hmiculter leucisxulus3.27
+条纹Leiocassis virgatus4.60黄尾鲴Xenocypris davidi2.73
+银Squalidus argentatus4.37鳡Elopichthys bambusa2.63
+黄尾鲴Xenocypris davidi4.04鳊Parabramis pekinensis2.41
+花Clupanodon thrissa3.59鲢Hypophthalmichthys molitrix2.30
+银鲴Xenocypris argentea3.53银鲴Xenocypris argentea1.53
+合计?Total68.34合计?Total 80.84
+2.3.2 群落多样性　分析西江鱼类群落多样性指数匀度指数各江段差异较小。生物多样性指数提供了
+（表?4），发现越往上游，Shannon-Wiener?多样性指数、有关群落方面的信息，多用来指示环境变化，由此我
+Margalef?多样性指数、物种丰富度?Richness?值越高，均们推断西江上游水生生态环境要优于中下游江段。
+第2期 李捷等：西江鱼类群落多样性及其演变303
+表4　不同江段鱼类多样性比较
+Tab. 4　Comparison of fish diversity index among five different catching tool
+项目?ItemS1S2S3S4S5S6
+Shannon-Wiener?多样性指数
+Shannon-Wiener diversity index2.802.782.993.063.343.47
+Margalef?多样性指数
+Margalef diversity index3.975.196.276.076.717.16
+均匀度指数Evenness index0.740.670.690.700.750.77
+物种丰富度Species richness45.0065.0075.0077.0084.0090.00
+2.3.3 鱼类群落差异　各调查江段鱼类种类相似以各采样江段鱼类群落个体数对各调查江段
+性（表?5），S1?江段与?S5、S6?江段鱼类种类相似性指鱼类群落进行聚类分析（图?3），西江鱼类群落可以
+数为小于?0.50，鱼类种类呈中等不相似；S3?与?S4、分为３个类群，S4、S5、S6?聚在一起成一个类群，
+S4?与?S5、S4?与?S6、S5?与?S6?种类相似性指数大于S2、S3?成一个群，S1?单独成一个类群。鱼类群落?S4
+0.75，他们之间为极为相似；其他各江段鱼类种类相与青皮塘江段?S6?最为相似，其次是?S4、S6?与?S5，S1
+似性指数?0.56～0.71，为中等相似。与其他群落最不相似。
+表5　西江各站点鱼类物种组成的区域差异
+Tab. 5　Regional differences of fish species composition in the various areas of Xijiang River
+S1S2S3S4S5S6
+S10.610.580.540.470.48
+S2420.740.690.650.65
+S344600.880.770.79
+S44359710.840.84
+S5415969720.87
+S64461737681
+注：对角线上方为?Jaccard?相似性指数，对角线下方共有种数
+Note：Jaccard similarity coefficient of species in the top right corner and common species in below left corner
+1007550250
+S1
+S2
+S3
+S4
+S6
+S5
+图?4　西江鱼类群落结构聚类
+Fig. 4　Cluster of fish assemble in Xijiang River
+3量发生较大变化。（1）种类减少。20?世纪?80?年代
+  讨论
+初期调查西江分布有有鱼类?136?种，此次调查只采
+3.1 西江鱼类群落组成演变特点集到?96?种，有?52?种鱼类在近年调查中未采集到标
+与历史资料比较发现，西江鱼类种类、种群数本，多种珍稀物种如中华鲟、赤、鲥?鱼、、似鳡 
+304 中 国 水 产 科 学第17卷
+等已经多年未见踪迹。（2）渔获物中重要经济鱼类仅在上游采集到少数几条标本。目前而口端位、
+种类减少。历史记载西江的主要渔业对象有鲥、花喜缓流生活、杂食性种类如鲤、赤眼鳟、等演变为
+、青鱼、草鱼、赤眼鳟、海南红鲌、广东鲂、鳊、倒刺西江优势种群。（7）外来种增加，西江历史记录外来
+鲃、鲮、卷口鱼、唇鲮、鲤、鲢、鳙、珠江长臀、斑鳠和种?6?种，此次调查共发现?10?种，其中，麦瑞加拉鲮、
+大眼鳜等[2]，目前西江的主要渔业对象为：广东鲂、罗非鱼、斑点叉尾在渔获物中占有较大比例，在西
+赤眼鳟、鲮、花、黄尾鲴、鳊和条，鲥、唇鲮在西江江形成了一定的种群。
+已多年未见标本，珠江长臀、倒刺鲃、青鱼、卷口鱼3.2 群落多样性影响因素及对策
+等重要经济鱼类资源量大幅度下降，目前已经很难鱼类群落演替的过程及原因主要受环境条件
+捕到。（3）洄游性、半洄游性鱼类种类大大减少。西变动的影响[19]。造成西江鱼类多样性下降的主要
+江资料记载有洄游性鱼类?22?种，近年调查只发现原因有：（1）河口水体严重污染。使耐污能力低的
+10?种，中华鲟、赤、鲥、大?海?鲢、卵鳎、花鲆、印度种类难以生存，导致河口鱼类种类、数量减少，另一
+鲬、爪氏20?世纪?80?年代在西江能见到，目前已方面河口污染形成污染屏障阻碍鱼类洄游通道，从
+经难寻踪迹。20?世纪?80?年代前西江鲥鱼、三线舌而导致西江洄游性鱼类大大减少。（2）航道整治、大
+鳎、日本鳗鲡、七丝鲚、花等能形成渔汛，现在除了规模无序挖沙。西江是重要的航运通道，航道整治
+花、弓斑东方鲀还有较大种群数量，其他种类如三过程中进行了较大规模的炸礁疏浚，并在不同江段
+线舌鳎、等数量十分稀少。西江记录有半洄游性修建了众多丁坝，炸礁疏浚、大规模挖沙破坏河床结
+种类?25?种，近年调查只发现?15?种，鯮、似鳡、倒刺构和水体中的水草，礁石、水草是鱼类繁殖、栖息的
+鲃、南方白甲鱼、瓣结鱼、异华鲮、细鳞鲴 等种类在理想场所，底质因素与生物完整性指标之间存在明
+西江已经很难找到，鳤近?4?年只采到少数几尾标本，显的相关性，其中底质颗粒越大，生物完整性指数越
+历史上“四大家鱼”青、草、鲢、鳙是西江的主要捕捞高[20]；丁坝建设减缓水流速度，使原来多样的生境
+对象，目前除草、鲢还有一定数量外，青、鳙鱼数量较变得单一， 对适宜底层生活、口下位、喜急流鱼类造
+少，青鱼近年调查只发现?8?尾标本。（4）定居性鱼类成较大影响。（3）水坝建设，西江干流梧州建立了长
+种类所占比例增加，由历史的?66.9%?增加到?73.9%。州水利枢纽，其最大支流贺江已建成了一系列梯级
+（5）肉食性鱼类种类所占比例与历史相比下降，而水坝，水坝建设阻碍鱼类上溯、下行通道，改变了鱼
+杂食性、草食性鱼类种类所占比例上升（图?3），西江类繁殖所必需的水文条件，对西江半洄游性鱼类造
+肉食性鱼类种类由历史的?42.6%?下降为?36.5%，杂成较大影响，“四大家鱼”数量在西江十分稀少，青
+食性鱼类种类所含比例由?49.3%?上升至?56.3%。据鱼已很难发现。（4）不合理捕捞也是影响西江鱼类
+Karr [17-18]的研究结果，鱼类物种减少、肉食性鱼类比多样性的一个原因，每到鱼类繁殖季节，大批渔民在
+例下降、杂食性鱼类比例上升是河流环境质量下降西江青皮塘和罗旁两个大型产卵场下游张网捕捞繁
+的典型表现，由此推断西江环境质量下降。（6）西江殖群体，对鱼类补充群体造成较大影响。
+口下位、适应底栖沙砾、急流、洞穴生活的种类和种针对以上鱼类资源胁迫因素，提出以下鱼类生
+群数量减少，具备这些特征的种类如鲃亚科由原来物多样性保育建议：（1）控制网眼规格大小、延长禁
+的?9?种减少到?3?种，能见到的倒刺鲃、条纹二须鲃、渔时间、扩大禁渔江段。（2）大力开展西江珍稀特
+侧条光唇鱼在西江是稀有种，多度小于?0.1。野鲮亚有鱼类人繁殖研究，补充珍稀鱼类的天然种群数量。
+科的桂华鲮、伍氏盆唇华鲮、唇鲮在西江已经多年未（3）开展人工渔巢、渔礁研究，为西江稀有鱼类提供
+见标本，其他种类如异华鲮、东方墨头鱼数量也十分良好的繁殖、栖息场所，近些年来，肇庆市渔政支队
+稀少。亚科种类由原来的?13?种下降为?8?种，现存在西江肇庆江段进行了人工渔巢实验，为产草黏性
+种类中除银外，其他种类都数量稀少。福建纹胸卵鱼类提供理想的繁殖场所，实验江段产草黏性卵
+第2期 李捷等：西江鱼类群落多样性及其演变305
+鱼类如鲤、鳜类等资源量明显增加。（4）加强西江已参考文献：
+有渔业保护区的管理，建立渔业自然保护区是保护[1]  郑慈英?.?珠江鱼类志[M].?北京：科技出版社，1989.
+鱼类多样性及生态环境最有效的措施之一，近年调[2]  陆奎贤?.?珠江水系渔业资源[M].?广州：广东科技出版社，1990.
+查结果表明，西江受保护的江段鱼类种类、多样性要[3]  潘炯华?.?广东淡水鱼类志[M].?广东：广东科技出版社，1991.
+高于非保护江段，肇庆市渔政支队于?1992?年在西江[4]  冯启新，王金潮，尤炳赞，等?.?广东鲂产卵场调查报告[J].?淡水
+广东鲂产卵期对产卵场实施禁渔保护，经过?10?多年渔业，1986，134（6）：1-5. 
+[5]  Bechtel TJ，Copeland B J. Fish species diversity indices as indicator 
+的保护，广东鲂资源不断得到恢复，目前已经成为西
+of pollution in Galveston Bay ，Texas [J]. Contri Mar Sci Univ-
+江中下游江段的主要渔业对象之一。
+3.3 Texas，1970，15：103-132.
+鱼类多样性与栖息地关系[6]  Hillman R E.，Davis N W，Wennemer J. Abundance，diversity and 
+一般情况下鱼类群落多样性和生活环境呈正相stability in sbore-zone fish communities in an area of Long Island 
+关，鱼类群落的结构主要受空间和生境复杂性的影Sound affected by the thermal discharge of a nuclear power station 
+响[21] ，栖息地结构的复杂程度是决定栖息地丰富度[J]，Estu，Coas-Mar Sci.，1977，5：355-382.
+与多样性的一个重要因素[22]，其原因可能是栖息地[7]  费鸿年，何宝全，陈国铭?.?南海北大陆架底栖鱼群聚的多样度
+的复杂性能在一定程度上降低物种之间的竞争和捕及优势种区域和季节变化[J].水产学报，1983，5 （1）：1-20.
+食[23-25]。鱼类群落结构与生境的异质性密切相关，在[8]  宋天祥，张国华，常剑波等?.?洪湖鱼类多样性研究[J].?应用生态
+相似的生境中鱼类群落组成也非常相似，许多鱼类仅学报，1999，10 （1）：86-90.
+在特定的生境中出现，S4、S5、S6?位于西江中上游，[9]  邵晓阳，黎道丰，蔡庆华?.?香溪河鱼类群落及资源评价[J].?水生
+水受污染程度相对较轻，这?3?个江段水文动力条件独生物学报，2006，30 （1）：70-74.
+[10]  陈小华，李小平，程曦?.?黄浦江和苏州河上游鱼类多样性组成
+特，鱼类栖息地结构复杂，河床、河岸有大小不等的砾
+的时空变化[J].生物多样性， 2008，16 （2）：191-196.
+石堆积，暗礁、洞孔、缝隙很多，河中央有大的沙洲，水
+[11]  谭细畅，李新辉，陶江平等?.?西江肇庆江段鱼类早期资源时空
+草相对丰富，这些条件能够为鱼类栖息、繁殖、逃逸提
+分布特征研究[J].淡水渔业，2007，37 （4）：37-40.
+供优良条件，在调查中发现，这些江段小型杂鱼种类[12]  李跃飞，李新辉，谭细畅等?.?西江肇庆江段渔业资源现状及其
+相对较多；其二?S4、S5、S6?位于贺江、桂江、浔江与西变化[J].水利渔业，2008，28 （1）：80-83.
+江交汇处，是不同河流集中鱼类处，鱼类种类相对多[13]  李捷，李新辉，谭细畅，等?.?西江广东肇庆珍稀鱼类省级自然保
+样；另一方面，这?3?个江段分布有鳡、广东鲂等鱼类护区鱼类多样性[J].湖泊科学，2009 ，21（4）：445-451.
+大型产卵场，当地政府对这些江段重点保护，受人类[14]  张觉民，何志辉?.?内陆水域渔业资源调查手册[M].?北京：农业
+破坏程度相对少，因而这几个江段鱼类种类、群落多出版社，1991.
+样性指数相对要高。S2、S3?位于西江中下游游，河面[15]  广西壮族自治区水产研究所，中国科学院动物研究所?.?广西淡
+宽阔，水流缓慢，河床结构简单，小型杂鱼种类相对较水鱼类志第?2?版[M].?南宁：广西人民出版社，2005.
+少，鱼类多样相对较低。S1?位于珠江三角洲河口段，[16]  Suen J P，Edwin E. Herricks. Investigating the causes of fish 
+受人类活动影响最大，水环境受污染程度严重，小型community change in the Dahan River（Taiwan） using an 
+autecology matrix [J]. Hydrobiologia，2006，568：317-330.
+鱼类和耐污、耐盐性差的种类很难适宜在此江段生
+[17]  Karr J R. Assessment of biotic integrity using fish communities [J]. 
+存，因而此江段鱼类种类数、多样性最低。
+Fisheries，1981，6：21-27.
+[18]  Karr J R. Assessing biological integrity in running waters：A 
+致谢：在鱼类资源调查过程中，肇庆渔政支队、method and its rationale [M]. Illinois Natural History Survey Special 
+梧州渔政站、封开大队、德庆大队、郁南大队在人力Publication，1986，5：28.
+物力上提供了大力支持，并提供捕捞日志，在此表示[19]  夏建宏，陆剑锋，周保春，等?.?上海苏州河鱼类群落的初步研究
+衷心感谢！[J].湖泊科学，2009 ，21（4）：538-546.
+306 中 国 水 产 科 学第17卷
+[20]  殷名称?.?鱼类生态学[M].?北京：中国农业出版社，1995：220-221.[23]  MacArthur R H，Levins R.The limiting similarity，convergence and 
+[21]  Ornellas A B，Coutinho R. Spatial and temporal patterns of divergence of coexisting species. [J] Am Nat，1967，101：377-385.
+distribution and abundance of a tropical fish assemblage in a [24]  Babbitt K J，Tanner G W . Effects of cover and predator size 
+seasonal Sargassum bed，Cabo Frio Island，Brazil [J]. J Fish Biol，on survival and development of Rana utricularia tadpoles [J]. 
+1998，53：198-208.Oecologia，1998，114：258-262.
+[22]  Bell S S，McCoy E D，Mushinsky H R. Habitat structure：the [25]  Sih A，Kats L B，Moore R D. Effects of a predatory sunfish on 
+physical arrangement of objects in space [M]. London：Chapman the density，drift，and refuge use of stream salamander larvae [J]. 
+and Hall，1991.Ecology，1992，73：1418-1430.
+Evolvement and diversity of fish community in Xijiang River
+LI Jie1，3，LI Xinhui1，JIA Xiaoping，LI Yuefei1，HE Meifeng1，TAN Xichang1，WANG Chao1，JIANG Wangxiang4
+（1. Pearl River Fisheries Research Institute，Chinese Acadamy of Fishery Science，Key Field Station of Observation and Research 
+for Fishery Resource and Environment in Middle-Lower Reaches of Pearl River，Chinese Academy of Fishery 
+Sciences，Guangzhou 510380，China；2. Key Laboratory of Fishery Ecology and Environment，Guangdong 
+Province，Guangzhou 510300，China；3. Key Laboratory of Ecological Environment and Resources of Inland 
+Fisheries，Chinese Academy of Fishery Sciences，Wuxi 214081，China；4. Department of Life Sciences，Zaozhuang 
+University，Zaozhuang 277160，China）
+Abstract：The survey was made in Xijiang River from 2005 to 2008. Ninety species belonging to 13 orders，29 
+families and 75 genura were collected from 6 sampling spots. Eight species including Takifugu vermicularis，Rasbora 
+steineri and Silurus gilberti were newly recorded in Xijiang River. There is 17 species whose relative density >1，
+relative density of 28 species < 0.1. The top 5 species in relalitive density were Cirrhina moitorella，Hmiculter 
+leucisxulus，Squaliobarbus curriculus，Megalobrama hoffmanni and Rhinogobius giurinus. Fish communities were 
+dominated by sedentary species and omnivore species. Compared with the historic data，the proportion of omnivore 
+and sedentary species increased. For carnivore，migratory and half-migratory species declined in number. The 
+fish community of Xijiang River can be distinguished as three cluster，upriver cluster，middle reach cluster and 
+downriver cluster. The results indicated that fish species diversity in Xijiang River were significantly different 
+among different sections. Fish species in similar habitats had higher similarity. The diversity of species in the upper 
+stream is higher than that in the downstream. It also showed that these fish species living at downstream of the river 
+with inferior mouth，relishing riffle，decreased greatly in number especially for the carnivore through the individual 
+ecology index. While these with terminal mouth，omnivore ，adept to slow current become the dominated species. It 
+is recognized that sea-route renovation，digging sand without control，water pollution and excessive catching is the 
+key factors to impact fish assemble in Xijiang River. [Journal of Fishery Sciences of China，2010，17（2）：298-311]
+Key words：Xijiang River；fish community；diversity；autecology
+Corresponding author：LI Xinhui. E-mail：lxhui01@tim.com 
+第2期 李捷等：西江鱼类群落多样性及其演变307
+附录1　西江鱼类名录（ 2005-2008）
+Tab. 1　Fish species of Xijiang River（  2005-2008）
+站位  Sampling spot
+物种?Species-1983相对多度生态类型
+S1S2S3S4S5S6Relative densityEcology type
+鲼形目 Myliobatiformes　　　　　　　
+　科 Dasyatidae　　　　　　　
+　　赤 Dasyatis akajei *+　　　　　　C；RS
+鲟形目 Acipenseriformes　　　　　　　
+　鲟科 Acipenseridae　　　　　　　
+　　中华鲟 Acipenser sinensis*+　　　　　　C；RS
+海鲢目 Elopiformes　　　　　　　
+　大海鲢科 Megalopidae　　　　　　　
+　　大海鲢 Megalops cyprinoides*+　　　　　　
+鲱形目 Clupeiformes　　　　　　　
+　鲱科 Clupeidae　　　　　　　
+　　花Clupanodon thrissa+▽▽▽▽▽▽3.59O；RS
+　　鲥 Macrura reevesi *+　　　　　　C；RS
+　科?Engraulidae　　　　　　　
+　　七丝鲚Coilia grayi+▽▽▽▽▽▽0.56O；RS
+鲑形目 Salmoniformes　　　　　　　
+　银鱼科?Salangidae　　　　　　　
+　　白肌银鱼Leucosoma chinensis+▽▽▽▽▽▽0.77O；RS
+鳗鲡目?Anguilliformes　　　　　　　
+　鳗鲡科?Anguillidae　　　　　　　
+　　花鳗鲡Anguilla marmorata+　▽▽▽▽▽0.04O；RS
+　　日本鳗鲡Anguilla japonica+▽▽▽▽▽▽0.27O；RS
+鲀形目 Tetraodontiformes　　　　　　　
+　鲀科 Tetraodontidae　　　　　　　
+　　弓斑东方鲀Takifugu ocellatus  +▽▽▽▽▽▽0.69O；RS
+　　辐斑虫纹东方鲀Takifugu vermicularis　　▽　　　　<0.01O；RS
+鲤形目?Cypriniformes　　　　　　　
+　鲤科?Cyprinidae　　　　　　　
+　　宽鳍Zacco platypus+　　▽▽▽▽0.05O；S
+　　拟细鲫Nicholsicypris normalis　　　　　▽▽0.05O；S
+　　南方波鱼Rasbora steineri 　　　　　▽　0.04O；S
+　　唐鱼 Tanichthys albonubes *+　　　　　　O；S
+　　青鱼Mylopharyngodon piceus+　　▽▽▽▽0.03 C；RL  
+　　草鱼Ctenopharyngodon idellus+▽▽▽▽▽▽0.36 H；RL
+　　赤眼鳟Squaliobarbus curriculus+▽▽▽▽▽▽9.86O；RL
+　　鳤Ochetobius elongatus+　　　　▽▽0.03O；RL
+　　 Luciobrama macrocephalus *+　　　　　　C；RL
+　　鳡Elopichthys bambusa+　▽▽▽▽▽0.24C；RL
+　　红鳍原鲌Culter erythropterus Basilewsky+　　　▽▽▽0.07C；SE
+　　海南红鲌Erythroculter recurviceps+▽▽▽▽▽▽0.29C；SE
+　　蒙古红鲌Erythroculter mongolicus+　▽▽▽▽　0.09C；SE
+　　大眼红鲌 Erythroculter hypselonotus *+　　　　　　C；SE
+　　翘嘴红鲌 Erythroculter ilishaeformis *+　　　　　　C；SE
+308 中 国 水 产 科 学第17卷
+续表
+　　广东鲂Megalobrama terminalis+▽▽▽▽▽▽9.34O；RL
+　　团头鲂Megalobrama amblycephala+　▽　　　▽0.02O；RL
+　　半Hemiculterella sauvagei+　　▽　▽▽0.09O；SE
+　　 Hmiculter leucisxulus+▽▽▽▽▽▽10.24O；SE
+　　贝氏 Hmiculter bleekeri Warpachowsky*+　　　　　　O；SE
+　　黑尾 Hemiculter nigromarginis+　　　　　　O；SE
+　　鳊Parabramis pekinensis+▽▽▽▽▽▽2.41H；RL
+　　海南似Toxabramis houdemeri Pellegrin+　　　▽▽▽0.11O；SE
+　　银似 Toxabramis argenfiber Abbott*+　　　　　　O；SE
+　　线细鳊Parabramis lineatus+　▽▽▽▽▽0.07H；RL
+　　台细鳊Rarabramis formosae Oshima　　　　　▽　<0.01H；RL
+　　飘鱼 Pseudolaubuca sinensis Bleeker+▽▽▽▽▽▽1.06O；SE
+　　寡鳞飘鱼 Pseudolaubuea engraullis*+　　　　　　O；SE
+　　黄尾鲴Xenocypris davidi+▽▽▽▽▽▽4.33H；RL
+　　银鲴Xenocypris argentea+▽▽▽▽▽▽3.53H；RL
+　　细鳞鲴 Xenocypris microlepis*+　　　　　　H；RL
+　　圆吻鲴 Distoechodon tumirostris*+　　　　　　H；RL
+　　鳙Aristichthys nobilis+▽▽▽▽▽▽0.15F；RL
+　　鲢Hypophthalmichthys molitrix+▽▽▽▽▽▽0.91F；RL
+　　唇Hemibarbus labeo*  +O；SE
+　　长吻Hemibarbus longirostris  +O；SE
+　　麦穗鱼Pseudorasbora parva+　▽▽▽▽▽0.26O；SE
+　　黑鳍鳈 Sarcocheilichthys nigripinnis*+　　　　　　O；SE
+　　点纹银Squalidus wolterstorffi+　　▽▽▽▽0.59O；SE
+　　银Squalidus argentatus+▽▽▽▽▽▽4.37O；SE
+　　胡 Huigobio chenhsienensis*+　　　　　　O；SE
+　　棒花鱼Abbottina rivularis+　▽▽▽▽▽0.16O；SE
+　　长棒花鱼 Abbottina elongata*+　　　　　　O；SE
+　　乐山小鳔 Microphysogobio kiatingensis+　　　　▽▽0.07O；SE
+　　福建小鳔Microphysogobio fukiensis+　　▽▽　▽0.17O；SE
+　　似Pseudogobio vaillanti vaillanti*+　▽▽▽▽▽0.2O；SE
+　　蛇Saurogobio dabryi+　　▽▽▽▽0.13O；SE
+　　高体鳑 Rhodeus ocellatus+　　　▽▽▽0.13O；SE
+　　中华鳑Rhodeus sinesis+　▽▽▽▽▽0.19O；SE
+　　越南 Acanthorhodeus tonkinensis Vaillant*+　　　　　　O；SE
+　　兴凯Acanthorhodeus.chankaensis*+　　　　　　O；SE
+　　斑条Acanthorhodeus .taenianalis*+　　　　　　O；SE
+　　条纹二须鲃Capoeta semifasciolata +　▽▽▽▽▽0.26O；SE
+　　倒刺鲃Pinibarbus hollandi+　　　▽▽▽0.01H；RL
+　　光倒刺鲃 Barbodes caldwelli*+　　　　　　H；RL
+　　似鳡 Fustis vivus*+　　　　　　C；RL
+　　侧条光唇鱼Acrossocheilus parallens  　　　　▽▽0.03O；SE
+　　半刺光唇鱼 Acrossocheilus hemispinus*+　　　　　　O；SE
+　　虹彩光唇鱼 A.iridescens iridescens*+　　　　　　O；SE
+　　南方白甲鱼 Varicorhinus gerlachi*+　　　　　　O；RL
+　　瓣结鱼 Tor brevifilis brevifilis*+　　　　　　O；RL
+第2期 李捷等：西江鱼类群落多样性及其演变309
+续表
+　　鲤Cyprinus carpio+▽▽▽▽▽▽3.08O；SE
+　　鲫Carassius auratus+▽▽▽▽▽▽0.41O；SE
+　　须鲫 Carassioides cantonensis*+　　　　　　O；SE
+　　华南鲤 Cyprinus carpio rubrofuscus*+　　　　　　O；SE
+　　纹唇鱼Osteoichilus salsburyi+　▽▽▽▽▽0.09O；SE
+　　鲮Cirrhina molitorella+▽▽▽▽▽▽13.33O；SE
+　　麦瑞加拉鲮Cirrhina mrigola 　▽▽▽▽▽▽0.23O；SE
+　　露斯塔野鲮Labeo rohita+　▽▽▽▽▽0.10O；SE
+　　异华鲮Parasinilabeo assimilis+　　▽　▽▽0.03O；RL
+　　桂华鲮 Sinilabeo decorus decorus*+　　　　　　O；RL
+　　伍氏盆唇华鲮 Sinilabeo discognathoides*+　　　　　　O；RL
+　　唇鲮 Semilabeo notabilis*+　　　　　　O；RL
+　　卷口鱼Ptychidio jordani+　▽▽▽▽▽0.22O；SE
+　　东方墨头鱼Garra orientalis+　　▽▽▽▽0.08O；SE
+　　四须盘Discogobio tetrabarbatus+　▽▽▽▽▽0.37O；SE
+　　桂林鳅Gobiobotia guilinensis*+　　　　　▽0.09O；S
+　鳅科?Cobitidae  　　　　　　　
+　　美丽小条鳅Micronemacheilus puicher+　　▽▽▽▽0.08O；SE
+　　横纹条鳅 Nemacheilus fasciolatus*+　　　　　　O；SE
+　　无斑条鳅 N.incertus*+　　　　　　O；SE
+　　平头岭鳅 Oreonectes platycephalus*+　　　　　　O；SE
+　　壮体沙鳅Botia robusta+▽▽▽▽▽▽3.21O；SE
+　　美丽沙鳅 Botia pulchra*+　　　　　　O；SE
+　　花斑副沙鳅Parabotia maculosa+　▽▽▽▽▽0.19O；SE
+　　中华花鳅Cobitis sinensis+　▽▽▽▽▽0.34O；SE
+　　泥鳅Misgurnus anguillicaudatus+▽▽▽▽▽▽0.35O；SE
+　平鳍鳅科 Homalopteridae　　　　　　　
+　　广西华平鳅Sinohomaloptera kwangsiensis+　　　　▽▽0.06O；SE
+脂鲤目 Characiformes　　　　　　　
+　无齿脂鲤科 Curimatidae　　　　　　　
+　　条纹鲮脂鲤Prochilodus lineatus　▽▽▽▽▽▽0.09C；SE
+　脂鲤科 Characidae　　　　　　　
+　　短盖巨脂鲤Colossoma brachypomun 　▽　▽　　▽0.04C；SE
+鲇形目 Siluriform　　　　　　　
+　鲇科 Siluridae　　　　　　　
+　　鲇Silurus asotus+▽▽▽▽▽▽0.66C；SE
+　　西江鲇Silurus gilberti　　　　　▽▽0.01C；SE
+　胡子鲇科 Clariidae　　　　　　　
+　　胡子鲇Clarias fuscus+▽▽▽▽▽▽0.31C；SE
+　　革胡子鲇Clarias gariepinus+▽▽▽▽▽▽0.16C；SE
+　鲿科 Bagridae　　　　　　　
+　　黄颡鱼Pelteobagrus fulvidraco+▽▽▽▽▽▽0.29C；SE
+　　瓦氏黄颡鱼Pelteobagrus vachelli+　▽▽▽▽▽1.27C；SE
+　　粗唇Leiocassis crassilabris +▽▽▽▽▽▽0.40C；SE
+　　纵带Leiocassis argentivittatus+　　▽▽▽▽1.03C；SE
+　　条纹Leiocassis virgatus+　▽▽▽▽▽4.60C；SE
+310 中 国 水 产 科 学第17卷
+续表
+　　斑鳠Mystus guttatus+▽▽▽▽▽▽0.90C；SE
+　长臀科 Cranoglanididae　　　　　　　
+　　珠江长臀Cranoglanididae bouderius bouderius+　▽▽▽▽▽0.08C；SE
+　纹胸科?Sisoridae　　　　　　　
+　　福建福建纹胸Glyptothorax fokiensis+　　　　　▽0.02C；SE
+　钝头科 Amblycipitidae　　　　　　　
+　　修仁 Liobagrus xiurenensis*+　　　　　　
+　科 Ictaluridae　　　　　　　
+　　斑点叉尾Ictalurus punctatus　▽▽▽▽▽▽0.17C；SE
+合鳃鱼目 Synbranchiformes　　　　　　　
+　合鳃鱼科 Synbanchidae　　　　　　　
+　　黄鳝Monopterus albus+▽▽▽▽▽▽0.28C；SE
+鳉形目?Cyprinodontiformes　　　　　　　
+　鳉科 Cyprinodontidae+　　　　　　
+　　青鳉 Oryzias latipes*+　　　　　　
+　　食蚊鱼Cambusia affinis　　　▽▽▽▽0.17O；SE
+ 形目?Mugiliformes+　　　　　　
+　 科 Mugilidae　　　　　　　
+　　 Mugil cephalus Linnaeus*+　　　　　　O；RS
+　　Liza haematocheila+　▽　　　　<0.01O；RS
+鲈形目 Perciformes　　　　　　　
+　 科 Serranidae　　　　　　　
+　　大眼鳜Siniperca kneri+▽▽▽▽▽▽0.70C；SE
+　　斑鳜Siniperca scherzeri+▽▽▽▽▽▽0.47C；SE
+　　石鳜 Siniperca whiteheadi*+　　　　　　C；SE
+　　暗鳜Siniperca obscura Nichols+　　　　　　C；SE
+　　花鲈Lateolabrax japonicus+▽▽▽▽▽▽0.31C；RS
+　石首鱼科 Sciaenidae　　　　　　　
+　　勒氏石首鱼 Sciaena russelli+　　　　　　C；RS
+　丽鱼科?Cichlidae　　　　　　　
+　　莫桑比克罗非鱼Tilapia mossambica+▽▽▽▽▽▽0.24C；SE
+　　尼罗罗非鱼Tilapia niloticus+▽▽▽▽▽▽0.16C；SE
+　科 Callionymidae　　　　　　　
+　　海氏 Callionymus hindsi Richardson*+　　　　　　O；RS
+　　香Callionymus olidus*+　　　　　　O；RS
+　塘鳢科 Eleotridae　　　　　　　
+　　尖头塘鳢Eleotris oxycephala+▽▽▽▽▽▽0.46C；SE
+　　乌塘鳢 Bostrichthys sinensis*+　　　　　　C；SE
+　　锯塘鳢 Prionobutis koilomatodon*+　　　　　　C；SE
+　　暗塘鳢 Eleotris fusca*+　　　　　　C；SE
+　虾虎鱼科 Gobiidae　　　　　　　
+　　黏皮鲻虾虎鱼 Mugilogobius myxodermus+　　　　　　
+　　斑纹舌虾虎鱼Glossgobius olivaceus+▽▽▽▽▽▽2.26C；SE
+　　金黄舌虾虎鱼Glossgobius aureus*+　　　　　　C；SE
+　　溪吻虾虎Rhinogobius duospilus +　　▽▽　▽0.27C；SE
+　　子陵吻虾虎鱼Rhinogobius giurinus+▽▽▽▽▽▽5.44C．SE
+第2期 李捷等：西江鱼类群落多样性及其演变311
+续表
+　　褐栉虾虎鱼Rhinogobius brunneus*+　　　　　　C；SE
+　　李氏栉虾虎鱼Rhinogobius leavelli*+　　　　　　C；SE
+　　髭虾虎鱼 Triaenopogon barbctus*+　　　　　　C；SE
+　攀鲈科 Anabantidae+　　　　　　
+　　攀鲈 Anabas testudineus+　　　　▽▽0.04C；SE
+　斗鱼科 Belontiidae+　　　　　　
+　　歧尾斗鱼Macropodus opercularis+　　　　▽▽0.08O；SE
+　鳢科 Channidae　　　　　　　
+　　斑鳢Channa maculata+▽▽▽▽▽▽0.27C；SE
+　　月鳢Channa asiatica+▽▽▽▽▽▽0.13C；SE
+　刺鳅科 Mastacembelidae　　　　　　　
+　　大刺鳅Mastacembelus armatus+▽▽▽▽▽▽0.37C；SE
+鲉形目?Scorpaeniformes
+　鲬科?Platycephalidae
+　　印度鲬 Platycephalus indicus*C；RS
+鲽形目 Pleuronectiformes　　　　　　　
+　 鲆科Bothidae
+　　花鲆Tephrinectes sinensis*C；RS
+　舌鳎科 Cynoglossidae　　　　　　　
+　　三线舌鳎 Cynoglossus trigrammus+　▽　　　　<0.01C；RS
+　鳎科?Soleidae
+　　卵鳎Solea ovata*C；RS
+颌针鱼目 Beloniformes　　　　　　　
+　科 Hemirhamphidae　　　　　　　
+　　间下Hemirhamphidae intermedius+　　　▽▽▽0.05C；RS
+　　爪氏Hemirhamphidae quogi*+　　　　　　C；RS
+注：“+”表示历史记录；“▽”表示近年采集的种；“*”表示历史记录而近年未采到的种. F：滤食性；C：肉食性；H：植食性；O：杂食性；
+RL：河湖洄游性；RS：江海洄游性；SE：定居性?.
+Note：“+” means recorded species；“▽”means the species was collected in the recent years；“*”means the species was not collected in the 
+recent years but historically recorded. C：Carnivore；F：Filter-feeder；H：Herbivore；O：Omnivore；RS：River-sea migratory； RL：River-lake 
+migratory；SE：Sedentary.

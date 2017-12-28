@@ -1,0 +1,512 @@
+应 用 生 态 学 报摇 2012 年 12 月摇 第 23 卷摇 第 12 期摇 摇 摇 摇 摇 摇
+Chinese Journal of Applied Ecology, Dec. 2012,23(12) : 3449-3457
+摇 摇 摇 摇 摇 摇
+摇 摇 摇 摇 摇 摇
+摇 摇 摇 摇 摇 摇
+摇 摇 摇 摇 摇
+东北地区火山堰塞湖鱼类区系与群落多样性*
+杨富亿1** 摇 吕宪国1 摇 娄彦景1 摇 娄晓楠1 摇 薛摇 滨2 摇 姚书春2 摇 肖海丰3
+( 1中国科学院东北地理与农业生态研究所湿地生态与环境重点实验室, 长春 130012; 2中国科学院南京地理与湖泊研究所湖
+泊与环境国家重点实验室, 南京 210008; 3哈尔滨师范大学地理科学学院, 哈尔滨 150025)
+摘摇 要摇 根据 2008—2011 年镜泊湖和五大连池鱼类学调查结果和历史资料,分析了东北地
+区火山堰塞湖鱼类区系特征和群落物种多样性状况. 东北地区火山堰塞湖鱼类区系由 9 目 16
+科 47 属 64 种土著种构成,其中国家域级野生保护物种 1 种,中国特有种 4 种,中国易危种 5
+种;64 种鱼类中,鲤形目 44 种,鲤科 37 种,分别占优势. 东北地区火山堰塞湖鱼类区系由 7 个
+区系复合体构成,以东部平原区系复合体为主体;南北方重叠种、北方特有种分别占 53 . 1% 和
+46 . 9% . 东北地区火山堰塞湖鱼类群落 Shannon、Fisher鄄琢、Pielou、Margalef 和 Simpson 指数值
+分别为 2郾 078、4 . 536、0 . 575、3 . 723 和 0 . 269,土著种多度分布格局可以用对数正态分布描述;
+与镜泊湖亚群落间 Bray鄄Curtis、 Morisita鄄Horn、 Ochiai、 S覬rensen 和 Whittaker 指数值分别为
+0郾 820、0. 992、0. 870、0. 862 和 0郾 138,与五大连池亚群落间各指数值分别为 0郾 210、0郾 516、0郾 838、
+0郾 825 和 0. 175. 东北地区火山堰塞湖鱼类区系具有南北方物种相互渗透、古北界与东洋界交汇
+过渡的特点;群落物种多样性程度较高,物种结构较稳定,但物种丰富度呈下降趋势.
+关键词摇 火山堰塞湖摇 鱼类群落摇 鱼类区系摇 群落物种多样性摇 东北地区
+文章编号摇 1001-9332(2012)12-3449-09摇 中图分类号摇 Q178. 2; S759. 9 摇 文献标识码摇 A
+Ichthyofauna and its community diversity in volcanic barrier lakes of Northeast China.
+YANG Fu鄄yi1 , L譈 Xian鄄guo1 , LOU Yan鄄jing1 , LOU Xiao鄄nan1 , XUE Bin2 ,stYIAnsOtituStheuo鄄fchGuen2
+og,
+XIAO Hai鄄feng3 ( 1Key Laboratory of Wetland Ecology and Environment, Northea 鄄
+raphy and Agroecology, Chinese Academy of Sciences, Changchun 130012,China; 2 State Key Labo鄄
+ratory of Lake Science and Environment, Nanjing Institute of Geography and Limnology, Chinese
+Academy of Sciences, Nanjing 210008,China; 3College of Geographic Science, Harbin Normal Uni鄄
+versity, Harbin 150025, China) . 鄄Chin. J. Appl. Ecol. ,2012,23(12) : 3449-3457 .
+Abstract: Based on the investigations of fish resources in Jingpo Lake and Wudalianchi Lakes in
+2008-2011 and the historical data, this paper analyzed the characteristics of ichthyofauna and its
+community diversity in volcanic barrier lakes of Northeast China. The ichthyofauna in the volcanic
+barrier lakes of Northeast China was consisted of 64 native species, belonging to 47 genera, 16 fam鄄
+ilies, and 9 orders, among which, one species was the second class National protected wild animal,
+four species were Chinese endemic species, and five species were Chinese vulnerable species. In
+the 64 recorded species, there were 44 species of Cypriniformes order and 37 species of Cyprinidae
+family dominated, respectively. The ichthyofauna in the volcanic barrier lakes of Northeast China
+was formed by 7 fauna complexes, among which, the eastern plain fauna complex was dominant,
+the common species from the South and the North occupied 53 . 1% , and the northern endemic spe鄄
+cies took up 46 . 9% . The Shannon, Fisher鄄琢, Pielou, Margalef, and Simpson indices of the ich鄄
+thyofauna were 2 . 078, 4 . 536, 0 . 575, 3 . 723, and 0 . 269, respectively, and the abundance distri鄄
+bution pattern of native species accorded with lognormal model. The Bray鄄Curtis, Morisita鄄Horn,
+Ochiai, S覬rensen, and Whittaker indices between the communities of ichthyofauna in the volcanic
+barrier lakes of Northeast China and the Jingpo Lake were 0郾 820, 0郾 992, 0郾 870, 0郾 862 and
+0郾 138, respectively, and those between the communities of ichthyofauna in the volcanic barrier
+lakes and the Wudalianchi Lakes were 0 . 210, 0 . 516, 0 . 838, 0 . 825, and 0 . 175, respectively.
+*科技部基础性工作专项(2006FY110600)资助.
+**通讯作者. E鄄mail: yangfuyi@ neigae. ac. cn
+2012 鄄02 鄄22 收稿,2012 鄄09 鄄19 接受.
+3450应摇用摇生摇态摇学摇报                  摇23卷
+TheichthyofaunainvolcanicbarrierlakesofNortheastChinawascharacterizedbythemutualinfil鄄
+trationbetweentheSouthandtheNorth,andtheoverlapandtransitionbetweenthePalaeoarctic
+realmandtheOricetalrealm.Itwassuggestedthattheichthyofaunacommunityspeciesdiversityin
+thevolcanicbarrierlakesofNortheastChinawashigher,thespeciesstructurewasmorestable,but
+thespeciesrichnesstrendedtodecrease.
+Keywords:volcanicbarrierlake;fishcommunity;ichthyofauna;communityspeciesdiversity;
+NortheastChina.
+  火山堰塞湖是由火山熔岩堵塞河谷阻塞水流而m,水域面积90km2[1,4,7].五大连池(48毅40忆—48毅47忆
+形成的湖泊.我国的火山堰塞湖主要分布在东北地N,126毅06忆—126毅15忆E)是我国第二大火山堰塞湖,
+区[1].有关东北地区火山堰塞湖鱼类的系统研究尚位于黑龙江省西北部的五大连池市,嫩江二级支
+未见报道,仅见个别湖泊鱼类的记载,如早期张春霖流———石龙河的上游,松嫩平原与小兴安岭的过渡
+1932年记录镜泊湖鱼类18种(经过本文作者重新地带,湖面海拔317m,由1719—1721年老黑山、火
+整理,并包括亚种,下同)[2].建国后,1957—1958年烧山喷发的熔岩流堵塞石龙河所形成的5个小湖泊
+中国鄄苏联联合进行的黑龙江流域综合考察期间,记构成,各湖泊平均水深1~12m,总面积16
+录镜泊湖、五大连池鱼类分别为19和23种[3];km2[1,4,6].
+1980—1983年全国农业资源调查与区划期间再次记1郾2摇群落样本的采集与鉴定
+录两湖泊的鱼类分别为52和39种[4].任慕莲[2,5]2008—2011年6—10月,分别在两个湖泊的渔
+1981年记录到镜泊湖鱼类39种、五大连池32种,获物集散地采集定置刺网、网箔、拖网、拉网、钓具等
+1994年分别为36和38种;苏国栋等[6]报道五大连池不同渔具、渔法的渔获鱼类样本;12—1月冬季捕鱼
+鱼类38种;金志民等[7]报道镜泊湖鱼类43种.期间,采集冰下大拉网的渔获鱼类样本.4年共采集
+镜泊湖和五大连池是典型的火山堰塞湖,也是鱼类样本2515.2kg,15811尾.现场分类、计数和称
+国家重点风景名胜区和国家级森林、地质公园,五大量.鱼类种类的鉴定方法与分类系统均参考文献
+连池还是国家级自然保护区.其鱼类区系与群落物[8-12].
+种多样性的研究一直受到关注.以往的研究大都侧1郾3摇群落琢多样性的测度
+重于独立湖泊的鱼类分类学和渔业资源学,缺少对1郾3郾1群落土著种多度分布格局的测度摇群落中物
+整个东北地区火山堰塞湖的鱼类区系和物种多样性种多度组成的比例关系即多度格局(abundancepat鄄
+方面的系统研究.本文根据2008—2011年镜泊湖、tern)是群落结构的重要特点,不同群落具有不同的
+五大连池湖群(以下简称镜泊湖、五大连池)鱼类学多度格局,与群落物种多样性密切相关[13].通过对
+调查结果和历史资料,初步分析堰塞湖鱼类区系特群落土著种多度分布格局的测度,可以了解群落的
+征,探讨东北地区火山堰塞湖土著种多度(endemic物种多度分布及其与周围环境的关系,有助于更全
+species鄄abundance)分布格局和物种多样性状况,旨面地认识特定群落的物种多样性特征.本文采用常
+在全面了解东北地区火山堰塞湖鱼类区系特征与群用的理论分布模型拟合[13-14].
+落物种多样性现状,为进一步研究其鱼类群落的结几何级数分布模型:ni=nk(1-k)i-1/[1-(1-
+构与功能,探讨鱼类区系和物种多样性的利用与保k)s]
+护提供科学依据.对数级数分布模型:fr=琢xr/r
+1摇对数正态分布模型
+研究地区与研究方法:s(R)=s0exp(-a2R2)
+式中:ni为样本土著种中第i种的个体数,取4年的
+1郾1摇研究区概况平均值;s、n分别为样本土著种的种数与总个体数;
+镜泊湖(43毅46忆—44毅03忆N,128毅37忆—129毅03忆fr为样本土著种中r(r=1,2,…)个个体的频数;R
+E)是我国最大的火山堰塞湖,位于黑龙江省东南部为土著种的多度级———倍程(octave);s(R)为第R
+的宁安市,松花江支流———牡丹江的中游的张广才倍程的物种数目;s0为物种数目最多的倍程———模
+岭与老爷岭之间,湖面海拔351m,由第四纪白莲河式倍程(modaloctave)的物种数目估计值;a、x、k均
+玄武岩流堵塞牡丹江河道而形成,平均水深13.8为常数,a是物种分布宽度的倒数,且a>0,0<x<1,
+12期            杨富亿等:东北地区火山堰塞湖鱼类区系与群落多样性    摇3451
+0<k<1.IO
+1郾3郾2=S0/(SaSb)1/2
+群落物种多样性指数摇物种多样性指数是以IS=2S0/(Sa+Sb)
+群落中物种的数目、全部物种的个体数及每个物种式中:Sa、Sb、S0分别为群落a、b鱼类名录中的物种
+的个体数为基础,综合反映群落中物种的丰富度与数目和共有种数.以IO、IS值分别在0~0.250、
+均匀程度和群落异质性的数量指标,是一类应用较0.251~0.500、0.501~0.750和0.751~1为标准
+普遍的群落物种多样性指标[13-14].本文采用以下广(本文暂定),将群落间物种种类结构的关联性程度
+泛使用的6个多样性指数对鱼类物种多样性进行度划分为极低、较低、较高和极高.镜泊湖与五大连池
+量,其计算公式为[15-20]:的鱼类物种数目采用历史资料与本次调查的综合数
+物种丰富度(S):即样本中全部物种数目(包括据,东北地区火山堰塞湖的鱼类物种数目为镜泊湖
+土著种和移入种)与五大连池的集成数据.
+Shannon多样性指数:H=lnN-(移njlnnj)/N2摇结果与分析
+Simpson优势度指数:姿=移(nj/N)2
+2郾1摇
+Pielou东北地区火山堰塞湖鱼类组成及分布
+均匀度指数:J=H/lnS
+Margalef综合历史资料及本次调查结果
+物种丰富度指数:d,东北地区火山
+Ma=(S-1)/lnN
+Fisher鄄堰塞湖共有鱼类
+琢种的多样性指数:S=琢ln(1+N/琢)9目17科52属70种(表1).其中
+除移入种亚洲公鱼
+式中:nj为样本全部物种中第j物种的个体数,取4(Hypomesustranspacificusnippon鄄
+ensis
+年的平均值;S、N分别为样本的物种丰富度与总个)、青鱼(Mylopharyngodonpiceus)、草鱼(Cteno鄄
+pharyngodonidella
+体数.)、鲢(Hypophthalmichthysmolir鄄
+1郾4摇ix
+群落茁多样性的测度)、鳙(Aristichthysnobilis)和团头鲂(Megalobrama
+1郾4郾1amblycephala
+群落间相似性的测度摇物种个体数量结构的)外,9目16科47属64种为土著种.土
+著种中
+相似性用Bray鄄Curtis指数(CB)和Morisita鄄Horn指,包括国家域级野生保护物种细鳞鲑
+数(CMH)进行度量[13,21],计算公式为:(Brachymystaxlenok),中国特有种扁体原鲌(Cult鄄
+Cerichthyscompressocorpus
+B=2N0/(Na+Nb))、达氏鲌(Culterdabryidab鄄
+Cryi
+MN=2N0/(移naj2/N2
+a+移n22
+bj/Nb)(Na+Nb))、东北颌须鮈(Gnathopogonmantschuricus)和银
+式中:N鮈
+a、Nb、N0分别为群落a、b样本全部物种的总(Squalidusargentatus)[10],中国易危种雷氏七鳃
+个体数和共有种中个体数较小者之和;n鳗
+aj、nbj分别(Lampetrareissneri)、乌苏里白鲑(Coregonusussu鄄
+为群落a、b样本中第j物种的个体数.以Criensis
+B、CMH值)、哲罗鲑(Huchotaimen)、黑龙江茴鱼(Thy鄄
+分别在0~0.250、0.251~0.500、0.501~0.750和mallusarcticus)和怀头鲇(Silurussoldatovi)[22],以及
+0.751~1为标准(本文暂定),将群落间鱼类个体数冷水种雷氏七鳃鳗、哲罗鲑、细鳞鲑、乌苏里白鲑、黑
+量结构的相似性程度划分为极不相似、不相似、相似龙江茴鱼、黑斑狗鱼(Esoxreicherti)、瓦氏雅罗鱼
+和极相似.(Leuciscuswaleckiiwaleckii)、拉氏鱥(Phoxinus
+1郾4郾2群落间物种分化与隔离程度的测度摇物种种lagowskii)、拟赤梢鱼(Pseudaspiusleptocephalus)、北
+类结构的分化与隔离程度用Whittaker指数(茁W)来方须鳅(Barbatulabarbatulanuda)、黑龙江花鳅(Co鄄
+度量[13,21],计算公式为:bitislutheri)、北方花鳅(C.granoei)、九棘刺鱼(Pun鄄
+茁W=ST/Sm-1gitiuspungitius)、江鳕(Lotalota)和黑龙江中杜父鱼
+式中:ST、Sm分别为群落a、b的物种丰富度和平均物(Mesocottushaitej)[23].
+种数.以茁W值分别在0~0.250、0.251~0郾500、本次调查采集到的鱼类共有5目10科32属37
+0郾501~0郾750和0郾751~1为标准(本文暂定),将种,除移入种青鱼、草鱼、鲢、鳙和团头鲂外,土著种
+群落间物种种类结构的分化与隔离程度划分为极为5目10科27属32种.国家域级保护物种细鳞
+低、较低、较高和极高.鲑
+1郾5摇,中国易危种雷氏七鳃鳗、哲罗鲑、乌苏里白鲑和
+群落关联性的测度怀头鲇,中国特有种扁体原鲌和东北颌须鮈以及冷
+物种种类结构的关联性用Ochiai指数(IO)和水种拟赤梢鱼、北方须鳅、北方花鳅、九棘刺鱼和黑
+S覬rensen指数(IS)进行测度[13],计算公式为:龙江中杜父鱼均未发现,部分种类已多年未见报道.
+3452应摇用摇生摇态摇学摇报                  摇23卷
+表1摇东北地区火山堰塞湖鱼类组成及其分布
+Table1摇CompositionanddistributionoffreshwaterfishesinthevolcanicbarrierlakesofNortheastChina
+种类SpeciesWLJL种类SpeciesWLJL
+玉七鳃鳗目Petromyzoniformes  北方须鳅Barbatulabarbatulanudacdf
+摇1七鳃鳗科Petromyzonidae  黑龙江花鳅Cobitisluthericdegbcdfg
+  雷氏七鳃鳗Lampetrareissneribcdf  北方花鳅Co.granoeicdecd
+域鲤形目Cypriniformes  泥鳅Misgurnusanguillicaudatusbf
+摇2鲤科Cyprinidae  黑龙江泥鳅Mi.mohoityacdeg
+  马口鱼Opsariichthysbidensbcd  北方泥鳅Mi.bipartitusd
+  瓦氏雅罗鱼Leuciscuswaleckiiwaleckiiabcdegabcdfg  花斑副沙鳅Parabotiafasciatabbcf
+  拟赤梢鱼Pseudaspiusleptocephalusababcf芋鲇形目Siluriformes
+  青鱼Mylopharyngodonpiceuscdegcdf摇4鲿科Bagridae
+  草鱼Ctenopharyngodonidellacdegcdf  黄颡鱼Pelteobagrusfulvidracoabcdegbcdfg
+  鳡Elopichthysbambusabc  光泽黄颡鱼P.nitidusb
+  赤眼鳟Squaliobarbuscurriculusbcfg  乌苏拟鲿Pseudobagursussuriensisabcdebcdf
+  湖鱥Phoxinuspercnurusabcdegbcfg摇5鲇科Siluridae
+  拉氏鱥Ph.lagowskiicdgcd  怀头鲇Silurussoldatovidec
+  尖头鱥Ph.oxycephalusc  鲇S.asotusabcdegabcdfg
+  鳊Parabramispekinensisbcf郁鲑形目Salmoniformes
+  鲂Megalobramaskolkoviicdebcdf摇6鲑科Salmonoidae
+  团头鲂M.amblycephalag  哲罗鲑Huchotaimenabcf
+  鲦Hemiculterleucisculusabcegcdg  细鳞鲑Brachymystaxlenokabcf
+  贝氏鲦H.bleekeriabab  乌苏里白鲑Coregonusussuriensisc
+  红鳍原鲌Culterichthyserythropterusabcegabcfg  黑龙江茴鱼Thymallusarcticusbcfg
+  扁体原鲌C.compressocorpusdc摇7胡瓜鱼科Osmeridae
+  达氏鲌Culterdabryidabryibcdeg  亚洲公鱼Hypomesustranspacificusnipponensisf
+  蒙古鲌Cu.mongolicusmongolicusabcegabcdfg摇8狗鱼科Esocidae
+  翘嘴鲌Cu.alburnusabcfg  黑斑狗鱼Esoxreichertiabcdegbcdfg
+  大鳍鱊Acheilognathusmacropterusabcdegabcdf吁鳕形目Gadiformes
+  兴凯鱊A.chankaensiscdedfc摇9鳕科Gadidae
+  黑龙江鳑鲏Rhodeussericeusbcgbcdfg  江鳕Lotalotabdebcfg
+  银鲴Xenocyprisargenteabcebcfg遇鳉形目Cyprinodontiformes
+  细鳞鲴X.microlepsabcdg摇10青鳉科Oryziidae
+  唇鱼骨Hemibarbuslabeobbcdfg  中华青鳉Oryziaslatipessinensis
+  花鱼骨H.maculatusabdegbfc喻刺鱼目Gasterostiformes
+  麦穗鱼Pseudorasboraparvaabcdegabcdfg摇11刺鱼科Gasterosteidae
+  东北颌须鮈Gnathopogonmantschuricusbc  九棘刺鱼Pungitiuspungitiuscf
+  棒花鱼Abbottinarivalariscdegbcd峪鲉形目Scorpaeniformes
+  突吻鮈Rostrogobioamurensiscd摇12杜父鱼科Cottidae
+  蛇鮈Saurogobiodabryibcdegabcdfg  黑龙江中杜父鱼Mesocottushaitejd
+  兴凯银鮈Squaliduschankaensisacdeabcdf御鲈形目Perciformes
+  银鮈Sq.argentatusbcdg摇13鮨科Serranidae
+  东北鳈Sarcocheilichthyslacustrisabcdcfg  鳜Sinipercachuatsiabcdeabcdfg
+  克氏鳈Sa.czerskiicdecd摇14塘鳢科Eleotridae
+  高体鮈Gobiosaldatovicdecd  葛氏鲈塘鳢Perccottusglehniabcdeacf
+  细体鮈G.tenuicorpusccd摇15鰕虎鱼科Gobiidae
+  鲤CprinusC.carpioabcdegabcdfg  褐吻鰕虎鱼Rhinogobiusbrunneusabecab
+  银鲫Carassiusauratusgibelioabcdegabcdfg摇16斗鱼科Belontiidae
+  鲢Hypophthalmichthysmolitrixcdegcdfg  圆尾斗鱼Macropoduschinensiscde
+  鳙Aristichthysnobilisdegf1g摇17鳢科Channidae
+摇3鳅科Cobitidae  乌鳢Channaargusbcdbcfg
+WL:五大连池WudalianchiLake;JL:镜泊湖JingpoLake.下同Thesamebelow.a)1959年记录种Speciesrecordedin1959[3];b)1981年记录种
+Speciesrecordedin1981[5];c)1985年记录种Speciesrecordedin1985[4];d)1994年记录种Speciesrecordedin1994[2];e)1996年记录种Spe鄄
+ciesrecordedin1996[6];f)2010年记录种Speciesrecordedin2010[7];g)本次调查采集到的种类Speciescollectedinthisstudy.
+12期            杨富亿等:东北地区火山堰塞湖鱼类区系与群落多样性    摇3453
+  历史资料和本次调查共记录到镜泊湖、五大连与宁蒙区、华西区(陇西亚区)的共有种;拉氏鱥、高
+池的土著鱼类分别为7目13科44属57种和7目体鮈(Gobiosaldatovi)、细体鮈(G.tenuicorpus)、北方
+13科35属47种.其中,雷氏七鳃鳗、马口鱼(Op鄄须鳅、北方花鳅、北方泥鳅和怀头鲇为北方区与华东
+sariichthysbidens)、鳡(Elopichthysbambusa)、赤眼鳟区(海辽亚区)的共有种.北方区特有种中,乌苏里
+(Squaliobarbuscurriculus)、尖头鱥(Phoxinusoxyceph鄄白鲑、黑龙江中杜父鱼、东北颌须鮈、拟赤梢鱼、兴凯
+alus)、扁体原鲌、翘嘴鲌(Culteralburnus)、细鳞鲴银鮈(Squaliduschankaensis)、突吻鮈、东北鳈(Sarco鄄
+(Xenocyprismicroleps)、东北颌须鮈、突吻鮈(Rostro鄄cheilichthyslacustris
+gobioamurensis)、克氏鳈(S.czerskii)、雷氏七鳃
+)、银鮈、北方须鳅、细鳞鲑、乌苏里白鳗、葛氏鲈塘鳢和扁体原鲌为北方区黑龙江亚区黑
+鲑、哲罗鲑、黑龙江茴鱼和九棘刺鱼仅分布于镜泊龙江分区的特有种;哲罗鲑、细鳞鲑、银鲫和江鳕为
+湖;达氏鲌、黑龙江泥鳅(Misgurnusmohoity)、北方北方区黑龙江亚区与额尔齐斯河亚区的共有种;黑
+泥鳅(Mi.bipartitus)、光泽黄颡鱼(Pelteobagrusniti鄄斑狗鱼
+dus、黑龙江茴鱼、黑龙江花鳅、黑龙江泥鳅、黑龙
+)、中华青鳉(Oryziaslatipessinensis)、黑龙江中杜江鳑鲏和湖鱥为黑龙江亚区黑龙江分区与滨海分区
+父鱼和圆尾斗鱼(Macropoduschinensis)仅见于五大的共有种[10].雷氏七鳃鳗、拟赤梢鱼、湖鱥、扁体原
+连池;瓦氏雅罗鱼、拟赤梢鱼、湖鱥(Phoxinuspercnu鄄鲌
+rus、东北颌须鮈、突吻鮈、兴凯银鮈、东北鳈、克氏鳈、
+)、拉氏鱥、鲂(Megalobramaskolkovii)等共计40黑龙江花鳅
+种为两湖所共有、黑龙江泥鳅、乌苏里白鲑、黑龙江茴鱼、
+.本次调查在镜泊湖、五大连池采集黑斑狗鱼
+到的土著鱼类分别为、黑龙江中杜父鱼和葛氏鲈塘鳢为东北地
+5目10科24属26种和4目6区的特有种[10]
+科.尚未发现堰塞湖的特有种.
+19属21种.2郾4摇东北地区火山堰塞湖鱼类群落土著种多度分
+2郾2摇东北地区火山堰塞湖鱼类区系成分布格局
+东北地区火山堰塞湖的土著鱼类中,以鲤形目由群落土著种多度分布格局模型拟合与检验的
+种类最多,有44种,占68.8%;鲇形目、鲑形目和鲈结果可知
+形目各有5种,共占23.4%.鲤科、鳅科和鲑科种类,东北地区火山堰塞湖、镜泊湖和五大连
+池鱼类土著种多度分布格局都可以用对数正态分布
+相对较多,依次为37、7和4种.主要由7个区系复模型来描述
+合体的种类构成[10]:马口鱼、鲦、鳡、鲂、扁体原鲌等(表2).尽管如此,拟合模型中模式倍程
+的物种数目估计值
+东部平原区系复合体的种类为主体,有24种,占(s0值)和反映物种分布宽度的参
+数
+37.5%;瓦氏雅罗鱼、湖鱥、拉氏鱥、东北颌须鮈、北(a值)也并非都一致.其中a值以东北地区火山
+堰塞湖
+方须鳅等北方平原区系复合体和雷氏七鳃鳗、怀头(0.233)最小,镜泊湖与五大连池相近(分别
+为
+鲇、赤眼鳟、大鳍鱊(Acheilognathusmacropterus)、黑0.268和0.280);s0值以东北地区火山堰塞湖
+龙江鳑鲏(Rhodeussericeus)等新近纪区系复合体各(5郾182)最大,镜泊湖与五大连池分别为3郾716和
+有13种,共占40.6%;热带平原区系复合体黄颡鱼4郾095.表明群落间物种多样性存在差异.
+(Pelteobagrusfulvidraco)、光泽黄颡鱼、乌苏拟鲿表2摇东北地区火山堰塞湖鱼类群落土著种多度分布格局
+(Pseudobagursussuriensis)、中华青鳉、葛氏鲈塘鳢拟合模型
+(Perccottusglehni)、Table2摇Simulationmodelsofnativespeciesabundance
+圆尾斗鱼和乌鳢(Channaargus)distributionpatternoffishcommunityinthevolcanicbarri鄄
+占10.9%;北方山地区系复合体哲罗鲑、细鳞鲑、黑erlakesofNortheastChina
+龙江茴鱼和黑龙江中杜父鱼占6.3%;北极淡水区群落拟合模型字2鄄检验字2
+系复合体(乌苏里白鲑和江鳕)和北极海洋区系复CommunitySimulationmodel2字2鄄test
+字0.05P
+合体(九棘刺鱼)共占4.7%.标志着黑龙江水系鱼JLni=3092.696伊0.773i-12974.44138.885>0.05
+fr=3.383伊0.9998r/r399.40737.652>0.05
+类区系特点的4个北方区系复合体的种类共有20S(R)=3.716exp(-0.0
+种,占31.3%.1717R2)12.48712.592<0.05
+WLni=721.456伊0.668i-4537.67236.415>0.05
+2郾3摇f
+东北地区火山堰塞湖鱼类动物地理分区构成r=4.156伊0.998r/r478.76135.172>0.05
+S
+按照我国淡水鱼类动物地理分区[10,24],细鳞(R)=4.095exp(-0.0783R2)10.93911.070<0.05
+BLni=2728.616伊0.172i-16992.76322.362>0.05
+鲑、乌苏里白鲑、银鲫(Carassiusauratusgibelio)、哲fr=4.536伊0.9997r/r869.86431.264>0.05
+罗鲑、黑斑狗鱼等21种为北方区特有种;九棘刺鱼S(R)=5.182exp(-0.0541R2)29.01330.144<0.05
+为北方区与宁蒙区的共有种;瓦氏雅罗鱼为北方区BL:东北地区火山堰塞湖VolcanicbarrierlakesinnortheastChina.下同The
+samebelow.
+3454应摇用摇生摇态摇学摇报                  摇23卷
+2郾5摇东北地区火山堰塞湖鱼类群落多样性与关联性3摇讨  论
+从表3可以看出,五大连池的鱼类物种丰富度
+低于镜泊湖和东北地区火山堰塞湖,但物种结构的3郾1摇东北地区火山堰塞湖鱼类区系特征及其与毗
+复杂性(Shannon指数)、均匀性与异质性(Pielou指邻河系的关系
+数)均较高,优势种群相对不明显(Simpson指数);综合历史资料和本次调查结果可知,东北地区
+Fisher鄄琢指数值、Margalef指数值均为东北地区火山火山堰塞湖的鱼类区系是以构成世界淡水鱼类主要
+堰塞湖>五大连池>镜泊湖,与物种丰富度基本一类群的骨鳔类———鲤形目及鲤科为主体,这与中国
+致.由于群落物种多样性是群落物种丰富度、个体数南北各地乃至东亚淡水鱼类区系组成相类似.在我
+量及其分布均匀性的综合量度[13,20],因而Shannon国淡水鱼类9个区系复合体
+指数与Pielou指数相结合可较好地反映群落琢多样5]、东北地区淡水鱼类8
+个区系复合体中[10,2,除中亚高山和南方山地区系
+性程度.按此评价标准,五大连池的琢多样性程度复合体以外,其他区系复合体的种类在东北地区火
+相对高于其他两群落.山堰塞湖均有分布,并与黑龙江水系鱼类区系复合
+  由表4可见,镜泊湖与五大连池间物种数量结体构成相同[4].既有新近纪广泛分布的原始鱼丹亚科
+构极不相似,而种类结构的关联性程度较高,物种组鱼类的后裔种类,如马口鱼,又有斗鱼科、鳢科、塘鳢
+成的分化与隔离程度较低;五大连池与东北地区火科、青鳉科、鲿科等东洋界暖水性鱼类,古北界冷水
+山堰塞湖间物种数量结构不相似和极不相似,而镜性类群的种类也占有一定比重,共有15种,占
+泊湖与之极相似.五大连池、镜泊湖与东北地区火山23郾4%.
+堰塞湖间种类结构的关联性程度都极高,物种组成在淡水鱼类动物地理区划上,东北地区火山堰
+的分化与隔离程度都极低.表明镜泊湖、五大连池和塞湖地处北方区黑龙江亚区黑龙江分区[10].但该分
+东北地区火山堰塞湖间物种组成的分化与隔离程度区的特有种数仅占17.2%;除了15.6%和14.1%分
+较低,种类组成相似,茁多样性相对较低,个体数量别为北方区之下亚区(或分区)、北方区与其他区
+分布的均匀性存在一定差别.群落间物种多样性存(或亚区)间的重叠种以外,其他53.1%则为北方区
+与华南区的交汇型种类
+在差异性,且东北地区火山堰塞湖鱼类物种多样性,呈现地理区(或亚区)间相
+互重叠
+程度受镜泊湖的影响相对较大.,南北方物种相互渗透的混色类群特征,也符
+合古北界与东洋界交汇过渡的黑龙江水系淡水鱼类
+表3摇东北地区火山堰塞湖鱼类群落琢多样性指数区系特点[4,10]
+Table3摇琢diversityindicesoffishcommunityinthevol鄄.
+松花江
+canicbarrierlakesofNortheastChina、嫩江和牡丹江是与东北地区火山堰塞
+湖相毗邻的主要河系
+群落S琢H姿d,属黑龙江水系的一部分,截至
+CommunityMaJ目前已记录到的土著鱼类种数分别为81、78和61
+JL283.3831.7720.3452.8360.532种[2-5,10,26](名录略).区系成分中,东北地区火山堰
+WL264.1562.6990.1373.2540.819塞湖与松花江、嫩江和牡丹江均以鲤形目和鲤科鱼
+BL374.5362.0780.2693.7230.575类为主体
+S:物种丰富度speciesrichness;琢:Fisher鄄琢指数Fisher鄄琢;H:Shannon,前者分别有44种(68郾8%)、54种
+指数(66郾7%)、54种(69郾2%)和41种(67郾2%),后者
+JShannonindex;姿:Simpson指数Simpsonindex;dMa:Margalef指
+数;:Pielou指数Pielouindex.分别为37种(58郾8%)、46种(56郾8%)、47种
+表4摇东北地区火山堰塞湖鱼类群落茁多样性指数和关联(60郾3%)和36种(59郾0%).东北地区火山堰塞湖
+性指数与松花江、嫩江均以东部平原区系复合体的种类相
+Table4摇Associationand茁diversityindicesbetweenfish对占优
+communityinthevolcanicbarrierlakesofNortheastChina,分别为24种(37郾5%)、24种(29郾6%)和
+群落C25种(32郾1%);牡丹江以北方平原区系复合体相对
+CommunityBCMHIOIs茁W较多,该复合体的鱼类分别有13种(20郾3%)和19
+JL鄄WL0.2130.1180.6300.6290.370种(31郾1%).标志着黑龙江水系鱼类区系特点的4
+WL鄄BL0.2100.5160.8380.8250.175个北方区系复合体的种数,堰塞湖与松花江、嫩江和
+JL鄄BL0.8200.9920.8700.8620.138牡丹江均占
+CB:Bray鄄Curtis指数Bray鄄Curtisindex;C1/3左右,分别有20种(31郾3%)、27种
+eMxH:Morisita鄄Horn指数Moris鄄
+ita鄄Hornindex;IO:Ochiai指数Ochiaiind;I(33郾3%)、28种(35郾9%)和27种(44郾3%).种类
+ttakers:S覬rensen指数S覬rensen
+index;茁W:Whi指数Whittakerindex.组成上,东北地区火山堰塞湖中分别有鱼类种数的
+12期            杨富亿等:东北地区火山堰塞湖鱼类区系与群落多样性    摇3455
+95郾3%、98郾4%和76郾6%与松花江、嫩江和牡丹江乌苏里江,东北七鳃鳗仅存于松花江佳木斯段和吉
+相同;群落间的Ochiai指数值分别为0郾847、0郾892林省的浑江(松花江支流),辽宁棒花鱼仅分布于松
+和0郾784,S覬rensen指数值分别为0郾841、0郾887和花江支流———拉林河,方氏鳑鲏仅存于松花江,池沼
+0郾784,均呈现出极高的关联性.东北地区火山堰公鱼仅限于黑龙江中游和嫩江上游,中华细鲫仅存
+塞湖与松花江、嫩江和牡丹江在地貌、海拔、气候等于黑龙江和松花江,白斑红点鲑仅见于牡丹江上游
+自然环境条件方面都不尽相同[10],而其鱼类区系成(吉林省境内),达氏鲌仅存于嫩江和五大连池,而
+分较为相似,显示出堰塞湖与其毗邻河系鱼类区系扁体原鲌则仅存于小兴凯湖和镜泊湖(无江河分布
+起源的地理统一性(共同属于北方区黑龙江亚区黑龙种).东北地区火山堰塞湖鱼类区系组成与其毗邻
+江分区),反映了东北地区火山堰塞湖与其毗邻河系河系相似性和差异性的形成,可能是黑龙江水系鱼
+鱼类区系的古老历史渊源;而鱼类群落间极高的关联类区系形成的地史过程、堰塞湖及其鱼类区系形成
+性,则反映出在一定的历史时期,东北地区火山堰塞与演化的历史过程,以及人与自然、生物与非生物等
+湖与其毗邻河系鱼类区系间相互交流的事实.现代生态过程综合作用的结果.
+然而,由于黑龙江水系鱼类区系形成的地史原3郾2摇东北地区火山堰塞湖土著鱼类物种丰富度的
+因和现代生态环境的变化共同引起的种间分化、隔变化
+离,导致黑龙江水系的不少鱼类形成了地方特有种同一时间段记录的镜泊湖、五大连池土著鱼类
+属,这些特有种属的分布呈现明显的区域性[2,10].这物种数目的总和,可基本反映出东北地区火山堰塞
+在一定程度上限制了鱼类区系间物种的相互交流,湖土著鱼类物种丰富度.20世纪50年代以来,这样
+再加上所形成的堰塞堤对原河道洄游和半洄游性鱼的记录共有4次,但每次所记录的鱼类种数都有所
+类的阻隔作用,使得东北地区火山堰塞湖鱼类区系差别.1957—1958年首次记录27种[3]
+组成与其毗邻河系又存在一定差异.如东北地区火[5];1981年46
+种(较前一次新记录19种,未记录到1种);
+山堰塞湖的泥鳅(Misgurnusanguillicaudatus)和扁体1980—1983年57种[4](较前两次新记录13种,未
+原鲌在诸河系均未见记录,赤眼鳟、鲂、红鳍原鲌记录到1种);1994年报道42种[2](较前3次新记
+(Culterichthyserythropterus)、翘嘴鲌、细鳞鲴、北方花录3种,没有未记录到的种类).以上共记录到土著
+鳅、北方泥鳅、银鮈、怀头鲇、中华青鳉和黑龙江中杜鱼类64种.可见东北地区火山堰塞湖的土著鱼类都
+父鱼未见于牡丹江,达氏鲌仅见于嫩江;而在东北地是1994年及其以前记录到的,之后的历次记录均未
+区火山堰塞湖未记录到的纵带鮠(Leiocassisar鄄见新种.1996年记录到五大连池土著鱼类32种[6],
+gentivittatus)、大鳞副泥鳅(Paramisgurrnusdabrya鄄比1994年及其以前减少15种;2010年记录到镜泊
+nus)、东北七鳃鳗(Lampetramori)、辽宁棒花鱼(Ab鄄湖土著鱼类38种[7],同比减少19种;两次共记录到
+bottinaliaoningensis)、方氏鳑鲏(Rhodeusfangi)和潘堰塞湖土著鱼类48种,同比减少16种;本次调查采
+氏鳅鮀(GobiobtiaG.pappenheimi)均生存于松花江,集到五大连池、镜泊湖和堰塞湖的土著鱼类分别为
+池沼公鱼(Hypomesusolidus)、白斑红点鲑(Salvelinus21、26和32种,同比分别减少26、31和32种.鳡、尖
+leucomaenis)分别见于嫩江和牡丹江,杂色杜父鱼头鱥、贝氏鲦(Hemiculterbleekeri)、东北颌须鮈、光泽
+(Cottuspoecilopus)、波氏吻鰕虎鱼(Rhinogobiusclif鄄黄颡鱼和乌苏里白鲑仅1983年以前有记录[3-5];尖
+fordpopei)、中华细鲫(Aphyocyprischinensis)和凌源鮈头鱥、光泽黄颡鱼、乌苏里白鲑、中华青鳉、黑龙江中
+(Gobiolingyuanensis)生存于松花江和嫩江,日本七杜父鱼和北方花鳅迄今只有一次记录.这些鱼类是
+鳃鳗(Lampetrajaponicus)、花江鱥(Phoxinusczek鄄否处在濒危状态尚待研究.鲤、银鲫、鲇、黄颡鱼、黑
+anowskii)、真鱥(Phoxinusphoxinusphoxinus)、犬首斑狗鱼、鳜、葛氏鲈塘鳢、麦穗鱼、湖鱥、蒙古鲌、瓦氏
+鮈(Gobiocynocephalus)、条纹拟白鮈(Paraleucogobio雅罗鱼、大鳍鱊、蛇鮈和花鱼骨是历次记录的共有种,
+strigatus)、平口鮈(Ladislaviataczanowski)、彩石鳑鲏为东北地区火山堰塞湖鱼类区系的稳定成分.
+(Rhodeuslighti)、黄黝(Hypseleotrisswinhonis)和北鳅由群落土著种多度对数正态分布格局模型推
+(Lefuacostata)则在诸河系均有分布.这些所存差异算,东北地区火山堰塞湖土著鱼类的理论种数为
+的种类大都具有明显的区域性分布特点.如在黑龙39.5种(理论种数=s1/2
+0仔/a[27]),接近1981年和
+江水系,纵带鮠的自然分布范围仅限于松花江哈尔1994年的记录,但明显少于1980—1983年的记录
+滨段和兴凯湖,大鳞副泥鳅仅限于黑龙江、松花江和和历次记录总和.推算镜泊湖、五大连池土著鱼类的
+3456应摇用摇生摇态摇学摇报                  摇23卷
+理论种数分别为24.6种和25.9种,比本次调查采激烈的条件下所形成的少数种占优势且物种数目较
+集到的分别少1种、多5种,但均少于1980—1983少的群落适合于几何级数分布模型[13-14,16].随着群
+年记录的54和34种[4]、1981年39和31种[5]、落物种均匀度和数目的增加,逐渐适合于对数级数
+1994年32和33种[2],也少于1996年记录的五大分布模型[13];在稳定的环境中所形成的成熟群落多
+连池32种[6]、2010年镜泊湖38种[7].本次调查采样性较高,Shannon指数值在1.5~3.5[15,20],并与
+集到的镜泊湖、五大连池土著鱼类种数已达到或接Pielou指数值相一致,群落结构较稳定,种多度分布
+近理论种数,表明采样调查的程度已近于充分,但所格局可用对数正态分布模型来描述[13-14,16,20].东北
+获鱼类种数仍和以往记录的总数有较大差距;若将地区火山堰塞湖、镜泊湖和五大连池土著种多度分
+本次调查采集到的32种加上五大连池中尚未采集布格局都能够用对数正态分布模型来描述,因而都
+到的5种,则东北地区火山堰塞湖土著鱼类种数为属于物种相对丰富、多样性程度较高的群落;Shan鄄
+37种,也接近理论值39郾5种.表明东北地区火山堰non指数值与Pielou指数值的一致性虽然接近显著
+塞湖、镜泊湖和五大连池土著鱼类的物种丰富度都(r=0.982,P=0.050),但仍可说明东北地区火山堰
+呈下降趋势.塞湖所处的生态环境较好
+3郾3摇,鱼类群落结构较稳定,尚
+东北地区火山堰塞湖鱼类群落物种多样性具有一定的抗扰动能力和自我维持与自我调节的生
+状况物学功能[15-16].
+在群落物种多样性研究中,除物种多样性指数通过比较可知,东北地区火山堰塞湖鱼类群落
+外,还可以采用物种多度分布格局模型的方法,后者总物种数的96.9%与其所在水系松花江鄄嫩江鄄牡丹
+通常是由若干理论分布模型拟合来完成[13-14].东江水系相同,群落间Ochiai、S覬rensen指数值分别为
+北地区火山堰塞湖、镜泊湖和五大连池土著种多度0.841和0.832,显示出极高的关联性.因此,东北
+分布格局可以用对数正态分布模型来描述,均表现地区火山堰塞湖鱼类物种多样性的形成和保持与该
+出中间“倍程冶的物种数目多、其他“倍程冶的物种数水系密切相关.保护该水系的鱼类物种多样性,对东
+目少的多度分布格局,即群落中优势种和稀有种都北地区火山堰塞湖鱼类区系和物种多样性的可持续
+较少,而对群落物种多样性的形成贡献较大的常见发展具有重要意义.
+种则相对较多,这和Simpson指数所反映出的结果应该指出,历史资料有记载而本次调查没有采
+一致.拟合模型中的参数s0、a值可反映出群落间物集到的32种鱼类,并不一定意味着它们在东北地区
+种结构的相似关系,其值越接近,群落间物种组成的火山堰塞湖区已经消失,可能是因为种群处在濒危
+相似性越高,茁多样性就越差.这种由模型反映出的状态,或数量稀少,或分布范围狭窄,生境特殊,以致
+群落物种多样性的变化是单一物种多样性指数无法在渔具、渔法有限的情况下一时难以捕获.另外,目
+揭示的[13-14,26-27].堰塞湖、镜泊湖和五大连池的s0、a前有关泥鳅分布范围都记载在辽河及其以南各水
+值存在一定差别,但并不明显.如镜泊湖和五大连池系[10,12,29-30]
+模式倍程物种数目的估计值,在黑龙江水系分布只有文献[5,7]记
+(s0值)都为4种,东北录
+地区火山堰塞湖也不过,本次调查未能采集到该鱼样本.因而对黑龙江水
+5种;镜泊湖和五大连池反系是否存在泥鳅的自然物种
+映物种分布宽度的a值也基本一致,以及其自然分布的北
+,均略高于东北界都有待进一步调查
+地区火山堰塞湖.
+,但与多数情况下的a值范围
+(0郾2)[14]相比,差别并不显著(t=4.243,P=参考文献
+0郾052).以上表明,由模型中的参数s0、a值反映出[1]摇WangS鄄M(王苏民),DouH鄄S(窦鸿身).LakeSini鄄
+群落间物种多样性的差异并不显著,群落间仍表现ca.Beijing:SciencePress,1998(inChinese)
+出较高的相似性和较低的茁多样性,这和多样性指[2]摇RenM鄄L(任慕莲).IchthyofaunaoftheHeilongjiang
+数所反映出的结果相吻合.同时揭示它们都属于相River.ChineseJournalofFisheries(水产学杂志),
+1994,7(1):1-14(inChinese)
+同的群落类型,群落物种多样性的形成、发展与其周[3]摇YiB鄄L(易伯鲁),ZhangZ鄄S(章宗涉),ZhangJ鄄M
+围的环境具有相同或相似的关系.(张觉民).Presentconditionofaquaticresourcesinthe
+HeilongjiangRivervalleyandfisheryuseafterrunoff
+不同环境下所形成的某些特定的群落类型,多conditioningofthemidddlreo鄄buipoploegricraeaScihneicsaoftheHei鄄
+数情况下种多度分布格局只适合于一个最佳的理论longjiangRiver.ActaHy(水生生物
+学集刊
+分布模型拟合[13-14,16,28].一般在环境严峻、种间竞争),1959(2):97-118(inChinese)
+[4]摇HeilongjiangRiverFisheryResearchInstituteofChinese
+12期            杨富亿等:东北地区火山堰塞湖鱼类区系与群落多样性    摇3457
+AcademyofFisherySciences,andHeilongjiangChief1999,10(1):86-90(inChinese)
+FisheryCompany(中国水产科学研究院黑龙江水产
+研究所和黑龙江省水产总公司[19]摇YangD鄄R(杨大荣),PengY鄄Q(彭艳琼),ZhangG鄄
+).FisheryResourcesM(张光明),etal.Structureandbiodiversityofinsect
+inHeilongjiangProvince.Mudanjiang:HeilongjiangKo鄄communityonsyconiafruitsofFicusracemosaintropical
+reanNationalityPress,1985(inChinese)rainforestofXishuangbanna,China.ChineseJournalof
+[5]摇RenM鄄L(任慕莲).FishesintheHeilongjiangRiver.AppliedEcology(应用生态学报),2003,14(10):
+Harbin:HeilognjiangPeople爷sPress,1981(inChi鄄1710-1714(inChinese)
+nese)[20]摇MaK鄄P(马克平),LiuY鄄M(刘玉明).Measurement
+[6]摇SuG鄄D(苏国栋),YuB鄄Q(于保群
+升),RenD鄄S(任
+东o
+).Exploitationandpresentconditionoffisheryre鄄BfiobdiiovteircsitcyomScmieunncietydiversity.玉.琢diversity(域).
+(生物多样性),1994,2(4):231-
+sourcesinWudalianchiLake.ChineseJournalofFisher鄄
+ies239(inChinese)
+(水产学杂志),1996,9(2):85-88(inChinese)[21]摇MaK鄄P(马克平),LiuC鄄R(刘灿然
+[7]摇JinZ鄄M(金志民),YangC鄄W(杨春文),LiuZ(刘玉明),LiuY鄄M(刘
+铸).Measurementofbioticcommunitydiversity.域.
+),etal.InvestigationoffishresourcesinJingpo茁diversity.BiodiversityScience
+Lake.Territory&NaturalResourcesStudy(国土与自3(生物多样性),1995,
+然资源研究(1):38-43(inChinese)
+),2010(2):72鄄73(inChinese)[22]摇YueP鄄Q(乐佩琦),ChenY鄄Y(陈宜瑜).ChinaRed
+[8]摇Ch戴u定X鄄远L(褚新洛),ZhengB鄄S(郑葆珊),DaiD鄄YDataBookofEndangeredAnimals:Pisces.Beijing:
+(),etal.FaunaSinica,Osteichthyes,Siliuri鄄SciencePress,1998(inChinese)
+formes.Beijing:SciencePress,1999(inChinese)[23]摇DongC鄄Z(董崇智),LiH鄄M(李怀明),MouZ鄄B
+[9]摇DongC鄄Z(董崇智).ThecarpfamilyfishinHei鄄(牟振波),etal.ColdFreshwaterFishesinChina.
+longjiangRiver.ChineseJournalofFisheries
+志(水产学杂Harbin:HeilongjiangScience&TechnologyPress,2001
+),2002,15(2):12-15(inChinese)(inChinese)
+[10]摇XieY鄄H(解玉浩).FreshwaterFishesinNortheastRe鄄[24]摇LiS鄄Z(李思忠).DistributionDivisionofFreshwater
+gionofChina.Shenyang:LiaoningScience&Technolo鄄FishesinChina.Beijing:SciencePress,1981(inChi鄄
+gyPress,2007(inChinese)nese)
+[11]摇YueP鄄Q(乐佩琦).FaunaSinica,Osteichthyes,Cyp鄄[25]摇ShiW鄄L(史为良).BloomingandCultureofFishesin
+riniformes.芋.Beijing:SciencePress,2000(inChi鄄InlandWaters.Beijing:ChinaAgriculturePress,1997
+nese)(inChinese)
+[12]摇ZhuS鄄Q(朱松泉).SystematicSynopsisofChinese[26]摇DongC鄄Z(董崇智),JiangZ鄄F(姜作发).Fishery
+FreshwaterFishes.Nanjing:JiangsuScience&Tech鄄ResourcesinHeilongjiangRiver,SuifenheRiver,and
+nologyPress,1995(inChinese)XingkaiLake.Harbin:HeilognjiangScience&Technol鄄
+[13]摇QinL(覃摇林).StatisticalEcology.Beijing:ChinaogyPress,2004(inChinese)
+ForestryPress,2009(inChinese)[27]摇WuC鄄Z(吴承祯),HongW(洪摇伟
+[14]摇MaK鄄P(马克平).Measurementofbioticcommunity东进),HeD鄄J(何
+).Acalculatingmethodofthelognormaldistribu鄄
+diversity.玉.琢diversity(I).BiodiversityScience
+物多样性(生tionmodelofspeciesabundance.ChineseJournalofAp鄄
+),1994,2(3):162-168(inChinese)pliedandEnvironmentalBiology(应用与环境生物学
+[15]摇JiL鄄Z(姬兰柱),DongB鄄L(董百丽),WeiC鄄Y(魏报
+春艳),1998,4(4):409-413(inChinese)
+),etal.InsectspeciesdiversityinKoreanpine[28]摇W
+broad鄄leavedmixedforestinChangbaiMountains.Chi鄄淑u君C鄄Ze(吴承祯
+tal),HongW(洪摇伟),YanS鄄J(闫
+neseJournalofAppliedEcology),.Studyonspeciesabundancedistribution
+(应用生态学报),modeloftherareandendangeredplantTsugalongi鄄
+2004,15(9):1527-1530(inChinese)bracteatacommunity.ChineseJournalofEco鄄Agriculture
+[16]摇YeS鄄W(叶少文
+文宣),LiZ鄄J(李钟杰),CaoW鄄X(曹(中国生态农业学报),2004,12(4):167-169(in
+).Speciescomposition,diversityanddensityofChinese)
+sCmhainllesfeisJhoeusrninaltowfoAdpipffleierdenEtchoalobgityatsinNiushanLake.[29]摇ChenY鄄Y(陈宜瑜).TheFishesoftheHengduan
+(应用生态学报),MountainsRegion.Beijing:SciencePress,1998(in
+2007,18(7):1589-1598(inChinese)Chinese)
+[17]摇Huo作T鄄发B(霍堂斌),LiuM鄄H(刘曼红),JiangZ鄄F[30]摇MengQ鄄W(孟庆闻),SuJ鄄X(苏锦祥),MiaoX鄄Z
+(姜),etal.Macrobenthoscommunitystructureof(缪学祖).FishesTaxonomy.Beijing:ChinaAgricul鄄
+macrobenthosandbioassessmentofwaterqualityinmainturePress,1995(inChinese)
+streamofSonghuaRiver.ChineseJournalofApplied
+Ecology(应用生态学报),2012,23(1):247-254
+(inChinese)作者简介摇杨富亿,男,1964年生,研究员
+[18]摇SongT鄄.ac.主要从事湿地
+鱼类与渔业研究.E鄄mail:yangfuyi@neigae.cn
+剑X波(宋天祥),ZhangG鄄H(张国华),ChangJ鄄
+B责任编辑
+Ch(常
+ineseJourn)a,etal
+lofAp.pliFeidshEcdoivloegrsyityinHonghuLake.
+(应用生态学报),摇肖摇红
